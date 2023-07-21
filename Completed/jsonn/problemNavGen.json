@@ -1,0 +1,1263 @@
+[
+    {
+        "question": "(Refer to Figures 98 and 99.) To which aircraft position does HSI presentation\ncorrespond?\n\n",
+        "answer": "12\n",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (1).pdf",
+        "question_number": 24
+    },
+    {
+        "question": "(Refer to Figure 41.) If on a magnetic heading of 045 degrees, which ADF indicator\nwould show a magnetic bearing to the station of 090degrees?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (1).pdf",
+        "question_number": 27
+    },
+    {
+        "question": "(Refer to Figures 140 and 141.) To which aircraft position does HSI presentation\ncorrespond?\n\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (1).pdf",
+        "question_number": 28
+    },
+    {
+        "question": "(Refer to Figures 98 and 99.)\nTo which aircraft position does HSI presentation 'E\u2019 correspond?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "15\n",
+        "file_name": "NavGen\\nav atpl (1).pdf",
+        "question_number": 31
+    },
+    {
+        "question": "The ADF indicates a 5 degrees wingtip bearing change in 2.5 minutes\u2019 elapsed time. If\nthe true airspeed is 125 knots, the distance to the station would be\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "56.5 NM.\n",
+        "file_name": "NavGen\\nav atpl (1).pdf",
+        "question_number": 32
+    },
+    {
+        "question": "Given:\n\nAis N55\u00b0 000\u00b0\nBis N54\u00b0 E010\u00b0\nThe average true course of the great circle is 100\u00b0.\nThe true course of the rhumbline at point A\n\n",
+        "answer": "",
+        "choiceone": "096\u00b0\n",
+        "choicetwo": "",
+        "choicethree": "107\u00b0\n",
+        "file_name": "NavGen\\nav atpl (10).pdf",
+        "question_number": 10
+    },
+    {
+        "question": "An aircraft departs from position A (04\u00b010' S 178\u00b022'W) and flies northward following the\nmeridian for 2950 NM. It then flies westward along the parallel of latitude for 382 NM to\nion B.\n\nThe coordinates of position B are?\n\n",
+        "answer": "45\u00b000'N 172\u00b038'E\n",
+        "choiceone": "53\u00b020'N 169\u00b022W\n",
+        "choicetwo": "",
+        "choicethree": "53\u00b020'N 172\u00b038'E\n",
+        "file_name": "NavGen\\nav atpl (10).pdf",
+        "question_number": 13
+    },
+    {
+        "question": "Route A - B is drawn on a Polar Stereographic chart with the grid aligned with the\nGreenwich meridian. The True Track of the straight line at A (75\u00b0N, 010\u00b0W) is 080\u00b0. What\nis the Grid Track when passing the meridian 050\u00b0E?\n",
+        "answer": "",
+        "choiceone": "110\u00b0(G)\n",
+        "choicetwo": "070\u00b0(G)\n",
+        "choicethree": "150\u00b0(G)\n",
+        "file_name": "NavGen\\nav atpl (10).pdf",
+        "question_number": 15
+    },
+    {
+        "question": "(For this question refer to annex 061-12621A to 061-12638A)\nWhich aeronautical chart symbol indicates an exceptionally high unlighted obstacle?\n",
+        "answer": "13\n",
+        "choiceone": "14\n",
+        "choicetwo": "",
+        "choicethree": "11\n",
+        "file_name": "NavGen\\nav atpl (10).pdf",
+        "question_number": 17
+    },
+    {
+        "question": "Figure 140. HSI Presentation \u00a9 ASA\n",
+        "answer": "",
+        "choiceone": "Figure 141. Aircraft Position and Direction of Flight \u00a9 ASA\n",
+        "choicetwo": "(Refer to Figures 140 and 141.) To which aircraft\nposition does HSI presentation 'F' correspond?\n",
+        "choicethree": "11\n",
+        "file_name": "NavGen\\nav atpl (10).pdf",
+        "question_number": 24
+    },
+    {
+        "question": "(Refer to Figure 43.) Which RMI\nradial?\n\nicator shows you outbound on the 315 degrees\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (10).pdf",
+        "question_number": 27
+    },
+    {
+        "question": "(Refer to Figures 140 and 141.) To which aircraft position does HSI presentation\ncorrespond?\n\n",
+        "answer": "11\n",
+        "choiceone": "",
+        "choicetwo": "12\n",
+        "file_name": "NavGen\\nav atpl (10).pdf",
+        "question_number": 29
+    },
+    {
+        "question": "(Refer to Figure 43.) Which RMI indicator shows you crossing the 115 degrees radial?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (10).pdf",
+        "question_number": 30
+    },
+    {
+        "question": "The accuracy of the VOR radial is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (10).pdf",
+        "question_number": 37
+    },
+    {
+        "question": "How far will an aircraft travel in 2,1/2 minutes with a groundspeed of 98 knots?\n",
+        "answer": "",
+        "choiceone": "2.45 NM.\n",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (11).pdf",
+        "question_number": 5
+    },
+    {
+        "question": "Given:\nTrue Track 245\u00b0\nDrift 5\u00b0 right\nVariation SE\nCompass Hdg 242\u00b0\n\nCalculate the deviation.\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "choicethree": "117\u00b0 E\n",
+        "file_name": "NavGen\\nav atpl (11).pdf",
+        "question_number": 10
+    },
+    {
+        "question": "A carrier wave with amplitude of 5V is modulated by an aur\nof3V. The depth of modulation is:\n\nfrequency with amplitude\n",
+        "answer": "60%;\n",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (11).pdf",
+        "question_number": 24
+    },
+    {
+        "question": "An aircraft is flying on a heading of 270\u00b0(M). The VOR OBS is also set to 270\u00b0 with the full\nleft deflection and FROM flag displayed.\n\nIn which sector is the aircraft from the VOR ground station?\n",
+        "answer": "NW\n",
+        "choiceone": "",
+        "choicetwo": "",
+        "choicethree": "NE\n",
+        "file_name": "NavGen\\nav atpl (11).pdf",
+        "question_number": 37
+    },
+    {
+        "question": "Given:\n\nAis N55\u00b0 000\u00b0\nBis N54\u00b0 E010\u00b0\nThe average true course of the great circle is 100\u00b0.\nThe true course of the rhumbline at point A\n\n",
+        "answer": "",
+        "choiceone": "096\u00b0\n",
+        "choicetwo": "",
+        "choicethree": "107\u00b0\n",
+        "file_name": "NavGen\\nav atpl (12).pdf",
+        "question_number": 12
+    },
+    {
+        "question": "(For this question refer to annex 061-12614A to 061-12620A)\nWhich of the aeronautical chart symbols indicates a TACAN?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (12).pdf",
+        "question_number": 19
+    },
+    {
+        "question": "(Refer to Figures 142 and 143.) To which aircraft position does HSI presentation\ncorrespond?\n\n",
+        "answer": "17\n",
+        "choiceone": "",
+        "choicetwo": "15\n",
+        "file_name": "NavGen\\nav atpl (12).pdf",
+        "question_number": 25
+    },
+    {
+        "question": "(Refer to Figures 98 and 99.) To which aircraft position does HSI presentation\ncorrespond?\n\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "11\n",
+        "file_name": "NavGen\\nav atpl (12).pdf",
+        "question_number": 27
+    },
+    {
+        "question": "(Refer to Figure 43.) Which RMI\nstation?\n\nicator shows your position to be northwest of the\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (12).pdf",
+        "question_number": 28
+    },
+    {
+        "question": "(Refer to Figure 105.) If the magnetic heading shown for aircraft 3 is maintained, which\nADF illustration would indicate the aircraft is on the 120 degrees magnetic bearing TO\nthe station?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (12).pdf",
+        "question_number": 29
+    },
+    {
+        "question": "(Refer to Figures 96 and 97.)\nTo which aircraft position does HSI presentation 'F' correspond?\n",
+        "answer": "",
+        "choiceone": "11\n",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (12).pdf",
+        "question_number": 31
+    },
+    {
+        "question": "A carrier wave with amplitude of 5V is modulated by an aur\nof3V. The depth of modulation is:\n\nfrequency with amplitude\n",
+        "answer": "60%;\n",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (12).pdf",
+        "question_number": 33
+    },
+    {
+        "question": "An aircraft is flying from A to B a distance of 50 NM. The True course in the flight log is\n090\u00b0, the forecast wind is 225\u00b0(T)/15kt and the TAS is 120 kt. After 15 minutes of flying\nwith the planned TAS and TH the aircraft is 3 NM South of the intended track and 2.5 NM\nahead of the dead reckoning position.\n\nTo reach destination B from this position, the correction angle on the heading should\nbe:\n\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "5\u00b0\n",
+        "file_name": "NavGen\\nav atpl (13).pdf",
+        "question_number": 22
+    },
+    {
+        "question": "(Refer to Figure 41.) If on a magnetic heading of 045 degrees, which ADF indicator\nwould show a magnetic bearing to the station of 090degrees?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (13).pdf",
+        "question_number": 24
+    },
+    {
+        "question": "(Refer to Figure 42.) Which OMNI indication would you receive for aircraft 8?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (13).pdf",
+        "question_number": 25
+    },
+    {
+        "question": "(Refer to Figure 41.) If on a magnetic heading of 120 degrees, which ADF indicator\nwould show a magnetic bearing to the station of 210degrees?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (13).pdf",
+        "question_number": 28
+    },
+    {
+        "question": "If you are 30 miles from the NDB transmitter and the ADI\nhow many miles off course are you?\n\nicates 3 degrees off course,\n",
+        "answer": "1.5.\n",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (13).pdf",
+        "question_number": 30
+    },
+    {
+        "question": "Which DME ition should you receive when you are directly over a VORTAC site at\napproximately 6,000 feet AGL?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "1.3.\n",
+        "file_name": "NavGen\\nav atpl (13).pdf",
+        "question_number": 31
+    },
+    {
+        "question": "(Refer to Figure 43.) Which RMI indicator shows you crossing the 115 degrees radial?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (13).pdf",
+        "question_number": 32
+    },
+    {
+        "question": "(Refer to Figures 98 and 99.) To which aircraft position does HSI presentation\ncorrespond?\n\n",
+        "answer": "19\n",
+        "choiceone": "",
+        "choicetwo": "13\n",
+        "file_name": "NavGen\\nav atpl (13).pdf",
+        "question_number": 33
+    },
+    {
+        "question": "GGV AND PEV are 161 nm apart. Both are at 200 ft AMSL. At what mi\nwould an aircraft be able to receive both VORs?\n\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (13).pdf",
+        "question_number": 39
+    },
+    {
+        "question": "Given:\n\nAis N55\u00b0 000\u00b0\nBis N54\u00b0 E010\u00b0\nThe average true course of the great circle is 100\u00b0.\nThe true course of the rhumbline at point A\n\n",
+        "answer": "",
+        "choiceone": "096\u00b0\n",
+        "choicetwo": "",
+        "choicethree": "107\u00b0\n",
+        "file_name": "NavGen\\nav atpl (14).pdf",
+        "question_number": 10
+    },
+    {
+        "question": "An aircraft departs from position A (04\u00b010' S 178\u00b022'W) and flies northward following the\nmeridian for 2950 NM. It then flies westward along the parallel of latitude for 382 NM to\nion B.\n\nThe coordinates of position B are?\n\n",
+        "answer": "45\u00b000'N 172\u00b038'E\n",
+        "choiceone": "53\u00b020'N 169\u00b022W\n",
+        "choicetwo": "",
+        "choicethree": "53\u00b020'N 172\u00b038'E\n",
+        "file_name": "NavGen\\nav atpl (14).pdf",
+        "question_number": 12
+    },
+    {
+        "question": "(Refer to Figures 140 and 141.) To which aircraft position does HSI presentation\ncorrespond?\n\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "10\n",
+        "file_name": "NavGen\\nav atpl (14).pdf",
+        "question_number": 24
+    },
+    {
+        "question": "(Refer to Figures 98 and 99.) To which aircraft position does HSI presentation\ncorrespond?\n\n",
+        "answer": "12\n",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (14).pdf",
+        "question_number": 27
+    },
+    {
+        "question": "(Refer to Figure 105.) If the magnetic heading shown for aircraft 6 is maintained, which\nADF illustration would indicate the aircraft is on the 255 degrees magnetic bearing\nFROM the station?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (14).pdf",
+        "question_number": 28
+    },
+    {
+        "question": "(Refer to Figure 43.) Which RMI indicator shows you crossing the 115 degrees radial?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (14).pdf",
+        "question_number": 30
+    },
+    {
+        "question": "(Refer to Figure 100.) Which RMI illustration indicates the aircraft to be flying outbound\non the magnetic bearing of 235degrees FROM the station?\n(Wind 050degrees at 20 knots.)\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (14).pdf",
+        "question_number": 31
+    },
+    {
+        "question": "How far will an aircraft travel in 2,1/2 minutes with a groundspeed of 98 knots?\n",
+        "answer": "",
+        "choiceone": "2.45 NM.\n",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (15).pdf",
+        "question_number": 5
+    },
+    {
+        "question": "Given:\nTrue Track 245\u00b0\nDrift 5\u00b0 right\nVariation SE\nCompass Hdg 242\u00b0\n\nCalculate the deviation.\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "choicethree": "117\u00b0 E\n",
+        "file_name": "NavGen\\nav atpl (15).pdf",
+        "question_number": 8
+    },
+    {
+        "question": "(Refer to Figure 104.) If the radio magnetic indicator is tuned to a VOR, whi\nindicates the aircraft is on the 115degrees radial?\n\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (15).pdf",
+        "question_number": 16
+    },
+    {
+        "question": "Figure 140. HSI Presentation \u00a9 ASA\n",
+        "answer": "",
+        "choiceone": "Figure 141. Aircraft Position and Direction of Flight \u00a9 ASA\n",
+        "choicetwo": "(Refer to Figures 140 and 141.) To which aircraft\nposition does HSI presentation 'F' correspond?\n",
+        "choicethree": "11\n",
+        "file_name": "NavGen\\nav atpl (15).pdf",
+        "question_number": 17
+    },
+    {
+        "question": "An aircraft is flying on a heading of 270\u00b0(M). The VOR OBS is also set to 270\u00b0 with the full\nleft deflection and FROM flag displayed.\n\nIn which sector is the aircraft from the VOR ground station?\n",
+        "answer": "NW\n",
+        "choiceone": "",
+        "choicetwo": "",
+        "choicethree": "NE\n",
+        "file_name": "NavGen\\nav atpl (15).pdf",
+        "question_number": 36
+    },
+    {
+        "question": "The accuracy of the VOR radial is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (15).pdf",
+        "question_number": 39
+    },
+    {
+        "question": "Figure 140. HSI Presentation \u00a9 ASA\n",
+        "answer": "",
+        "choiceone": "Figure 141. Aircraft Position and Direction of Flight \u00a9 ASA\n",
+        "choicetwo": "(Refer to Figures 140 and 141.) To which aircraft\nposition does HSI presentation 'F' correspond?\n",
+        "choicethree": "11\n",
+        "file_name": "NavGen\\nav atpl (16).pdf",
+        "question_number": 17
+    },
+    {
+        "question": "(Refer to Figure 104.) If the radio magnetic indicator is tuned to a VOR, whi\nindicates the aircraft is on the 115degrees radial?\n\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (16).pdf",
+        "question_number": 21
+    },
+    {
+        "question": "A carrier wave with amplitude of 5V is modulated by an aur\nof3V. The depth of modulation is:\n\nfrequency with amplitude\n",
+        "answer": "60%;\n",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (16).pdf",
+        "question_number": 25
+    },
+    {
+        "question": "An aircraft is flying on a heading of 270\u00b0(M). The VOR OBS is also set to 270\u00b0 with the full\nleft deflection and FROM flag displayed.\n\nIn which sector is the aircraft from the VOR ground station?\n",
+        "answer": "NW\n",
+        "choiceone": "",
+        "choicetwo": "",
+        "choicethree": "NE\n",
+        "file_name": "NavGen\\nav atpl (16).pdf",
+        "question_number": 36
+    },
+    {
+        "question": "The accuracy of the VOR radial is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (16).pdf",
+        "question_number": 38
+    },
+    {
+        "question": "Given:\nTrue Track 245\u00b0\nDrift 5\u00b0 right\nVariation SE\nCompass Hdg 242\u00b0\n\nCalculate the deviation.\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "choicethree": "117\u00b0 E\n",
+        "file_name": "NavGen\\nav atpl (17).pdf",
+        "question_number": 11
+    },
+    {
+        "question": "Figure 140. HSI Presentation \u00a9 ASA\n",
+        "answer": "",
+        "choiceone": "Figure 141. Aircraft Position and Direction of Flight \u00a9 ASA\n",
+        "choicetwo": "(Refer to Figures 140 and 141.) To which aircraft\nposition does HSI presentation 'F' correspond?\n",
+        "choicethree": "11\n",
+        "file_name": "NavGen\\nav atpl (17).pdf",
+        "question_number": 15
+    },
+    {
+        "question": "(Refer to Figure 104.) If the radio magnetic indicator is tuned to a VOR, whi\nindicates the aircraft is on the 115degrees radial?\n\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (17).pdf",
+        "question_number": 17
+    },
+    {
+        "question": "An aircraft is flying on a heading of 270\u00b0(M). The VOR OBS is also set to 270\u00b0 with the full\nleft deflection and FROM flag displayed.\n\nIn which sector is the aircraft from the VOR ground station?\n",
+        "answer": "NW\n",
+        "choiceone": "",
+        "choicetwo": "",
+        "choicethree": "NE\n",
+        "file_name": "NavGen\\nav atpl (17).pdf",
+        "question_number": 35
+    },
+    {
+        "question": "(Refer to Figures 98 and 99.)\nTo which aircraft position does HSI presentation 'D' correspond?\n",
+        "answer": "17\n",
+        "choiceone": "",
+        "choicetwo": "15\n",
+        "file_name": "NavGen\\nav atpl (18).pdf",
+        "question_number": 24
+    },
+    {
+        "question": "Which DME ition should you receive when you are directly over a VORTAC site at\napproximately 6,000 feet AGL?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "1.3.\n",
+        "file_name": "NavGen\\nav atpl (18).pdf",
+        "question_number": 27
+    },
+    {
+        "question": "(Refer to Figure 100.) Which RMI illustration\nstation and moving closer TO the station?\n\nicates the aircraft is southwest of the\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (18).pdf",
+        "question_number": 28
+    },
+    {
+        "question": "(Refer to Figures 96 and 97.)\nTo which aircraft position does HSI presentation 'F' correspond?\n",
+        "answer": "",
+        "choiceone": "11\n",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (18).pdf",
+        "question_number": 29
+    },
+    {
+        "question": "(Refer to Figures 98 and 99.) To which aircraft position does HSI presentation\ncorrespond?\n\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "11\n",
+        "file_name": "NavGen\\nav atpl (18).pdf",
+        "question_number": 32
+    },
+    {
+        "question": "According to ICAO Annex 10, in which frequency band(s) does a locator normally\ntransmit?\n",
+        "answer": "LF/MF\n",
+        "choiceone": "",
+        "choicetwo": "HF\n",
+        "file_name": "NavGen\\nav atpl (18).pdf",
+        "question_number": 37
+    },
+    {
+        "question": "(For this question refer to annex 061-12621A to 061-12638A)\nWhich aeronautical chart symbol indicates an exceptionally high unlighted obstacle?\n",
+        "answer": "13\n",
+        "choiceone": "14\n",
+        "choicetwo": "",
+        "choicethree": "11\n",
+        "file_name": "NavGen\\nav atpl (19).pdf",
+        "question_number": 15
+    },
+    {
+        "question": "An aircraft is flying from A to B a distance of 50 NM. The True course in the flight log is\n090\u00b0, the forecast wind is 225\u00b0(T)/15kt and the TAS is 120 kt. After 15 minutes of flying\nwith the planned TAS and TH the aircraft is 3 NM South of the intended track and 2.5 NM\nahead of the dead reckoning position.\n\nTo reach destination B from this position, the correction angle on the heading should\nbe:\n\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "5\u00b0\n",
+        "file_name": "NavGen\\nav atpl (19).pdf",
+        "question_number": 22
+    },
+    {
+        "question": "(Refer to Figures 96 and 97.)\nTo which aircraft position does HSI presentation '' correspond?\n",
+        "answer": "11\n",
+        "choiceone": "",
+        "choicetwo": "12\n",
+        "file_name": "NavGen\\nav atpl (19).pdf",
+        "question_number": 29
+    },
+    {
+        "question": "A radio wave which is modulated at a single audible frequency is classified as:\n",
+        "answer": "",
+        "choiceone": "A1A\n",
+        "choicetwo": "A3E\n",
+        "file_name": "NavGen\\nav atpl (19).pdf",
+        "question_number": 32
+    },
+    {
+        "question": "GGV AND PEV are 161 nm apart. Both are at 200 ft AMSL. At what mi\nwould an aircraft be able to receive both VORs?\n\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (19).pdf",
+        "question_number": 39
+    },
+    {
+        "question": "Given:\n\nAis N55\u00b0 000\u00b0\nBis N54\u00b0 E010\u00b0\nThe average true course of the great circle is 100\u00b0.\nThe true course of the rhumbline at point A\n\n",
+        "answer": "",
+        "choiceone": "096\u00b0\n",
+        "choicetwo": "",
+        "choicethree": "107\u00b0\n",
+        "file_name": "NavGen\\nav atpl (2).pdf",
+        "question_number": 11
+    },
+    {
+        "question": "An aircraft departs from position A (04\u00b010' S 178\u00b022'W) and flies northward following the\nmeridian for 2950 NM. It then flies westward along the parallel of latitude for 382 NM to\nion B.\n\nThe coordinates of position B are?\n\n",
+        "answer": "45\u00b000'N 172\u00b038'E\n",
+        "choiceone": "53\u00b020'N 169\u00b022W\n",
+        "choicetwo": "",
+        "choicethree": "53\u00b020'N 172\u00b038'E\n",
+        "file_name": "NavGen\\nav atpl (2).pdf",
+        "question_number": 12
+    },
+    {
+        "question": "(For this question refer to annex 061-12621A to 061-12638A)\nWhich aeronautical chart symbol indicates an exceptionally high unlighted obstacle?\n",
+        "answer": "13\n",
+        "choiceone": "14\n",
+        "choicetwo": "",
+        "choicethree": "11\n",
+        "file_name": "NavGen\\nav atpl (2).pdf",
+        "question_number": 17
+    },
+    {
+        "question": "(Refer to Figure 105.) If the magnetic heading shown for aircraft 4 is maintained, which\nADF illustration would indicate the aircraft is on the 135 degrees magnetic bearing TO\nthe station?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (2).pdf",
+        "question_number": 26
+    },
+    {
+        "question": "The bending of a radio wave by the Earth's surface is greatest on:\n",
+        "answer": "VLF;\n",
+        "choiceone": "LF;\n",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (2).pdf",
+        "question_number": 27
+    },
+    {
+        "question": "(Refer to Figure 105.) If the magnetic heading shown for aircraft 2 is maintained, which\nADF illustration would indicate the aircraft is on the 255 degrees magnetic bearing TO\nthe station?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (2).pdf",
+        "question_number": 28
+    },
+    {
+        "question": "(Refer to Figure 43.) Which RMI indicator shows you crossing the 115 degrees radial?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (2).pdf",
+        "question_number": 29
+    },
+    {
+        "question": "Which DME ition should you receive when you are directly over a VORTAC site at\napproximately 6,000 feet AGL?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "1.3.\n",
+        "file_name": "NavGen\\nav atpl (2).pdf",
+        "question_number": 31
+    },
+    {
+        "question": "(Refer to Figure 100.) Which RMI illustration\nstation and moving closer TO the station?\n\nicates the aircraft is southwest of the\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (2).pdf",
+        "question_number": 32
+    },
+    {
+        "question": "The inbound track to a NDB is 045(T), variation 10W and drift 7 right. What is the RMI\nreading?\n",
+        "answer": "",
+        "choiceone": "38\n",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (2).pdf",
+        "question_number": 37
+    },
+    {
+        "question": "Given:\nTrue Track 245\u00b0\nDrift 5\u00b0 right\nVariation SE\nCompass Hdg 242\u00b0\n\nCalculate the deviation.\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "choicethree": "117\u00b0 E\n",
+        "file_name": "NavGen\\nav atpl (20).pdf",
+        "question_number": 10
+    },
+    {
+        "question": "A carrier wave with amplitude of 5V is modulated by an aur\nof3V. The depth of modulation is:\n\nfrequency with amplitude\n",
+        "answer": "60%;\n",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (20).pdf",
+        "question_number": 23
+    },
+    {
+        "question": "An aircraft is flying on a heading of 270\u00b0(M). The VOR OBS is also set to 270\u00b0 with the full\nleft deflection and FROM flag displayed.\n\nIn which sector is the aircraft from the VOR ground station?\n",
+        "answer": "NW\n",
+        "choiceone": "",
+        "choicetwo": "",
+        "choicethree": "NE\n",
+        "file_name": "NavGen\\nav atpl (20).pdf",
+        "question_number": 35
+    },
+    {
+        "question": "The accuracy of the VOR radial is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (20).pdf",
+        "question_number": 38
+    },
+    {
+        "question": "(Refer to Figure 104.) If the radio magnetic indicator is tuned to a VOR, whi\nindicates the aircraft is on the 115degrees radial?\n\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (21).pdf",
+        "question_number": 14
+    },
+    {
+        "question": "Figure 140. HSI Presentation \u00a9 ASA\n",
+        "answer": "",
+        "choiceone": "Figure 141. Aircraft Position and Direction of Flight \u00a9 ASA\n",
+        "choicetwo": "(Refer to Figures 140 and 141.) To which aircraft\nposition does HSI presentation 'F' correspond?\n",
+        "choicethree": "11\n",
+        "file_name": "NavGen\\nav atpl (21).pdf",
+        "question_number": 15
+    },
+    {
+        "question": "An aircraft is flying on a heading of 270\u00b0(M). The VOR OBS is also set to 270\u00b0 with the full\nleft deflection and FROM flag displayed.\n\nIn which sector is the aircraft from the VOR ground station?\n",
+        "answer": "NW\n",
+        "choiceone": "",
+        "choicetwo": "",
+        "choicethree": "NE\n",
+        "file_name": "NavGen\\nav atpl (21).pdf",
+        "question_number": 37
+    },
+    {
+        "question": "The accuracy of the VOR radial is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (21).pdf",
+        "question_number": 39
+    },
+    {
+        "question": "(For this question refer to annex 061-12621A to 061-12638A)\nWhich aeronautical chart symbol indicates an exceptionally high unlighted obstacle?\n",
+        "answer": "13\n",
+        "choiceone": "14\n",
+        "choicetwo": "",
+        "choicethree": "11\n",
+        "file_name": "NavGen\\nav atpl (22).pdf",
+        "question_number": 9
+    },
+    {
+        "question": "Figure 140. HSI Presentation \u00a9 ASA\n",
+        "answer": "",
+        "choiceone": "Figure 141. Aircraft Position and Direction of Flight \u00a9 ASA\n",
+        "choicetwo": "(Refer to Figures 140 and 141.) To which aircraft\nposition does HSI presentation 'F' correspond?\n",
+        "choicethree": "11\n",
+        "file_name": "NavGen\\nav atpl (22).pdf",
+        "question_number": 19
+    },
+    {
+        "question": "An aircraft is flying on a heading of 270\u00b0(M). The VOR OBS is also set to 270\u00b0 with the full\nleft deflection and FROM flag displayed.\n\nIn which sector is the aircraft from the VOR ground station?\n",
+        "answer": "NW\n",
+        "choiceone": "",
+        "choicetwo": "",
+        "choicethree": "NE\n",
+        "file_name": "NavGen\\nav atpl (22).pdf",
+        "question_number": 36
+    },
+    {
+        "question": "The accuracy of the VOR radial is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (22).pdf",
+        "question_number": 39
+    },
+    {
+        "question": "How far will an aircraft travel in 2,1/2 minutes with a groundspeed of 98 knots?\n",
+        "answer": "",
+        "choiceone": "2.45 NM.\n",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (23).pdf",
+        "question_number": 5
+    },
+    {
+        "question": "Figure 140. HSI Presentation \u00a9 ASA\n",
+        "answer": "",
+        "choiceone": "Figure 141. Aircraft Position and Direction of Flight \u00a9 ASA\n",
+        "choicetwo": "(Refer to Figures 140 and 141.) To which aircraft\nposition does HSI presentation 'F' correspond?\n",
+        "choicethree": "11\n",
+        "file_name": "NavGen\\nav atpl (23).pdf",
+        "question_number": 20
+    },
+    {
+        "question": "(Refer to Figure 104.) If the radio magnetic indicator is tuned to a VOR, whi\nindicates the aircraft is on the 115degrees radial?\n\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (23).pdf",
+        "question_number": 21
+    },
+    {
+        "question": "A carrier wave with amplitude of 5V is modulated by an aur\nof3V. The depth of modulation is:\n\nfrequency with amplitude\n",
+        "answer": "60%;\n",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (23).pdf",
+        "question_number": 25
+    },
+    {
+        "question": "An aircraft is flying on a heading of 270\u00b0(M). The VOR OBS is also set to 270\u00b0 with the full\nleft deflection and FROM flag displayed.\n\nIn which sector is the aircraft from the VOR ground station?\n",
+        "answer": "NW\n",
+        "choiceone": "",
+        "choicetwo": "",
+        "choicethree": "NE\n",
+        "file_name": "NavGen\\nav atpl (23).pdf",
+        "question_number": 36
+    },
+    {
+        "question": "How far will an aircraft travel in 2,1/2 minutes with a groundspeed of 98 knots?\n",
+        "answer": "",
+        "choiceone": "2.45 NM.\n",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (24).pdf",
+        "question_number": 4
+    },
+    {
+        "question": "(For this question refer to annex 061-12621A to 061-12638A)\nWhich aeronautical chart symbol indicates an exceptionally high unlighted obstacle?\n",
+        "answer": "13\n",
+        "choiceone": "14\n",
+        "choicetwo": "",
+        "choicethree": "11\n",
+        "file_name": "NavGen\\nav atpl (24).pdf",
+        "question_number": 9
+    },
+    {
+        "question": "Given:\nTrue Track 245\u00b0\nDrift 5\u00b0 right\nVariation SE\nCompass Hdg 242\u00b0\n\nCalculate the deviation.\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "choicethree": "117\u00b0 E\n",
+        "file_name": "NavGen\\nav atpl (24).pdf",
+        "question_number": 10
+    },
+    {
+        "question": "(Refer to Figure 104.) If the radio magnetic indicator is tuned to a VOR, whi\nindicates the aircraft is on the 115degrees radial?\n\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (24).pdf",
+        "question_number": 15
+    },
+    {
+        "question": "Figure 140. HSI Presentation \u00a9 ASA\n",
+        "answer": "",
+        "choiceone": "Figure 141. Aircraft Position and Direction of Flight \u00a9 ASA\n",
+        "choicetwo": "(Refer to Figures 140 and 141.) To which aircraft\nposition does HSI presentation 'F' correspond?\n",
+        "choicethree": "11\n",
+        "file_name": "NavGen\\nav atpl (24).pdf",
+        "question_number": 19
+    },
+    {
+        "question": "A carrier wave with amplitude of 5V is modulated by an aur\nof3V. The depth of modulation is:\n\nfrequency with amplitude\n",
+        "answer": "60%;\n",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (24).pdf",
+        "question_number": 26
+    },
+    {
+        "question": "The accuracy of the VOR radial is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (24).pdf",
+        "question_number": 38
+    },
+    {
+        "question": "An aircraft departs from position A (04\u00b010' S 178\u00b022'W) and flies northward following the\nmeridian for 2950 NM. It then flies westward along the parallel of latitude for 382 NM to\nion B.\n\nThe coordinates of position B are?\n\n",
+        "answer": "45\u00b000'N 172\u00b038'E\n",
+        "choiceone": "53\u00b020'N 169\u00b022W\n",
+        "choicetwo": "",
+        "choicethree": "53\u00b020'N 172\u00b038'E\n",
+        "file_name": "NavGen\\nav atpl (25).pdf",
+        "question_number": 12
+    },
+    {
+        "question": "Route A - B is drawn on a Polar Stereographic chart with the grid aligned with the\nGreenwich meridian. The True Track of the straight line at A (75\u00b0N, 010\u00b0W) is 080\u00b0. What\nis the Grid Track when passing the meridian 050\u00b0E?\n",
+        "answer": "",
+        "choiceone": "110\u00b0(G)\n",
+        "choicetwo": "070\u00b0(G)\n",
+        "choicethree": "150\u00b0(G)\n",
+        "file_name": "NavGen\\nav atpl (25).pdf",
+        "question_number": 16
+    },
+    {
+        "question": "(For this question refer to annex 061-12614A to 061-12620A)\nWhich of the aeronautical chart symbols indicates a TACAN?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (25).pdf",
+        "question_number": 18
+    },
+    {
+        "question": "(Refer to Figures 140 and 141.) To which aircraft position does HSI presentation\ncorrespond?\n\n",
+        "answer": "11\n",
+        "choiceone": "",
+        "choicetwo": "12\n",
+        "file_name": "NavGen\\nav atpl (25).pdf",
+        "question_number": 25
+    },
+    {
+        "question": "When using VOT to make a VOR receiver check, the CDI should be centered and the\nOBS should indicate that the aircraft is on the\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (25).pdf",
+        "question_number": 26
+    },
+    {
+        "question": "The bending of a radio wave by the Earth's surface is greatest on:\n",
+        "answer": "VLF;\n",
+        "choiceone": "LF;\n",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (25).pdf",
+        "question_number": 27
+    },
+    {
+        "question": "The inbound track to a NDB is 045(T), variation 10W and drift 7 right. What is the RMI\nreading?\n",
+        "answer": "",
+        "choiceone": "38\n",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (25).pdf",
+        "question_number": 36
+    },
+    {
+        "question": "The heading is 280(M) on a bearing of 090(M) from a VOR. What bearing should you\nselect on the OBS in order to centralise the CDI with a TO indication?\n\n",
+        "answer": "270\n",
+        "choiceone": "280\n",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (25).pdf",
+        "question_number": 38
+    },
+    {
+        "question": "(For this question refer to annex 061-12614A to 061-12620A)\nWhich of the aeronautical chart symbols indicates a TACAN?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (3).pdf",
+        "question_number": 15
+    },
+    {
+        "question": "(Refer to Figures 140 and 141.) To which aircraft position does HSI presentation\ncorrespond?\n\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "10\n",
+        "file_name": "NavGen\\nav atpl (3).pdf",
+        "question_number": 25
+    },
+    {
+        "question": "(Refer to Figure 100.) Which RMI illustration icates the aircraft is located on the 055\ndegrees radial of the station and heading away from the station?\n\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (3).pdf",
+        "question_number": 27
+    },
+    {
+        "question": "(Refer to Figures 96 and 97.) To which aircraft position does HSI presentation\ncorrespond?\n\n",
+        "answer": "12\n",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (3).pdf",
+        "question_number": 29
+    },
+    {
+        "question": "(Refer to Figure 43.) Which RMI indicator shows you crossing the 115 degrees radial?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (3).pdf",
+        "question_number": 31
+    },
+    {
+        "question": "(Refer to Figures 96 and 97.)\nTo which aircraft position does HSI presentation 'D' correspond?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "10\n",
+        "file_name": "NavGen\\nav atpl (3).pdf",
+        "question_number": 32
+    },
+    {
+        "question": "Given:\n\nAis N55\u00b0 000\u00b0\nBis N54\u00b0 E010\u00b0\nThe average true course of the great circle is 100\u00b0.\nThe true course of the rhumbline at point A\n\n",
+        "answer": "",
+        "choiceone": "096\u00b0\n",
+        "choicetwo": "",
+        "choicethree": "107\u00b0\n",
+        "file_name": "NavGen\\nav atpl (4).pdf",
+        "question_number": 11
+    },
+    {
+        "question": "(For this question refer to annex 061-12621A to 061-12638A)\nWhich aeronautical chart symbol indicates an exceptionally high unlighted obstacle?\n",
+        "answer": "13\n",
+        "choiceone": "14\n",
+        "choicetwo": "",
+        "choicethree": "11\n",
+        "file_name": "NavGen\\nav atpl (4).pdf",
+        "question_number": 15
+    },
+    {
+        "question": "(Refer to Figure 100.) Which RMI illustration icates the aircraft is located on the 055\ndegrees radial of the station and heading away from the station?\n\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (4).pdf",
+        "question_number": 25
+    },
+    {
+        "question": "(Refer to Figures 140 and 141.) To which aircraft position does HSI presentation\ncorrespond?\n\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "10\n",
+        "file_name": "NavGen\\nav atpl (4).pdf",
+        "question_number": 28
+    },
+    {
+        "question": "A radio wave which is modulated at a single audible frequency is classified as:\n",
+        "answer": "",
+        "choiceone": "A1A\n",
+        "choicetwo": "A3E\n",
+        "file_name": "NavGen\\nav atpl (4).pdf",
+        "question_number": 29
+    },
+    {
+        "question": "The accuracy of the VOR radial is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (4).pdf",
+        "question_number": 35
+    },
+    {
+        "question": "How far will an aircraft travel in 2,1/2 minutes with a groundspeed of 98 knots?\n",
+        "answer": "",
+        "choiceone": "2.45 NM.\n",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (5).pdf",
+        "question_number": 5
+    },
+    {
+        "question": "(For this question refer to annex 061-12621A to 061-12638A)\nWhich aeronautical chart symbol indicates an exceptionally high unlighted obstacle?\n",
+        "answer": "13\n",
+        "choiceone": "14\n",
+        "choicetwo": "",
+        "choicethree": "11\n",
+        "file_name": "NavGen\\nav atpl (5).pdf",
+        "question_number": 10
+    },
+    {
+        "question": "An aircraft is flying from A to B a distance of 50 NM. The True course in the flight log is\n090\u00b0, the forecast wind is 225\u00b0(T)/15kt and the TAS is 120 kt. After 15 minutes of flying\nwith the planned TAS and TH the aircraft is 3 NM South of the intended track and 2.5 NM\nahead of the dead reckoning position.\n\nTo reach destination B from this position, the correction angle on the heading should\nbe:\n\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "5\u00b0\n",
+        "file_name": "NavGen\\nav atpl (5).pdf",
+        "question_number": 13
+    },
+    {
+        "question": "(Refer to Figure 104.) If the radio magnetic indicator is tuned to a VOR, whi\nindicates the aircraft is on the 115degrees radial?\n\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (5).pdf",
+        "question_number": 19
+    },
+    {
+        "question": "A carrier wave with amplitude of 5V is modulated by an aur\nof3V. The depth of modulation is:\n\nfrequency with amplitude\n",
+        "answer": "60%;\n",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (5).pdf",
+        "question_number": 27
+    },
+    {
+        "question": "The accuracy of the VOR radial is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (5).pdf",
+        "question_number": 37
+    },
+    {
+        "question": "(Refer to Figure 104.) If the radio magnetic indicator is tuned to a VOR, whi\nindicates the aircraft is on the 115degrees radial?\n\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (6).pdf",
+        "question_number": 19
+    },
+    {
+        "question": "A carrier wave with amplitude of 5V is modulated by an aur\nof3V. The depth of modulation is:\n\nfrequency with amplitude\n",
+        "answer": "60%;\n",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (6).pdf",
+        "question_number": 25
+    },
+    {
+        "question": "An aircraft is flying on a heading of 270\u00b0(M). The VOR OBS is also set to 270\u00b0 with the full\nleft deflection and FROM flag displayed.\n\nIn which sector is the aircraft from the VOR ground station?\n",
+        "answer": "NW\n",
+        "choiceone": "",
+        "choicetwo": "",
+        "choicethree": "NE\n",
+        "file_name": "NavGen\\nav atpl (6).pdf",
+        "question_number": 35
+    },
+    {
+        "question": "The accuracy of the VOR radial is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (6).pdf",
+        "question_number": 38
+    },
+    {
+        "question": "An aircraft departs from position A (04\u00b010' S 178\u00b022'W) and flies northward following the\nmeridian for 2950 NM. It then flies westward along the parallel of latitude for 382 NM to\nion B.\n\nThe coordinates of position B are?\n\n",
+        "answer": "45\u00b000'N 172\u00b038'E\n",
+        "choiceone": "53\u00b020'N 169\u00b022W\n",
+        "choicetwo": "",
+        "choicethree": "53\u00b020'N 172\u00b038'E\n",
+        "file_name": "NavGen\\nav atpl (7).pdf",
+        "question_number": 14
+    },
+    {
+        "question": "(For this question refer to annex 061-12614A to 061-12620A)\nWhich of the aeronautical chart symbols indicates a TACAN?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (7).pdf",
+        "question_number": 18
+    },
+    {
+        "question": "When using VOT to make a VOR receiver check, the CDI should be centered and the\nOBS should indicate that the aircraft is on the\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (7).pdf",
+        "question_number": 25
+    },
+    {
+        "question": "(Refer to Figures 98 and 99.)\nTo which aircraft position does HSI presentation 'E\u2019 correspond?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "15\n",
+        "file_name": "NavGen\\nav atpl (7).pdf",
+        "question_number": 27
+    },
+    {
+        "question": "(Refer to Figure 105.) If the magnetic heading shown for aircraft 2 is maintained, which\nADF illustration would indicate the aircraft is on the 255 degrees magnetic bearing TO\nthe station?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (7).pdf",
+        "question_number": 28
+    },
+    {
+        "question": "(Refer to Figure 105.) If the magnetic heading shown for aircraft 5 is maintained, which\nADF illustration would indicate the aircraft is on the 240 degrees magnetic bearing TO\nthe station?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (7).pdf",
+        "question_number": 30
+    },
+    {
+        "question": "(Refer to Figure 106.) The course selector of each aircraft is set on 360 degrees. Which\naircraft would have a FROM indication on the TO/FROM ication and the CDI pointing\nleft of center?\n\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (7).pdf",
+        "question_number": 31
+    },
+    {
+        "question": "Which of the following radio emi\nidentification?\n\nions require a BFO to make it audible for\n\n",
+        "answer": "A1A\n",
+        "choiceone": "A3E\n",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (7).pdf",
+        "question_number": 35
+    },
+    {
+        "question": "The heading is 280(M) on a bearing of 090(M) from a VOR. What bearing should you\nselect on the OBS in order to centralise the CDI with a TO indication?\n\n",
+        "answer": "270\n",
+        "choiceone": "280\n",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (7).pdf",
+        "question_number": 40
+    },
+    {
+        "question": "An aircraft departs from position A (04\u00b010' S 178\u00b022'W) and flies northward following the\nmeridian for 2950 NM. It then flies westward along the parallel of latitude for 382 NM to\nion B.\n\nThe coordinates of position B are?\n\n",
+        "answer": "45\u00b000'N 172\u00b038'E\n",
+        "choiceone": "53\u00b020'N 169\u00b022W\n",
+        "choicetwo": "",
+        "choicethree": "53\u00b020'N 172\u00b038'E\n",
+        "file_name": "NavGen\\nav atpl (8).pdf",
+        "question_number": 11
+    },
+    {
+        "question": "(For this question refer to annex 061-12614A to 061-12620A)\nWhich of the aeronautical chart symbols indicates a TACAN?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (8).pdf",
+        "question_number": 16
+    },
+    {
+        "question": "(For this question refer to annex 061-12621A to 061-12638A)\nWhich aeronautical chart symbol indicates an exceptionally high unlighted obstacle?\n",
+        "answer": "13\n",
+        "choiceone": "14\n",
+        "choicetwo": "",
+        "choicethree": "11\n",
+        "file_name": "NavGen\\nav atpl (8).pdf",
+        "question_number": 17
+    },
+    {
+        "question": "(Refer to Figure 100.) Which RMI illustration\nstation and moving closer TO the station?\n\nicates the aircraft is southwest of the\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (8).pdf",
+        "question_number": 27
+    },
+    {
+        "question": "(Refer to Figure 43.) Which RMI indicator shows you crossing the 115 degrees radial?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (8).pdf",
+        "question_number": 30
+    },
+    {
+        "question": "(Refer to Figures 98 and 99.) To which aircraft position does HSI presentation\ncorrespond?\n\n",
+        "answer": "19\n",
+        "choiceone": "",
+        "choicetwo": "13\n",
+        "file_name": "NavGen\\nav atpl (8).pdf",
+        "question_number": 31
+    },
+    {
+        "question": "An aircraft departs from position A (04\u00b010' S 178\u00b022'W) and flies northward following the\nmeridian for 2950 NM. It then flies westward along the parallel of latitude for 382 NM to\nion B.\n\nThe coordinates of position B are?\n\n",
+        "answer": "45\u00b000'N 172\u00b038'E\n",
+        "choiceone": "53\u00b020'N 169\u00b022W\n",
+        "choicetwo": "",
+        "choicethree": "53\u00b020'N 172\u00b038'E\n",
+        "file_name": "NavGen\\nav atpl (9).pdf",
+        "question_number": 13
+    },
+    {
+        "question": "(For this question refer to annex 061-12621A to 061-12638A)\nWhich aeronautical chart symbol indicates an exceptionally high unlighted obstacle?\n",
+        "answer": "13\n",
+        "choiceone": "14\n",
+        "choicetwo": "",
+        "choicethree": "11\n",
+        "file_name": "NavGen\\nav atpl (9).pdf",
+        "question_number": 18
+    },
+    {
+        "question": "(Refer to Figures 142 and 143.) To which aircraft position does HSI presentation\ncorrespond?\n\n",
+        "answer": "17\n",
+        "choiceone": "",
+        "choicetwo": "15\n",
+        "file_name": "NavGen\\nav atpl (9).pdf",
+        "question_number": 30
+    },
+    {
+        "question": "When using VOT to make a VOR receiver check, the CDI should be centered and the\nOBS should indicate that the aircraft is on the\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (9).pdf",
+        "question_number": 31
+    },
+    {
+        "question": "To double the range of an NDB the transmission power must be increased by a factor\nof:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "NavGen\\nav atpl (9).pdf",
+        "question_number": 35
+    }
+]

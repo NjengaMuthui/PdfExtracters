@@ -1,0 +1,3114 @@
+[
+    {
+        "question": "Fuel enters a two-cycle engine through an\n",
+        "answer": "intake port and intake valve.\n",
+        "choiceone": "intake port and reed valve.\n",
+        "choicetwo": "intake valve and reed valve.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "The formation of ice in a carburetor's throat is indicated by\n",
+        "answer": "a drop in RPM, followed by rough engine operation.\n",
+        "choiceone": "rough engine operation, followed by a decrease in oil pressure.\n",
+        "choicetwo": "a rapid increase in RPM, followed by rough engine operation.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "The first indication of carburetor ice in an aircraft with a fixed-pitch propeller is\n",
+        "answer": "a decrease in RPM.\n",
+        "choiceone": "a decrease in manifold pressure.\n",
+        "choicetwo": "an increase in manifold pressure.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "The maximum cumulative time that an emergency locator transmitter may be operated\nbefore the rechargeable battery must be recharged is\n",
+        "answer": "60 minutes.\n",
+        "choiceone": "30 minutes.\n",
+        "choicetwo": "Regulations5 minutes.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "2-cycle engine thrust and fuel efficiency can be greatly compromised when\n",
+        "answer": "exhaust systems are installed that are not specifically tuned for an engine.\n",
+        "choiceone": "carbon deposits build up on exhaust valves.\n",
+        "choicetwo": "intake valve lifters fail to pressurize and provide adequate fuel to the combustion\nchamber.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "The low temperature that causes carburetor ice in an engine equipped with a float-type\ncarburetor is normally the result of the\n",
+        "answer": "vaporization of fuel and expansion of air in the carburetor.\n",
+        "choiceone": "compression of air at the carburetor venturi.\n",
+        "choicetwo": "freezing temperature of the air entering the carburetor.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "In addition to an added safety factor, dual ignition systems also provide\n",
+        "answer": "better combustion.\n",
+        "choiceone": "increased spark plug life.\n",
+        "choicetwo": "shorter engine warmup periods.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "What is a characteristic of longitudinal instability?\n",
+        "answer": "Pitch oscillations becoming progressively greater.\n",
+        "choiceone": "Bank oscillations becoming progressively greater.\n",
+        "choicetwo": "Aircraft constantly tries to pitch down.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "Describe dynamic longitudinal stability.\n",
+        "answer": "Motion about the lateral axis.\n",
+        "choiceone": "Motion about the longitudinal axis.\n",
+        "choicetwo": "Motion about the vertical axis.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "If no corrective action is taken by the pilot as angle of ban!\nvertical component of lift and sink rate affected?\n\ncreased, how is the\n",
+        "answer": "Lift decreases and the sink rate increases.\n",
+        "choiceone": "Lift increases and the sink rate increases.\n",
+        "choicetwo": "Lift decreases and the sink rate decreases.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "Why must the angle of attack be increased during a turn to maintain altitude?\n",
+        "answer": "Compensate for loss of vertical component of lift.\n",
+        "choiceone": "Increase the horizontal component of lift equal to the vertical component.\n",
+        "choicetwo": "Compensate for increase in drag.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "The purpose of the preheating coil used in hot air balloons is to\n",
+        "answer": "vaporize the fuel for more efficient burner operation.\n",
+        "choiceone": "prevent ice from forming in the fuel lines.\n",
+        "choicetwo": "warm the fuel tanks for more efficient fuel flow.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "During fuelling the automatic fuelling shut off valves will\n",
+        "answer": "the fuel has reached a predetermined volume or mass.\n",
+        "choiceone": "the surge vent tank is filled.\n",
+        "choicetwo": "there is fire.\n",
+        "choicethree": "fuelling system has reached a certain pressure.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "On modern transport aircraft, cockpit windows are protected against icing by :\n",
+        "answer": "Electric heating.\n",
+        "choiceone": "Vinyl coating.\n",
+        "choicetwo": "Anti-icing fluid.\n",
+        "choicethree": "Rain repellent system.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "If a current is passed through a conductor,\n",
+        "answer": "a force will be exerted on the conductor.\n",
+        "choiceone": "the current will increase.\n",
+        "choicetwo": "there will be no effect unless the conductor is moved.\n",
+        "choicethree": "the intensity of the magnetic field will decrease.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "As regards three-phase AC generators, the following conditions must be met for\nparalleling AC generators: 1. Equal voltage 2.Equal current 3.Equal frequencies 4.\nSame 5. Voltages of same phase The combination regrouping all the correct\nstatementsphase rotation is :\n",
+        "answer": "1,3,4,5\n",
+        "choiceone": "1,4,5\n",
+        "choicetwo": "1,2,3,4\n",
+        "choicethree": "1,3,5\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "The part of a piston engine that transforms reciprocating movement into rotary motion\nis termed as the :\n",
+        "answer": "crankshaft\n",
+        "choiceone": "reduction gear\n",
+        "choicetwo": "piston\n",
+        "choicethree": "camshaft\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "The power of a piston engine which will be measured by using a friction brake is :\n",
+        "answer": "Brake horse power.\n",
+        "choiceone": "Heat loss power.\n",
+        "choicetwo": "Indicated horse power.\n",
+        "choicethree": "Friction horse power.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "in a piston engine turbo-supercharger centrifugal compressor :\n",
+        "answer": "enters the eye of the impeller and leaves at a tangent to the periphery.\n",
+        "choiceone": "enters at the periphery and leaves via the eye of the impeller.\n",
+        "choicetwo": "enters at a tangent to the rotor and leaves via the stator.\n",
+        "choicethree": "enters via the diffuser and is fed to the impeller at the optimum angle of attack.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "The state in which the breathing oxygen for the cockpit of jet transport aeroplanes is\nstored is :\n",
+        "answer": "Gaseous.\n",
+        "choiceone": "Chemical compound.\n",
+        "choicetwo": "Liquid.\n",
+        "choicethree": "Gaseous or chemical compound..\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "If the static pressure tubes are broken inside a pressurized cabin during a high-altitude\nflight, the altimeter would probably indicate\n",
+        "answer": "lower than actual flight altitude.\n",
+        "choiceone": "sea level.\n",
+        "choicetwo": "higher than actual flight altitude.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "(Refer to Figures 139 and 141.) Which displacement from the localizer centerline and\nglide slope at the 1,300-foot point from the runway is indicated?\n",
+        "answer": "21 feet above the glide slope and approximately 320 feet to the left of the runway\ncenterline.\n",
+        "choiceone": "21 feet below the glide slope and approximately 320 feet to the right of the runway\ncenterline.\n",
+        "choicetwo": "28 feet above the glide slope and approximately 250 feet to the left of the runway\ncenterline.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "Which statement is true about magnetic deviation of a compass?\n",
+        "answer": "Deviation varies for different headings of the same aircraft.\n",
+        "choiceone": "Deviation is the same for all aircraft in the same locality.\n",
+        "choicetwo": "Deviation is different in a given aircraft in different localities.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "Prior to starting the engine, the manifold pressure gauge usually\napproximately 29\" Hg. This is because the\n",
+        "answer": "pressure within the manifold is the same as atmospheric pressure.\n",
+        "choiceone": "pointer on the gauge is stuck at the full-power indication.\n",
+        "choicetwo": "throttle is closed, trapping high air pressure in the manifold.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "When making an airborne VOR check, what is the maximum allowable tolerance\nbetween the two indicators of a dual VOR system (units independent of each other\nexcept the antenna)?\n\n",
+        "answer": "4 degrees between the two indicated bearings of a VOR.\n",
+        "choiceone": "Plus or minus 4 degrees when set to identical radials of a VOR.\n",
+        "choicetwo": "6 degrees between the two indicated radials of a VOR.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "Identify the runway distance remaining markers.\n",
+        "answer": "Signs with increments of 1,000 feet distance remaining.\n",
+        "choiceone": "Red markers laterally placed across the runway at 3,000 feet from the end.\n",
+        "choicetwo": "Yellow marker laterally placed across the runway with signs on the side denoting\ndistance to end.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "Identify runway remaining lighting on centerline lighting systems.\n",
+        "answer": "Alternate red and white lights from 3,000 feet to 1,000 feet, then red lights to the end.\n",
+        "choiceone": "Amber lights from 3,000 feet to 1,000 feet, then alternate red and white lights to the\nend.\n",
+        "choicetwo": "Alternate red and white lights from 3,000 feet to the end of the runway.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "In the Northern Hemisphere, which would be correct about starting the rollout from a\nturn using a magnetic compass? Start the rollout\n",
+        "answer": "after the compass indication passes south by a number of degrees approximately\nequal to the latitude minus the normal rollout lead.\n",
+        "choiceone": "before the compass indication reaches south by a number of degrees approximately\nequal to the latitude over which the turn is made plus the pilot's normal lead.\n",
+        "choicetwo": "after the compass indication passes south by a number of degrees approximately\nequal to the magnetic variation of the area over which the turn is made plus the\npilot's normal lead.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "Which procedure is recommended to prevent or overcome spatial disorientation?\n",
+        "answer": "Rely entirely on the indications of the flight instruments.\n",
+        "choiceone": "Avoid steep turns and rough control movements.\n",
+        "choicetwo": "Reduce head and eye movements to the greatest extent possible.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "If the pitot line is blocked, the VSI will:\n",
+        "answer": "read normally\n",
+        "choiceone": "read zero ftmm rate of climb/descent\n",
+        "choicetwo": "over-read\n",
+        "choicethree": "under-read\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "If the Pitot Head and Static Vent were blocked by ice, which instruments would be\naffected?\n",
+        "answer": "Altimeter, VSI and ASI would give inaccurate readings.\n",
+        "choiceone": "ASI, Altimeter and Slip indicator.\n",
+        "choicetwo": "The ASI would under read.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "A simple pressure altimeter uses:\n",
+        "answer": "static pressure fed into a gas tight casing, but outside a partially evacuated capsule\n",
+        "choiceone": "static pressure fed to an open capsule\n",
+        "choicetwo": "pitot pressure fed to an open capsule\n",
+        "choicethree": "static pressure fed outside a completely evacuated aneroid capsule.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "The reported QNH ofa given station is the:\n",
+        "answer": "Station's barometric pressure corrected to mean sea level pressure.\n",
+        "choiceone": "actual barometric pressure measured at the station;\n",
+        "choicetwo": "actual barometric pressure measured at sea level;\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "The high Altitude Radio Altimeter uses the following wavelengths:\n",
+        "answer": "decimetric.\n",
+        "choiceone": "hectometric.\n",
+        "choicetwo": "myriametric.\n",
+        "choicethree": "metric.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "If the Pitot opening is blocked, whi\nvent)?\n\nstruments would be affected (separate static\n",
+        "answer": "ASI only.\n",
+        "choiceone": "ASI, Altimeter and VSI.\n",
+        "choicetwo": "ASI and VSI.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "An aircraft is maintal\nprobable cause is:\n\n1g FL 120 in cloud. The ASI reading falls to zero. The most\n",
+        "answer": "ASI malfunction.\n",
+        "choiceone": "Static vent blocked by ice.\n",
+        "choicetwo": "Pitot head and static vent blocked by ice.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "Rectified Airspeed is:\n",
+        "answer": "IAS corrected for instrument and pressure error.\n",
+        "choiceone": "IAS corrected for density error.\n",
+        "choicetwo": "IAS corrected for density and compressibility errors.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "An ASI consists of a gas tight casing which has:\n",
+        "answer": "pitot pressure fed into an open capsule and static pressure fed outside the capsule\n",
+        "choiceone": "static pressure fed outside a sealed capsule and pitot pressure fed into a second\nopen capsule\n",
+        "choicetwo": "static pressure fed outside a sealed capsule\n",
+        "choicethree": "static pressure fed through a restrictive choke\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "During a stabilised climbing turn at a constant rate, the instruments which indicate the\n\ncorrect pitch and bank are the:\n",
+        "answer": "attitude indicator and turn-and-slip indicator.\n",
+        "choiceone": "vertical-speed indicator and turn-and-slip indicator;\n",
+        "choicetwo": "altimeter and turn-and-slip indicator;\n",
+        "source": "pdf/Type3/agk\\AGK CPL (14).pdf"
+    },
+    {
+        "question": "Why must the angle of attack be increased during a turn to maintain altitude?\n",
+        "answer": "Compensate for loss of vertical component of lift.\n",
+        "choiceone": "Increase the horizontal component of lift equal to the vertical component.\n",
+        "choicetwo": "Compensate for increase in drag.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "In a steep turn to the left, when using spoilers ...\n",
+        "answer": "The right aileron will descend, the left one will ascend, the right spoiler will retract\nand the left one will extend.\n",
+        "choiceone": "The right aileron will descend, the left one will ascend, the right spoiler will extend\nand the left one will retract.\n",
+        "choicetwo": "The right aileron will ascend, the left one will descend, the right spoiler will extend\nand the left one will retract.\n",
+        "choicethree": "The right aileron will ascend, the left one will descend, the right spoiler will retract\nand the left one will extend.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "What characteristic should exist if an airplane is loaded to the rear of its CG range?\n",
+        "answer": "Unstable about the lateral axis.\n",
+        "choiceone": "Sluggish in aileron control.\n",
+        "choicetwo": "Sluggish in rudder control.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "The mixture control for a carburettor achieves its control by:\n",
+        "answer": "varying the fuel supply to the main discharge tube.\n",
+        "choiceone": "altering the depression on the main discharge tube.\n",
+        "choicetwo": "varying the air supply to the main discharge tube.\n",
+        "choicethree": "moving the butterfly valve through a separate linkage to the main throttle control.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "In addition to energy storage, the accumulator of the hydraulic system is used :\n",
+        "answer": "for damping pressure surges in the system.\n",
+        "choiceone": "for pressure storage.\n",
+        "choicetwo": "as a pressure relief valve.\n",
+        "choicethree": "for fluid storage.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "A reverse thrust door warning light on the flight deck instrument panel illuminates when:\n",
+        "answer": "the reverser doors are unlocked.\n",
+        "choiceone": "the reverser doors are locked.\n",
+        "choicetwo": "reverse has been selected but the doors have remained locked.\n",
+        "choicethree": "the reverser doors have moved to the reverse thrust position.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "In accordance with Civil Aviation Regulations , each occupant of the cockpit seats on\nduty in a non-pressurized airplane must have an oxygen supply reserve for the entire\nflight time at pressure altitudes greater than:\n",
+        "answer": "10000 ft.\n",
+        "choiceone": "14000 ft.\n",
+        "choicetwo": "12500 ft.\n",
+        "choicethree": "13000 ft.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "During a normal pressurised climb after take-off:\n",
+        "answer": "cabin pressure decreases more slowly than atmospheric pressure\n",
+        "choiceone": "absolute cabin pressure increases to compensate for the fall in pressure outside the\naircraft\n",
+        "choicetwo": "the pressurisation system is inoperative until an altitude of 10 000 feet is reached\n",
+        "choicethree": "the cabin differential pressure is maintained constant\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "The most widely used AC frequency in aircraft is:\n",
+        "answer": "400 Hi.\n",
+        "choiceone": "115 Hz.\n",
+        "choicetwo": "50 Hz.\n",
+        "choicethree": "60 Hz.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "If a current is passed through a conductor whi\nmagnetic field:\n\npositioned perpendicular to a\n",
+        "answer": "a force will be exerted on the conductor.\n",
+        "choiceone": "the current will increase.\n",
+        "choicetwo": "there will be no effect unless the conductor is moved.\n",
+        "choicethree": "the intensity of the magnetic field will decrease.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "In an aircraft equipped with a DC main power system, AC for instrument operation may\nbe obtained from :\n",
+        "answer": "an inverter.\n",
+        "choiceone": "a contactor.\n",
+        "choicetwo": "a TRU.\n",
+        "choicethree": "a rectifier.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "The function of a constant speed drive (CSD) in an AC generating system is to :\n",
+        "answer": "drive the generator at a constant speed.\n",
+        "choiceone": "vary generator rpm in order to compensate for various AC loads.\n",
+        "choicetwo": "directly maintain a constant proportion between the rpm of an engine and a\ngenerator.\n",
+        "choicethree": "vary the engine rpm (within limits) to compensate for various AC loads.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "As regards three-phase AC generators, the following conditions must be met for\nparalleling AC generators: 1. Equal voltage 2.Equal current 3.Equal frequencies 4.\nSame 5. Voltages of same phase The combination regrouping all the correct\nstatementsphase rotation is :\n",
+        "answer": "1,3,4,5\n",
+        "choiceone": "1,4,5\n",
+        "choicetwo": "1,2,3,4\n",
+        "choicethree": "1,3,5\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "When the pilot moves the mixture lever of a piston engine towards a lean position the :\n",
+        "answer": "amount of fuel entering the combustion chamber is reduced.\n",
+        "choiceone": "volume of air entering the carburettor is reduced.\n",
+        "choicetwo": "amount of fuel entering the combustion chamber is increased.\n",
+        "choicethree": "volume of air entering the carburettor is increased.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "For piston engines, mixture ratio is the ratio between the\n",
+        "answer": "mass of fuel and mass of air entering the cylinder.\n",
+        "choiceone": "volume of fuel and volume of air entering the carburettor.\n",
+        "choicetwo": "mass of fuel and volume of air entering the carburettor.\n",
+        "choicethree": "volume of fuel and volume of air entering the cylinder.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "Regarding a jet engine:\n|. The maximum thrust remains constant as the pressure altitude increases.\nIl. The specific fuel consumption increases slightly as the pressure altitud\nconstant TAS.\n\n",
+        "answer": "lis incorrect, Il is incorrect.\n",
+        "choiceone": "lis incorrect, Il is correct.\n",
+        "choicetwo": "lis correct, Il is incorrect.\n",
+        "choicethree": "lis correct, Il is correct.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "When a bimetallic strip is used as a switch in a fire detection loop, a delay is\nincorporated after a fire alarm is triggered in order to:\n",
+        "answer": "avoid false alarms in case of vibrations.\n",
+        "choiceone": "allow temperatures to equalise.\n",
+        "choicetwo": "delay the triggering of the fire extinguishers and increase their efficiency.\n",
+        "choicethree": "wait for the triggering of the second fire detection loop in order to confirm the fire.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "The purpose of the \"Pressure Relief Valve\" in a high pressure oxygen system is to :\n",
+        "answer": "relieve overpressure if the pressure reducing valve malfunctions\n",
+        "choiceone": "act as a manual shut-off valve\n",
+        "choicetwo": "maximize the charging pressure of the system\n",
+        "choicethree": "reduce pressure in the oxygen reservoir to a suitable manifold pressure for the\nregulator\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "The state in which the breathing oxygen for the cockpit of jet transport aeroplanes is\nstored is :\n",
+        "answer": "Gaseous.\n",
+        "choiceone": "Chemical compound.\n",
+        "choicetwo": "Liquid.\n",
+        "choicethree": "Gaseous or chemical compound..\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "The demand valve of a diluter-demand type oxygen regulator in normal mode, operates\nwhen the :\n",
+        "answer": "user breathes in\n",
+        "choiceone": "diluter control is in normal position\n",
+        "choicetwo": "user requires 100 percent oxygen\n",
+        "choicethree": "pressure in the oxygen reservoir is more than 500 psi\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "What should be the indication on the magnetic compass as you roll into a standard rate\nturn to the right from a south heading in the Northern Hemisphere?\n",
+        "answer": "The compass will indicate a turn to the right, but at a faster rate than is actually\noccurring.\n",
+        "choiceone": "The compass will initially indicate a turn to the left.\n",
+        "choicetwo": "The compass will remain on south for a short time, then gradually catch up to the\nmagnetic heading of the airplane.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "How can a pilot identify a military airport at night?\n",
+        "answer": "Green and white beacon light with dual flash of the white.\n",
+        "choiceone": "Green, yellow, and white beacon light.\n",
+        "choicetwo": "White and red beacon light with dual flash of the white.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "In the Northern Hemisphere, which would be correct about starting the rollout from a\nturn using a magnetic compass? Start the rollout\n",
+        "answer": "after the compass indication passes south by a number of degrees approximately\nequal to the latitude minus the normal rollout lead.\n",
+        "choiceone": "before the compass indication reaches south by a number of degrees approximately\nequal to the latitude over which the turn is made plus the pilot's normal lead.\n",
+        "choicetwo": "after the compass indication passes south by a number of degrees approximately\nequal to the magnetic variation of the area over which the turn is made plus the\npilot's normal lead.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "Identify runway remaining lighting on centerline lighting systems.\n",
+        "answer": "Alternate red and white lights from 3,000 feet to 1,000 feet, then red lights to the end.\n",
+        "choiceone": "Amber lights from 3,000 feet to 1,000 feet, then alternate red and white lights to the\nend.\n",
+        "choicetwo": "Alternate red and white lights from 3,000 feet to the end of the runway.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "A Bourdon tube is used in:\n",
+        "answer": "pressure sensors\n",
+        "choiceone": "vibration detectors\n",
+        "choicetwo": "smoke detectors\n",
+        "choicethree": "turbine temperature probes\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "ASI compressibility error will increase with increase of TAS and:\n",
+        "answer": "Increase with altitude.\n",
+        "choiceone": "Decrease with altitude.\n",
+        "choicetwo": "Increase with increase of density.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "The reported QNH ofa given station is the:\n",
+        "answer": "Station's barometric pressure corrected to mean sea level pressure.\n",
+        "choiceone": "actual barometric pressure measured at the station;\n",
+        "choicetwo": "actual barometric pressure measured at sea level;\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "Static air temperature is:\n",
+        "answer": "(a) the correct temperature of the ambient air surrounding the aircraft but unaffected\nby the presence or movement of the aircraft\n",
+        "choiceone": "(b) the correct temperature of the air surrounding the aircraft as affected by the\npresence or movement of the aircraft\n",
+        "choicetwo": "(c) the temperature of the aircraft skin measured at a stagnation point\n",
+        "choicethree": "(d) the temperature of the air within the static line\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "When ambient temperature is warmer than standard at a particular altitude, the altimeter\nwill indicate:\n",
+        "answer": "lower than true altitude;\n",
+        "choiceone": "higher than true altitude;\n",
+        "choicetwo": "the same as true altitude.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "During a pre-flight check the following details were noted: Airfield Elevation (4800 ft)-\nApron Elevation (4780 ft)- Height of static vent above ground ( 25 ft)- Altimeter reading\n(QFE)( 35 ft)\n",
+        "answer": "30 ft underread.\n",
+        "choiceone": "30 ft underread\n",
+        "choicetwo": "5 ft underread\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "The value of the compressibility error of an Airspeed Indicator (ASI) will:\n",
+        "answer": "increase with increase in altitude and true airspeed;\n",
+        "choiceone": "decrease, with decrease in density and increase with an increase in IAS;\n",
+        "choicetwo": "increase with increase in true airspeed and decrease with increase in altitude.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "Mach number is:\n",
+        "answer": "the ratio of TAS to LSS at that temperature\n",
+        "choiceone": "the ratio of IAS toLSS\n",
+        "choicetwo": "the speed at which compressibility error must be calculated\n",
+        "choicethree": "the ratio of EAS to LSS at that temperature\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "A machmeter does not suffer from:\n",
+        "answer": "compressibility error\n",
+        "choiceone": "instrument error\n",
+        "choicetwo": "position error\n",
+        "choicethree": "error due to blockage of the static vent\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "A RMI (Radio Magnetic Indicator) displays a warning flag which\nfailure. The radio bearing pointers:\n\n",
+        "answer": "can be used to home to an NDB;\n",
+        "choiceone": "are not to be used;\n",
+        "choicetwo": "can be used to home to an NDB and a VOR station.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "Errors in both pitch and bank indication on an attitude indicator are usually ata\nmaximum as the aircraft rolls out of a:\n",
+        "answer": "180 degree turn;\n",
+        "choiceone": "90 degree turn;\n",
+        "choicetwo": "270 degree turn.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "In an electrically driven artificial horizon, the axis wander about the pitch axis is\ncontrolled by:\n",
+        "answer": "A mercury switch at right angles to the pitch axis inducing torque about the roll axis.\n",
+        "choiceone": "A mercury switch parallel to the pitch axis inducing torque about the pitch axis.\n",
+        "choicetwo": "A mercury switch at right angles to the roll axis inducing torque about the pitch axis.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "The gyroscope of a turn indicator has:\n\n(NB: the rotor spin axis is not counted for the number of degrees of freedom of the gyro)\n",
+        "answer": "1 degree of freedom.\n",
+        "choiceone": "0 degree of freedom.\n",
+        "choicetwo": "2 degrees of freedom.\n",
+        "choicethree": "3 degrees of freedom.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "When, in flight, the needle of a needle-and-ball indicator is on the left and the ball on the\nright, the aeroplane is:\n",
+        "answer": "turning left with too much left rudder pedal.\n",
+        "choiceone": "turning left with not enough left rudder pedal.\n",
+        "choicetwo": "turning right with too much left rudder pedal.\n",
+        "choicethree": "turning right with not enough left rudder pedal.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (19).pdf"
+    },
+    {
+        "question": "When refueling aircraft, which precaution would be adequate for eli\npotential hazard of static electricity?\n\n",
+        "answer": "Connect a ground wire between the aircraft, fuel truck, fuel nozzle, and ground.\n",
+        "choiceone": "Ensure that battery and ignition switches are off.\n",
+        "choicetwo": "Connect a ground wire from the fuel truck to ground.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "Adding more oil to the fuel than specified by the manufacturer of a 2-cycle engine will\nresult in\n",
+        "answer": "increased carbon buildup and engine fouling.\n",
+        "choiceone": "increased engine performance.\n",
+        "choicetwo": "increased engine lubrication and optimal performance.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "After the ignition source is removed, which class of material will not propagate a flame\nbeyond safe limits?\n",
+        "answer": "Flame resistant.\n",
+        "choiceone": "Fireproof.\n",
+        "choicetwo": "Flash resistant.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "What is the purpose of an elevator trim tab?\n",
+        "answer": "Modify the downward tail load for various airspeeds in flight eliminating flight-control\npressures.\n",
+        "choiceone": "Provide horizontal balance as airspeed is increased to allow hands-off flight.\n",
+        "choicetwo": "Adjust the speed tail load for different airspeeds in flight allowing neutral control\nforces.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "With regard to an aircraft structure, \u2018fail safe\u2019 is one:\n",
+        "answer": "in which the load is carried by other components if a part of the structure fails.\n",
+        "choiceone": "that is easily manufactured.\n",
+        "choicetwo": "used for small aircraft only.\n",
+        "choicethree": "that is only used for a limited time.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "Assuming cabin pressure decreases, the cabin rate of climb indicator should indicate :\n",
+        "answer": "a rate of climb.\n",
+        "choiceone": "a rate of descent of approximately 300 feet per minutes.\n",
+        "choicetwo": "zero.\n",
+        "choicethree": "a rate of descent dependent upon the cabin differential pressure.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "The term \"Bootstrap\", when used to identify a cabin air conditioning and pressurisation\nsystem, refers to the :\n",
+        "answer": "cold air unit (air cycle machine) arrangement.\n",
+        "choiceone": "source of the charge air.\n",
+        "choicetwo": "means by which pressurisation is controlled.\n",
+        "choicethree": "charge air across the inter-cooler heat exchanger.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "Why should special precautions be taken when filling propane bottles?\n",
+        "answer": "Propane is very cold and may cause freeze burns.\n",
+        "choiceone": "During transfer, propane reaches a high temperature and can cause severe burns.\n",
+        "choicetwo": "Propane is under high pressure when transferred from storage tanks to propane\nbottles.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "The cross-feed fuel system enables:\n",
+        "answer": "the supply of any jet engine from any fuel tank.\n",
+        "choiceone": "the supply of the jet engines mounted on a wing from any fuel tank within that wing.\n",
+        "choicetwo": "the supply of the outboard jet engines from any outboard\n",
+        "choicethree": "only the transfer of fuel from the centre tank to the wing tanks.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "The detection of a feeder fault on a direct current circuit\nresults i\n1. automatic disconnection of the generator from the\naircraft AC busbar\n\n2. opening of generator field current relay\n\n3. opening of the main relay of the generator breaker\n4. opening of balancing circuit connecting two\ngenerators\n\n5. lighting of an indicator lamp\n\nThe combination of correct statements i\n\n",
+        "answer": "1,2,3,4,5\n",
+        "choiceone": "2,3,4,5\n",
+        "choicetwo": "2,4,5\n",
+        "choicethree": "1,3,5\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "The frequency of the current provided by an alternator depends on...\n",
+        "answer": "its rotation speed.\n",
+        "choiceone": "the strength of the excitation current.\n",
+        "choicetwo": "its load.\n",
+        "choicethree": "its phase balance.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "The part of a piston engine that transforms reciprocating movement into rotary motion\nis termed as the :\n",
+        "answer": "crankshaft\n",
+        "choiceone": "reduction gear\n",
+        "choicetwo": "piston\n",
+        "choicethree": "camshaft\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "Which statement is true concerning the effect of the application of carburettor heat?\n",
+        "answer": "it reduces the density of air entering the carburettor, thus enriching the fuel/air\nmixture\n",
+        "choiceone": "it reduces the density of air entering the carburettor, thus leaning the fuel/air mixture\n",
+        "choicetwo": "it reduces the volume of air entering the carburettor,thus enriching the fuel/air\nmixture\n",
+        "choicethree": "it reduces the volume of air entering the carburettor,thus leaning the fuel/air mixture\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "In a \"bootstrap\" cooling system, the charge air is first compressed in the cold air unit to:\n",
+        "answer": "ensure an adequate pressure and temperature drop across the cooling turbine.\n",
+        "choiceone": "maintain a constant cabin mass air flow.\n",
+        "choicetwo": "increase the cabin air supply pressure when the charge pressure is too low.\n",
+        "choicethree": "ensure an adequate charge air flow across the inter-cooler heat exchanger.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "Turbine blade stages may be classed as either \"impulse\" or \u201creaction\u201d. In ai\nblade section :\n",
+        "answer": "the pressure drops across the nozzle guide vanes and remains constant across the\nrotor blades .\n",
+        "choiceone": "the pressure remains constant across the nozzle guide vanes and rises constant\nacross the rotor blades .\n",
+        "choicetwo": "the pressure rises across the nozzle guide vanes and remains constant across the\nrotor blades .\n",
+        "choicethree": "the pressure remains constant across the nozzle guide vanes and drops across the\nrotor blades .\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "The control of free turbine engines on turboprops, is accomplished by: -a propeller\ncontrol lever used to select: 1- propeller RPM 2.-turbine temperature 3 - turbine RPM\n- a fuel control lever used to select: 4- propeller RPM 5 - torque 6 - turbine temperature\nThe combination which regroups all of the correct statements is :\n",
+        "answer": "1-5-6\n",
+        "choiceone": "1-3-5\n",
+        "choicetwo": "3-4-6\n",
+        "choicethree": "2-4-5\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "In a fire detection system with single-loop continuous components (with no fault\nprotection), if the inner core contacts the outer casing:\n",
+        "answer": "the fire alarm is triggered.\n",
+        "choiceone": "the power supply is cut off automatically.\n",
+        "choicetwo": "there will be no effect on the system\n",
+        "choicethree": "the main engine fire extinguisher is automatically activated.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "When the oxygen system of a large aeroplane is used, :\n",
+        "answer": "with the setting on \"NORMAL\", the cockpit crew is supplied with a mixture of oxygen\nand cabin air.\n",
+        "choiceone": "the same source of supply is used by the cockpit crew and passengers.\n",
+        "choicetwo": "the same source of supply is used by the cockpit crew and cabin crew.\n",
+        "choicethree": "with the setting on \"NORMAL\", the passengers are supplied with a mixture of oxygen\nand cabin air.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "A passenger emergency mask is a:\n",
+        "answer": "continuous flow mask and cannot be used if there is smoke in the cabin.\n",
+        "choiceone": "continuous flow mask and can be used if there is smoke in the cabin.\n",
+        "choicetwo": "mask with flow on request and can be used if there is smoke.\n",
+        "choicethree": "mask with flow on request and cannot be used if there is smoke in the cabin.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "(Refer to Figure 87.) At STRUT intersection headed eastbound, ATC instructs you to\nhold west on the 10 DME fix west of LCH on V306, standard turns, what entry procedure\nis recommended?\n",
+        "answer": "Direct.\n",
+        "choiceone": "Teardrop.\n",
+        "choicetwo": "Parallel.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "How can a pilot identify a lighted heliport at night?\n",
+        "answer": "Green, yellow, and white beacon light.\n",
+        "choiceone": "White and red beacon light with dual flash of the white.\n",
+        "choicetwo": "Green and white beacon light with dual flash of the white.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "If a pitot tube is clogged, which instrument would be affected?\n",
+        "answer": "Airspeed indicator.\n",
+        "choiceone": "Altimeter.\n",
+        "choicetwo": "Vertical speed indicator.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "What should be the indication on the magnetic compass as you roll into a standard rate\nturn to the right from a south heading in the Northern Hemisphere?\n",
+        "answer": "The compass will indicate a turn to the right, but at a faster rate than is actually\noccurring.\n",
+        "choiceone": "The compass will initially indicate a turn to the left.\n",
+        "choicetwo": "The compass will remain on south for a short time, then gradually catch up to the\nmagnetic heading of the airplane.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "How can a pilot identify a military airport at night?\n",
+        "answer": "Green and white beacon light with dual flash of the white.\n",
+        "choiceone": "Green, yellow, and white beacon light.\n",
+        "choicetwo": "White and red beacon light with dual flash of the white.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "When making an airborne VOR check, what is the maximum allowable tolerance\nbetween the two indicators of a dual VOR system (units independent of each other\nexcept the antenna)?\n\n",
+        "answer": "4 degrees between the two indicated bearings of a VOR.\n",
+        "choiceone": "Plus or minus 4 degrees when set to identical radials of a VOR.\n",
+        "choicetwo": "6 degrees between the two indicated radials of a VOR.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "Which is the maximum tolerance for the VOI ication when the CDI is centered and\nthe aircraft is directly over the airborne checkpoint?\n",
+        "answer": "Plus or minus 6 degrees of the designated radial.\n",
+        "choiceone": "Plus 6degrees or minus 4 degrees of the designated radial.\n",
+        "choicetwo": "Plus or minus 4 degrees of the designated radial.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "Which instrument would be affected by excessively low pressure in the\nvacuum system?\n",
+        "answer": "Heading indicator.\n",
+        "choiceone": "Airspeed indicator.\n",
+        "choicetwo": "Pressure altimeter.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "A VSI may suffer from error due to:\n",
+        "answer": "time lag, instrument calibration, blockage\n",
+        "choiceone": "compressibility, time lag, blockage\n",
+        "choicetwo": "density, aircraft manoeuvre, position of the static vent\n",
+        "choicethree": "pitot blockage, static blockage, aircraft manoeuvre\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "Transition altitude is obtained from:\n",
+        "answer": "Jeppesen or Aerad flight guides.\n",
+        "choiceone": "ATC or VOR ATIS.\n",
+        "choicetwo": "1500 feet above airfield elevation.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "The QFE at an aerodrome (elevation) 1790 feet is 962 hPa and the QNH 1022 hPa. If the\ntransition level is FLO40 the physical level of the transition level above the aerodrome is\napproximately:\n",
+        "answer": "2464 feet\n",
+        "choiceone": "2150 feet\n",
+        "choicetwo": "2280 feet.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "If the Pitot opening is blocked, whi\nvent)?\n\nstruments would be affected (separate static\n",
+        "answer": "ASI only.\n",
+        "choiceone": "ASI, Altimeter and VSI.\n",
+        "choicetwo": "ASI and VSI.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "If an aircraft climbs at a constant IAS in the standard atmosphere, the Mach number will:\n",
+        "answer": "increase\n",
+        "choiceone": "decrease\n",
+        "choicetwo": "remain constant\n",
+        "choicethree": "remain constant unless the aircraft flies through an inversion\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "\\g at a constant Mach number in the standard atmosphere, the\n\n",
+        "answer": "increase\n",
+        "choiceone": "decrease\n",
+        "choicetwo": "remain constant\n",
+        "choicethree": "remain constant unless the aircraft flies through an inversion\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "The following figures appear on an aeroplane deviation card: FOR MAGNETIC (45----90),\nSTEER COMPASS (38----92). The compass heading to steer to maintain a heading of\n075\u00b0 (M) is:\n",
+        "answer": "74\n",
+        "choiceone": "72\n",
+        "choicetwo": "76\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "The rotor of the DGI spins up and away from the pilot when 090 is ir\nlatitude compensation nut situated on the near right hand side of the inner gimbal from\nthe gyro axis, has been set to give zero drift on the ground at the equator. To\ncompensate for earth rotation at 30 S the latitude compensating nut:\n",
+        "answer": "must be adjusted outwards;\n",
+        "choiceone": "must be adjusted inwards;\n",
+        "choicetwo": "is not adjusted since the latitude nut can only be used to correct for apparent\nwander in the northern hemisphere.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "At a low bank angle, the measurement of rate-of-turn actually consists in measuring the:\n",
+        "answer": "yaw rate of the aircraft.\n",
+        "choiceone": "pitch rate of the aircraft.\n",
+        "choicetwo": "roll rate of the aircraft.\n",
+        "choicethree": "bank of the aircraft.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "The stall warning computer uses the following dat\n\n1- mass of the aeroplane\n2- angle of attack\n\n3- wing flap deflection\n\n4- position of the landing gear\n5- TAT\n\n6- pressure altitude\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "2,3\n",
+        "choiceone": "2,3,5\n",
+        "choicetwo": "1, 2,3,4\n",
+        "choicethree": "1, 2,3, 4,5,6\n",
+        "source": "pdf/Type3/agk\\AGK CPL (22).pdf"
+    },
+    {
+        "question": "The fuel vents on many powered parachutes and weight shift control aircraft are located\n",
+        "answer": "in the fuel cap.\n",
+        "choiceone": "adjacent to the crankcase breather.\n",
+        "choicetwo": "in the fuel tank pressure relief valve.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (9).pdf"
+    },
+    {
+        "question": "Coolant in a liquid cooled engine is normally circulated by\n",
+        "answer": "an engine driven pump.\n",
+        "choiceone": "capillary attraction.\n",
+        "choicetwo": "an electric pump.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (9).pdf"
+    },
+    {
+        "question": "craft attitude tends to move farther from\nposition after the controls have been neutralized.\n\noriginal\n",
+        "answer": "Negative static stability.\n",
+        "choiceone": "Positive static stability.\n",
+        "choicetwo": "Negative dynamic stability.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (9).pdf"
+    },
+    {
+        "question": "Which of the following is considered an auxiliary flight control?\n",
+        "answer": "Leading-edge flaps.\n",
+        "choiceone": "Ruddervator.\n",
+        "choicetwo": "Upper rudder.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (9).pdf"
+    },
+    {
+        "question": "The hydraulic oil, entering the hydraulic pump, is slightly pressurised to :\n",
+        "answer": "prevent cavitation in the pump\n",
+        "choiceone": "prevent overheating of the pump.\n",
+        "choicetwo": "prevent vapour locking.\n",
+        "choicethree": "ensure sufficient pump output\n",
+        "source": "pdf/Type3/agk\\AGK CPL (9).pdf"
+    },
+    {
+        "question": "The part of the flight that will cause the highest loads on tyre\n",
+        "answer": "Taxiing with a small turning radius.\n",
+        "choiceone": "Touch down with crosswind\n",
+        "choicetwo": "Gear down selection\n",
+        "choicethree": "Braking with an inoperative anti skid system.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (9).pdf"
+    },
+    {
+        "question": "The maximum differential pressure of a transonic\n",
+        "answer": "9.0 psi\n",
+        "choiceone": "15.5 psi\n",
+        "choicetwo": "3.5 psi\n",
+        "choicethree": "13.5 psi\n",
+        "source": "pdf/Type3/agk\\AGK CPL (9).pdf"
+    },
+    {
+        "question": "When leaning the mixture for the most economic cruise fuel flow, excessive leaning will\ncause:\n",
+        "answer": "high cylinder head and exhaust gas temperature\n",
+        "choiceone": "high engine rpm\n",
+        "choicetwo": "low cylinder head and exhaust gas temperature\n",
+        "choicethree": "high manifold pressure\n",
+        "source": "pdf/Type3/agk\\AGK CPL (9).pdf"
+    },
+    {
+        "question": "The essential difference between aircraft AC alternators and DC generators (dynamos)\nis that the:\n",
+        "answer": "induced (output) windings of the alternators are fixed (stator), and the dynamos have\na fixed inductor (field) coil.\n",
+        "choiceone": "alternators supply all of the output current through the commutators and brush\nassemblies.\n",
+        "choicetwo": "The alternators generate much less power than DC generators.\n",
+        "choicethree": "induced windings of the alternators are rotating (rotor), and the dynamos have a\nrotary inductor coil.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (9).pdf"
+    },
+    {
+        "question": "\u201cFrequency wild\" in relation to a AC generation system means the generator :\n",
+        "answer": "output frequency varies with engine speed.\n",
+        "choiceone": "output frequency is too low.\n",
+        "choicetwo": "output frequency is too high.\n",
+        "choicethree": "voltage regulator is out of adjustment.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (9).pdf"
+    },
+    {
+        "question": "In a two generator system, a differential relay will ensure that :\n",
+        "answer": "generator voltages are almost equal before the generators are paralleled.\n",
+        "choiceone": "only one generator can supply the bus-bar at a time.\n",
+        "choicetwo": "generator voltages are not equal, dependent on load.\n",
+        "choicethree": "one generator comes \"on-line\" before the other.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (9).pdf"
+    },
+    {
+        "question": "The torque of an aeroplane engine can be measured at the:\n",
+        "answer": "gear box which is located between the engine and the propeller.\n",
+        "choiceone": "accessory gear box.\n",
+        "choicetwo": "camshaft.\n",
+        "choicethree": "propeller blades.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (9).pdf"
+    },
+    {
+        "question": "The oil system for a piston engine incorporates an oil cooler that is fitted :\n",
+        "answer": "in the return line to the oil tank after the oil has passed through the scavenge pump\n",
+        "choiceone": "between the oil tank and the pressure pump\n",
+        "choicetwo": "after the pressure pump but before the oil passes through the engine\n",
+        "choicethree": "after the oil has passed through the engine and before it enters the sump\n",
+        "source": "pdf/Type3/agk\\AGK CPL (9).pdf"
+    },
+    {
+        "question": "The operating principle of magnetos in a piston engine ignition system consists of:\n",
+        "answer": "opening the primary circuit in order to induce a low amperage, high voltage current,\nwhich is distributed to the spark plugs.\n",
+        "choiceone": "obtaining a high amperage, low voltage current in order to generate the spark.\n",
+        "choicetwo": "accumulating in a capacitor a low voltage current from the battery and inducing it as a\nhigh voltage current at the moment the spark is generated.\n",
+        "choicethree": "creating a brief high intensity magnetic field that will be sent through the distributor\nat the appropriate time.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (9).pdf"
+    },
+    {
+        "question": "In most cases aeroplane piston engines are short stroke engines. This permits a :\n",
+        "answer": "lighter construction.\n",
+        "choiceone": "lower fuel consumption.\n",
+        "choicetwo": "better piston cooling.\n",
+        "choicethree": "cheaper construction\n",
+        "source": "pdf/Type3/agk\\AGK CPL (9).pdf"
+    },
+    {
+        "question": "What performance should a pilot of a light, twin-engine airplane be able to m: atV\n\n(Mic)?\n",
+        "answer": "Heading.\n",
+        "choiceone": "Heading and altitude.\n",
+        "choicetwo": "Heading, altitude, and ability to climb 50 ft/min.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (9).pdf"
+    },
+    {
+        "question": "How does V(NE) speed vary with altitude?\n",
+        "answer": "Varies inversely with altitude.\n",
+        "choiceone": "Varies directly with altitude.\n",
+        "choicetwo": "Remains the same at all altitudes.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (9).pdf"
+    },
+    {
+        "question": "The Engine Pressure Ratio (EPR) is the ratio of:\n",
+        "answer": "the total turbine outlet pressure to the total compressor inlet pressure.\n",
+        "choiceone": "the total turbine inlet pressure to the total compressor outlet pressure.\n",
+        "choicetwo": "the total turbine outlet pressure to the total compressor outlet pressure.\n",
+        "choicethree": "the total turbine inlet pressure to the total compressor inlet pressure.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (9).pdf"
+    },
+    {
+        "question": "If air is tapped from a gas turbine HP compressor, the effect on the engine pressure ratio\n(EPR) and the exhaust gas temperature (EG7) is that :\n",
+        "answer": "EPR decreases and EGT increases.\n",
+        "choiceone": "EPR decreases and EGT remains constant.\n",
+        "choicetwo": "EPR remains constant and EGT increases.\n",
+        "choicethree": "both EPR and EGT decrease.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (9).pdf"
+    },
+    {
+        "question": "In the Northern Hemisphere, if an aircrat\ncompass will normally indicate\n\naccelerated or decelerated, the magnetic\n",
+        "answer": "correctly when on a north or south heading while either accelerating or decelerating.\n",
+        "choiceone": "a turn momentarily, with changes in airspeed on any heading.\n",
+        "choicetwo": "a turn toward the south while accelerating on a west heading.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (9).pdf"
+    },
+    {
+        "question": "Which is true concerning gyroplane operations?\n",
+        "answer": "Minimum level flight speed is established when all available power is used to\nmaintain constant altitude and airspeed.\n",
+        "choiceone": "Rotor RPM will decrease during a vertical descent regardless of weight or density\naltitude.\n",
+        "choicetwo": "A gyroplane can take off from any area in which it can safely land.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (9).pdf"
+    },
+    {
+        "question": "Which is the maximum tolerance for the VOI ication when the CDI is centered and\nthe aircraft is directly over the airborne checkpoint?\n",
+        "answer": "Plus or minus 6 degrees of the designated radial.\n",
+        "choiceone": "Plus 6degrees or minus 4 degrees of the designated radial.\n",
+        "choicetwo": "Plus or minus 4 degrees of the designated radial.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (9).pdf"
+    },
+    {
+        "question": "(Refer to Figures 85 and 86.) Which combination of indications confirm that you are\napproaching WAGGE intersection slightly to the right of the LOC centerline on\ndeparture?\n\n",
+        "answer": "2 and 3.\n",
+        "choiceone": "1 and 3.\n",
+        "choicetwo": "1 and 4.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (9).pdf"
+    },
+    {
+        "question": "How can a pilot identify a military airport at night?\n",
+        "answer": "Green and white beacon light with dual flash of the white.\n",
+        "choiceone": "Green, yellow, and white beacon light.\n",
+        "choicetwo": "White and red beacon light with dual flash of the white.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (9).pdf"
+    },
+    {
+        "question": "(Refer to Figure 85.) What is the mi\nWASH2 WAGGE Departure?\n\njum rate climb per NM to 9,000 feet required for the\n",
+        "answer": "400 feet.\n",
+        "choiceone": "750 feet.\n",
+        "choicetwo": "875 feet.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (9).pdf"
+    },
+    {
+        "question": "When compared with the volumetric fuel flowmeter, the mass fuel flowmeter takes into\naccount the fuel:\n",
+        "answer": "density.\n",
+        "choiceone": "permittivity.\n",
+        "choicetwo": "pressure.\n",
+        "choicethree": "turbulent flow in the line.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (9).pdf"
+    },
+    {
+        "question": "If the pitot line is blocked, the VSI will:\n",
+        "answer": "read normally\n",
+        "choiceone": "read zero ftmm rate of climb/descent\n",
+        "choicetwo": "over-read\n",
+        "choicethree": "under-read\n",
+        "source": "pdf/Type3/agk\\AGK CPL (9).pdf"
+    },
+    {
+        "question": "An airfield, elevation 3000 feet, has a pressure altitude of 3500 feet. What is the QFE?\n",
+        "answer": "896.5 hPa\n",
+        "choiceone": "913.s hPa\n",
+        "choicetwo": "879.8 hPa\n",
+        "source": "pdf/Type3/agk\\AGK CPL (9).pdf"
+    },
+    {
+        "question": "level flight, it becomes necessary to use an alternate source of static pressure\nje the aircraft, with the cabin pressure being lower than static, the following\nvariations in instrument indication would be expected:\n\n",
+        "answer": "the altimeter will read higher than normal, airspeed greater than normal and the\nvertical-speed indicator will momentarily show a climb;\n",
+        "choiceone": "the altimeter will read higher than normal, airspeed will not change and the vertical-\nspeed indicator will momentarily show a descent;\n",
+        "choicetwo": "the altimeter will read lower than normal, airspeed greater than normal and the\nvertical-speed indicator will momentarily show a climb and then a descent.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (9).pdf"
+    },
+    {
+        "question": "Concerning the pitot and static system, the static pressure error:\n",
+        "answer": "is caused by disturbed airflow around the static ports.\n",
+        "choiceone": "is a direct effect of heating of the static ports.\n",
+        "choicetwo": "affects the alternate static port only.\n",
+        "choicethree": "is a direct effect of a blockage of the static port.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (9).pdf"
+    },
+    {
+        "question": "A machmeter does not suffer from:\n",
+        "answer": "compressibility error\n",
+        "choiceone": "instrument error\n",
+        "choicetwo": "position error\n",
+        "choicethree": "error due to blockage of the static vent\n",
+        "source": "pdf/Type3/agk\\AGK CPL (9).pdf"
+    },
+    {
+        "question": "(Please view annex 022-10217A)\nConsidering the diagram n\u00b0, the flight director command bars position indicates that\nyou should:\n",
+        "answer": "bank your aircraft to the left and increase the pitch angle.\n",
+        "choiceone": "bank your aircraft to the right and increase the pitch angle.\n",
+        "choicetwo": "bank your aircraft to the left and reduce the pitch angle.\n",
+        "choicethree": "bank your aircraft to the right and reduce the pitch angle.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (9).pdf"
+    },
+    {
+        "question": "The radio altimeter is required to indicate zero height AGL as the main wheels touch\ndown on the runway. For this reason, it is necessary to:\n",
+        "answer": "compensate for residual height and cable length.\n",
+        "choiceone": "adjust the gross height according to the aeroplane instantaneous pitch.\n",
+        "choicetwo": "change the display scale in short final, in order to have a precise readout.\n",
+        "choicethree": "have a specific radio altimeter dedicated to automatic landing.\n",
+        "source": "pdf/Type3/agk\\AGK CPL (9).pdf"
+    },
+    {
+        "question": "The formation of ice in a carburetor's throat is indicated by\n",
+        "answer": "a drop in RPM, followed by rough engine operation.\n",
+        "choiceone": "rough engine operation, followed by a decrease in oil pressure.\n",
+        "choicetwo": "a rapid increase in RPM, followed by rough engine operation.\n",
+        "source": "pdf/Type3/agk\\CPL (3).pdf"
+    },
+    {
+        "question": "The fuel vents on many powered parachutes and weight shift control aircraft are located\n",
+        "answer": "in the fuel cap.\n",
+        "choiceone": "adjacent to the crankcase breather.\n",
+        "choicetwo": "in the fuel tank pressure relief valve.\n",
+        "source": "pdf/Type3/agk\\CPL (3).pdf"
+    },
+    {
+        "question": "What effect does the leading edge slot in the wing have on performance?\n",
+        "answer": "Changes the stalling angle of attack to a higher angle.\n",
+        "choiceone": "Decreases profile drag.\n",
+        "choicetwo": "Decelerates the upper surface boundary layer air.\n",
+        "source": "pdf/Type3/agk\\CPL (3).pdf"
+    },
+    {
+        "question": "The Ram Air Turbine (RAT) provides emergency hydraulic power for :\n",
+        "answer": "flight controls in the event of loss of engine driven hydraulic power.\n",
+        "choiceone": "undercarriage selection and automatic brake system.\n",
+        "choicetwo": "flap extension only.\n",
+        "choicethree": "nose wheel steering after the aeroplane has landed.\n",
+        "source": "pdf/Type3/agk\\CPL (3).pdf"
+    },
+    {
+        "question": "Hydraulic fluids used in systems of large modern airliners are:\n",
+        "answer": "Phosphate ester base fluids.\n",
+        "choiceone": "Mineral base fluids.\n",
+        "choicetwo": "Water base fluids.\n",
+        "choicethree": "Vegetable base fluids.\n",
+        "source": "pdf/Type3/agk\\CPL (3).pdf"
+    },
+    {
+        "question": "If the cabin altitude rises (aircraft in level flight), the differential pressure:\n",
+        "answer": "decreases\n",
+        "choiceone": "increases\n",
+        "choicetwo": "remains constant\n",
+        "choicethree": "may exceed the maximum permitted differential unless immediate preventative\naction is taken.\n",
+        "source": "pdf/Type3/agk\\CPL (3).pdf"
+    },
+    {
+        "question": "The maximum quantity of fuel that can be dumped with the jettisoning system is:\n",
+        "answer": "All up to a defined reserve quantity.\n",
+        "choiceone": "All fuel until the maximum landing weight is reached.\n",
+        "choicetwo": "15 tons.\n",
+        "choicethree": "All fuel.\n",
+        "source": "pdf/Type3/agk\\CPL (3).pdf"
+    },
+    {
+        "question": "Fuel pumps submerged in the fuel tanks of a large aeroplane are:\n",
+        "answer": "centrifugal low pressure type pumps.\n",
+        "choiceone": "low pressure variable swash plate pumps.\n",
+        "choicetwo": "centrifugal high pressure pumps.\n",
+        "choicethree": "high pressure swash plate pumps.\n",
+        "source": "pdf/Type3/agk\\CPL (3).pdf"
+    },
+    {
+        "question": "The torque of an aeroplane engine can be measured at the:\n",
+        "answer": "gear box which is located between the engine and the propeller.\n",
+        "choiceone": "accessory gear box.\n",
+        "choicetwo": "camshaft.\n",
+        "choicethree": "propeller blades.\n",
+        "source": "pdf/Type3/agk\\CPL (3).pdf"
+    },
+    {
+        "question": "On modern carburettors, the variations of mixture ratios are obtained by the adjustment\nof :\n",
+        "answer": "fuel flow.\n",
+        "choiceone": "fuel flow and air flow.\n",
+        "choicetwo": "fuel flow, air flow and temperature.\n",
+        "source": "pdf/Type3/agk\\CPL (3).pdf"
+    },
+    {
+        "question": "When applying carburettor heating :\n",
+        "answer": "the mixture becomes richer.\n",
+        "choiceone": "the mixture becomes leaner.\n",
+        "choicetwo": "no change occurs in the mixture ratio.\n",
+        "choicethree": "a decrease in RPM results from the lean mixture.\n",
+        "source": "pdf/Type3/agk\\CPL (3).pdf"
+    },
+    {
+        "question": "The primary reason for a limitation being imposed on the temperature of gas flow is to :\n",
+        "answer": "ensure that the maximum acceptable temperature at the turbine blades is not\nexceeded.\n",
+        "choiceone": "ensure that the maximum acceptable temperature within the combustion chamber is\nnot exceeded.\n",
+        "choicetwo": "prevent damage to the jet pipe from overheating.\n",
+        "choicethree": "prevent overheating and subsequent creep of the nozzle\n",
+        "source": "pdf/Type3/agk\\CPL (3).pdf"
+    },
+    {
+        "question": "An airplane whose maximum approved passenger seating configuration is 401 to 500\n\nseats must be equipped with at least:\n",
+        "answer": "6 hand fire-extinguishers conveniently located in the passenger compartment.\n",
+        "choiceone": "5 hand fire-extinguishers conveniently located in the passenger compartment.\n",
+        "choicetwo": "7 hand fire-extinguishers conveniently located in the passenger compartment.\n",
+        "choicethree": "8 hand fire-extinguishers conveniently located in the passenger compartment.\n",
+        "source": "pdf/Type3/agk\\CPL (3).pdf"
+    },
+    {
+        "question": "In the cockpit of a transport airplane, at least one\nmanual fire-extinguisher must be conveniently located\ncontaining :\n\n",
+        "answer": "halon.\n",
+        "choiceone": "powder.\n",
+        "choicetwo": "water.\n",
+        "choicethree": "special fluids.\n",
+        "source": "pdf/Type3/agk\\CPL (3).pdf"
+    },
+    {
+        "question": "An airplane whose maximum approved passenger seating configuration is 201 to 300\nseats must be equipped with at least:\n",
+        "answer": "4 hand fire-extinguishers conveniently located in the passenger compartment.\n",
+        "choiceone": "3 hand fire-extinguishers conveniently located in the passenger compartment.\n",
+        "choicetwo": "5 hand fire-extinguishers conveniently located in the passenger compartment.\n",
+        "choicethree": "6 hand fire-extinguishers conveniently located in the passenger compartment.\n",
+        "source": "pdf/Type3/agk\\CPL (3).pdf"
+    },
+    {
+        "question": "Continuous loop fire detector systems operate on the principle that an increase in\ntemperature produces:\n",
+        "answer": "a decrease in resistance\n",
+        "choiceone": "an increase in resistance\n",
+        "choicetwo": "a decrease in the reference current\n",
+        "choicethree": "a decrease in pressure\n",
+        "source": "pdf/Type3/agk\\CPL (3).pdf"
+    },
+    {
+        "question": "A diluter demand oxygen regulator :\n",
+        "answer": "delivers oxygen flow when inhaling.\n",
+        "choiceone": "mixes air and oxygen in a passenger oxygen mask.\n",
+        "choicetwo": "delivers oxygen flow only above FL 100.\n",
+        "choicethree": "is only recommended for use with smoke in the cockpit.\n",
+        "source": "pdf/Type3/agk\\CPL (3).pdf"
+    },
+    {
+        "question": "The equipment of an oxygen supply installation must be kept absolutely free of oil or\ngrease traces as:\n",
+        "answer": "these substances catch fire spontaneously in the presence of oxygen under\npressure.\n",
+        "choiceone": "these substances mixed with oxygen could catch fire in the presence of a spark.\n",
+        "choicetwo": "these substances could plug the oxygen masks filters.\n",
+        "choicethree": "the oxygen system would be contaminated.\n",
+        "source": "pdf/Type3/agk\\CPL (3).pdf"
+    },
+    {
+        "question": "When the oxygen system of a large aeroplane is used, :\n",
+        "answer": "with the setting on \"NORMAL\", the cockpit crew is supplied with a mixture of oxygen\nand cabin air.\n",
+        "choiceone": "the same source of supply is used by the cockpit crew and passengers.\n",
+        "choicetwo": "the same source of supply is used by the cockpit crew and cabin crew.\n",
+        "choicethree": "with the setting on \"NORMAL\", the passengers are supplied with a mixture of oxygen\nand cabin air.\n",
+        "source": "pdf/Type3/agk\\CPL (3).pdf"
+    },
+    {
+        "question": "(Refer to Figure 87.) At STRUT intersection headed eastbound, ATC instructs you to\nhold west on the 10 DME fix west of LCH on V306, standard turns, what entry procedure\nis recommended?\n",
+        "answer": "Direct.\n",
+        "choiceone": "Teardrop.\n",
+        "choicetwo": "Parallel.\n",
+        "source": "pdf/Type3/agk\\CPL (3).pdf"
+    },
+    {
+        "question": "Identify the runway distance remaining markers.\n",
+        "answer": "Signs with increments of 1,000 feet distance remaining.\n",
+        "choiceone": "Red markers laterally placed across the runway at 3,000 feet from the end.\n",
+        "choicetwo": "Yellow marker laterally placed across the runway with signs on the side denoting\ndistance to end.\n",
+        "source": "pdf/Type3/agk\\CPL (3).pdf"
+    },
+    {
+        "question": "Which is the maximum tolerance for the VOI ication when the CDI is centered and\nthe aircraft is directly over the airborne checkpoint?\n",
+        "answer": "Plus or minus 6 degrees of the designated radial.\n",
+        "choiceone": "Plus 6degrees or minus 4 degrees of the designated radial.\n",
+        "choicetwo": "Plus or minus 4 degrees of the designated radial.\n",
+        "source": "pdf/Type3/agk\\CPL (3).pdf"
+    },
+    {
+        "question": "What are the indications of the pulsating VASI?\n",
+        "answer": "High - pulsing white, on glidepath - steady white, slightly below glide slope steady\nred, low - pulsing red.\n",
+        "choiceone": "High - pulsing white, on glidepath - green, low - pulsing red.\n",
+        "choicetwo": "High - pulsing white, on course and on glidepath - steady white, off course but on\nglidepath - pulsing white and red; low - pulsing red.\n",
+        "source": "pdf/Type3/agk\\CPL (3).pdf"
+    },
+    {
+        "question": "How should you preflight check the altimeter prior to an IFR flight?\n",
+        "answer": "Set the altimeter to the current altimeter setting. The indication should be within 75\nfeet of the actual elevation for acceptable accuracy.\n",
+        "choiceone": "Set the altimeter to 29.92\" Hg. With current temperature and the altimeter indication,\ndetermine the true altitude to compare with the field elevation.\n",
+        "choicetwo": "Set the altimeter first with 29.92\" Hg and then the current altimeter setting. The\nchange in altitude should correspond to the change in setting.\n",
+        "source": "pdf/Type3/agk\\CPL (3).pdf"
+    },
+    {
+        "question": "If a manifold pressure gauge consistently registers atmospheric pressure, the caus:\nprobably:\n",
+        "answer": "leak in pressure gauge line.\n",
+        "choiceone": "an aneroid capsule which is not properly calibrated.\n",
+        "choicetwo": "a very high atmospheric pressure.\n",
+        "choicethree": "a very low atmospheric pressure.\n",
+        "source": "pdf/Type3/agk\\CPL (3).pdf"
+    },
+    {
+        "question": "When compared with the volumetric fuel flowmeter, the mass fuel flowmeter takes into\naccount the fuel:\n",
+        "answer": "density.\n",
+        "choiceone": "permittivity.\n",
+        "choicetwo": "pressure.\n",
+        "choicethree": "turbulent flow in the line.\n",
+        "source": "pdf/Type3/agk\\CPL (3).pdf"
+    },
+    {
+        "question": "The mean sea level calibration constants used for pressure altimeters are:\n",
+        "answer": "pressure 1013.2 mb, temperature +15\u00b0C, density 1225 gm/m3\n",
+        "choiceone": "pressure 1013.2 mb, temperature +15\u00b0C, density 1225 gmim2\n",
+        "choicetwo": "pressure 30\" Hg, temperature +15\u00b0C, density 1225 gm/m3.\n",
+        "choicethree": "pressure 1013.2 hg, temperature +15\u00b0C, density 1225 gm/m3\n",
+        "source": "pdf/Type3/agk\\CPL (3).pdf"
+    },
+    {
+        "question": "The QFE at an aerodrome (elevation) 1790 feet is 962 hPa and the QNH 1022 hPa. If the\ntransition level is FLO40 the physical level of the transition level above the aerodrome is\napproximately:\n",
+        "answer": "2464 feet\n",
+        "choiceone": "2150 feet\n",
+        "choicetwo": "2280 feet.\n",
+        "source": "pdf/Type3/agk\\CPL (3).pdf"
+    },
+    {
+        "question": "Transition altitude is obtained from:\n",
+        "answer": "Jeppesen or Aerad flight guides.\n",
+        "choiceone": "ATC or VOR ATIS.\n",
+        "choicetwo": "1500 feet above airfield elevation.\n",
+        "source": "pdf/Type3/agk\\CPL (3).pdf"
+    },
+    {
+        "question": "QNH is the sub-scale setting which will cause the altimeter to read:\n",
+        "answer": "vertical displacement above mean sea level\n",
+        "choiceone": "the altitude at which any given pressure exists in the standard atmosphere\n",
+        "choicetwo": "vertical displacement above the airfield pressure datum\n",
+        "choicethree": "pressure altitude\n",
+        "source": "pdf/Type3/agk\\CPL (3).pdf"
+    },
+    {
+        "question": "Transition level is obtained from:\n",
+        "answer": "ATC or VOR ATIS.\n",
+        "choiceone": "Jeppesen or Aerad flight guides.\n",
+        "choicetwo": "1500 feet above airfield elevation.\n",
+        "source": "pdf/Type3/agk\\CPL (3).pdf"
+    },
+    {
+        "question": "If the Pitot opening is blocked, whi\nvent)?\n\nstruments would be affected (separate static\n",
+        "answer": "ASI only.\n",
+        "choiceone": "ASI, Altimeter and VSI.\n",
+        "choicetwo": "ASI and VSI.\n",
+        "source": "pdf/Type3/agk\\CPL (3).pdf"
+    },
+    {
+        "question": "\\g at a constant Mach number in the standard atmosphere, the\n\n",
+        "answer": "increase\n",
+        "choiceone": "decrease\n",
+        "choicetwo": "remain constant\n",
+        "choicethree": "remain constant unless the aircraft flies through an inversion\n",
+        "source": "pdf/Type3/agk\\CPL (3).pdf"
+    },
+    {
+        "question": "One characteristic that a properly functioning gyro depends upon for operation is the:\n",
+        "answer": "Resistance to deflection of the gyro rotor.\n",
+        "choiceone": "Ability to resist precession at 90 degrees to an applied force.\n",
+        "choicetwo": "Position of the gyro axis relative to the Earth's axis.\n",
+        "source": "pdf/Type3/agk\\CPL (3).pdf"
+    },
+    {
+        "question": "When, in flight, the needle of a needle-and-ball indicator is on the right and the ball on\nthe left, the aeroplane is:\n",
+        "answer": "turning right with too much right rudder pedal.\n",
+        "choiceone": "turning right with not enough right rudder pedal.\n",
+        "choicetwo": "turning left with too much right rudder pedal.\n",
+        "choicethree": "turning left with not enough right rudder pedal.\n",
+        "source": "pdf/Type3/agk\\CPL (3).pdf"
+    },
+    {
+        "question": "The radio altimeter is required to indicate zero height AGL as the main wheels touch\ndown on the runway. For this reason, it is necessary to:\n",
+        "answer": "compensate for residual height and cable length.\n",
+        "choiceone": "adjust the gross height according to the aeroplane instantaneous pitch.\n",
+        "choicetwo": "change the display scale in short final, in order to have a precise readout.\n",
+        "choicethree": "have a specific radio altimeter dedicated to automatic landing.\n",
+        "source": "pdf/Type3/agk\\CPL (3).pdf"
+    },
+    {
+        "question": "If the engine oil temperature and cylinder head temperature gauges have exceeded their\nnormal operating range, you may have been\n",
+        "answer": "operating with too much power and with the mixture set too lean.\n",
+        "choiceone": "operating with the mixture set too rich.\n",
+        "choicetwo": "using fuel that has a higher-than-specified fuel rating.\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "If the ground wire between the magneto and the ignition switch becomes disconnected,\nthe most noticeable result will be that the engine\n",
+        "answer": "cannot be shut down by turning the switch to the OFF position.\n",
+        "choiceone": "will run very rough.\n",
+        "choicetwo": "cannot be started with the switch in the ON position.\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "What is the CFR Part 1 definition of critical engine?\n",
+        "answer": "The engine whose failure would most adversely affect airplane performance or\nhandling qualities.\n",
+        "choiceone": "The outboard engine whose failure would most adversely affect safety.\n",
+        "choicetwo": "The engine still running which would most adversely affect performance if it should\nfail.\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "One advantage of fuel injection systems over carburetor systems is\n",
+        "answer": "better fuel distribution to the cylinders.\n",
+        "choiceone": "easier hot-engine starting.\n",
+        "choicetwo": "less difficulty with hot weather vapor locks during ground operations.\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "An electrical system failure (battery and alternator) occurs during flight. In this situation,\nyou would\n",
+        "answer": "perience avionics equipment failure.\n",
+        "choiceone": "probably experience failure of the engine ignition system, fuel gauges, aircraft\nlighting system, and avionics equipment.\n",
+        "choicetwo": "probably experience engine failure due to the loss of the engine-driven fuel pump\nand also experience failure of the radio equipment, lights, and all instruments that\nrequire alternating current.\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "Air cooled engines dissipate heat\n",
+        "answer": "through cooling fins on the cylinder and head.\n",
+        "choiceone": "by air flowing through the radiator fins.\n",
+        "choicetwo": "through the cylinder head temperature probe.\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "constant angle of bank and altitude?\n",
+        "answer": "The rate of turn will decrease resulting in no changes in load factor.\n",
+        "choiceone": "The rate of turn will decrease resulting in a decreased load factor.\n",
+        "choicetwo": "The rate of turn will increase resulting in an increased load factor.\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "What is the relationship of the rate of turn with the radius of turn with a constant angle of\nbank but increasing airspeed?\n",
+        "answer": "Rate will decrease and radius will increase.\n",
+        "choiceone": "Rate will increase and radius will decrease.\n",
+        "choicetwo": "Rate and radius will increase.\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "In a steep turn to the left, when using spoilers ...\n",
+        "answer": "The right aileron will descend, the left one will ascend, the right spoiler will retract\nand the left one will extend.\n",
+        "choiceone": "The right aileron will descend, the left one will ascend, the right spoiler will extend\nand the left one will retract.\n",
+        "choicetwo": "The right aileron will ascend, the left one will descend, the right spoiler will extend\nand the left one will retract.\n",
+        "choicethree": "The right aileron will ascend, the left one will descend, the right spoiler will retract\nand the left one will extend.\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "In a hydraulic braking system, the accumulator is:\n",
+        "answer": "an accumulator designed to restore brake energy in the event of a hydraulic failure.\n",
+        "choiceone": "a damping type accumulator designed to take up the pressure fluctuations of the\nautomatic braking system.\n",
+        "choicetwo": "designed to take up the hydraulic energy filtered by the anti-skid system in order to\nprevent wheel blocking.\n",
+        "choicethree": "a buffer accumulator whose function is to assist the hydraulic system during high\nintensity braking.\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "Thermal plugs are installed in:\n",
+        "answer": "wheel rims.\n",
+        "choiceone": "cabin windows.\n",
+        "choicetwo": "cargo compartments.\n",
+        "choicethree": "fire warning systems.\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "\u201cConditioned\u201d air is air that has :\n",
+        "answer": "been controlled in respect of temperature and pressure.\n",
+        "choiceone": "had any moisture removed from it.\n",
+        "choicetwo": "had the oxygen content increased.\n",
+        "choicethree": "had the oxygen content reduced.\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "Cabin altitude means the:\n",
+        "answer": "cabin pressure expressed as altitude.\n",
+        "choiceone": "flight level the aircraft is flying at.\n",
+        "choicetwo": "flight level altitude at maximum differential pressure.\n",
+        "choicethree": "difference in height between the cabin floor and ceiling.\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "The purpose of the preheating coil used in hot air balloons is to\n",
+        "answer": "vaporize the fuel for more efficient burner operation.\n",
+        "choiceone": "prevent ice from forming in the fuel lines.\n",
+        "choicetwo": "warm the fuel tanks for more efficient fuel flow.\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "Electrical bonding of an aircraft is used to: 1. protect the aircraft against lightning effects.\n2. reset the electrostatic potential of the aircraft to a value approximating 0 volt 3. reduce\nradio interference on radiocommunication systems 4. set the aircraft to a single\npotential The combination regrouping all the correct statements\n",
+        "answer": "1,3,4\n",
+        "choiceone": "1,2,3\n",
+        "choicetwo": "3,4\n",
+        "choicethree": "2,4\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "If the ground wire between the magneto and the ignition switch becomes disconnected,\nthe most noticeable result will be that the engine\n",
+        "answer": "cannot be shut down by turning the switch to the OFF position.\n",
+        "choiceone": "will not operate at the right magneto:\n",
+        "choicetwo": "cannot be started with the switch in the ON position\n",
+        "choicethree": "will not operate at the left magneto\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "The oil system for a piston engine incorporates an oil cooler that is fitted :\n",
+        "answer": "in the return line to the oil tank after the oil has passed through the scavenge pump\n",
+        "choiceone": "between the oil tank and the pressure pump\n",
+        "choicetwo": "after the pressure pump but before the oil passes through the engine\n",
+        "choicethree": "after the oil has passed through the engine and before it enters the sump\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "When altitude increases without adjustment of the mixture ratio, the piston engine\nperformance is affected because of a:\n",
+        "answer": "decrease of air density for a constant quantity of fuel.\n",
+        "choiceone": "decrease of air density for a smaller quantity of fuel.\n",
+        "choicetwo": "constant air density for a bigger quantity of fuel.\n",
+        "choicethree": "increase of air density for smaller quantity of fuel.\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "in a piston engine turbo-supercharger centrifugal compressor :\n",
+        "answer": "enters the eye of the impeller and leaves at a tangent to the periphery.\n",
+        "choiceone": "enters at the periphery and leaves via the eye of the impeller.\n",
+        "choicetwo": "enters at a tangent to the rotor and leaves via the stator.\n",
+        "choicethree": "enters via the diffuser and is fed to the impeller at the optimum angle of attack.\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "The disadvantages of a chemical oxygen source for the passenger cabin are : 1. a flow\nwhich cannot be modulated, 2. a heavy and bulky system, 3. non reversible functioning,\n4. risks of explosion, 5. poor autonomy. The combination regrouping all the correct\n\nstatements is:\n",
+        "answer": "1,3,5\n",
+        "choiceone": "1,2,3,4,5\n",
+        "choicetwo": "2,4\n",
+        "choicethree": "1,2,3,5\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "Prior to starting the engine, the manifold pressure gauge usually\napproximately 29\" Hg. This is because the\n",
+        "answer": "pressure within the manifold is the same as atmospheric pressure.\n",
+        "choiceone": "pointer on the gauge is stuck at the full-power indication.\n",
+        "choicetwo": "throttle is closed, trapping high air pressure in the manifold.\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "What are the indications of the pulsating VASI?\n",
+        "answer": "High - pulsing white, on glidepath - steady white, slightly below glide slope steady\nred, low - pulsing red.\n",
+        "choiceone": "High - pulsing white, on glidepath - green, low - pulsing red.\n",
+        "choicetwo": "High - pulsing white, on course and on glidepath - steady white, off course but on\nglidepath - pulsing white and red; low - pulsing red.\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "If the static pressure tubes are broken inside a pressurized cabin during a high-altitude\nflight, the altimeter would probably indicate\n",
+        "answer": "lower than actual flight altitude.\n",
+        "choiceone": "sea level.\n",
+        "choicetwo": "higher than actual flight altitude.\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "(Refer to Figures 139 and 141.) Which displacement from the localizer centerline and\nglide slope at the 1,300-foot point from the runway is indicated?\n",
+        "answer": "21 feet above the glide slope and approximately 320 feet to the left of the runway\ncenterline.\n",
+        "choiceone": "21 feet below the glide slope and approximately 320 feet to the right of the runway\ncenterline.\n",
+        "choicetwo": "28 feet above the glide slope and approximately 250 feet to the left of the runway\ncenterline.\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "Which statement is true about magnetic deviation of a compass?\n",
+        "answer": "Deviation varies for different headings of the same aircraft.\n",
+        "choiceone": "Deviation is the same for all aircraft in the same locality.\n",
+        "choicetwo": "Deviation is different in a given aircraft in different localities.\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "Which is the maximum tolerance for the VOI ication when the CDI is centered and\nthe aircraft is directly over the airborne checkpoint?\n",
+        "answer": "Plus or minus 6 degrees of the designated radial.\n",
+        "choiceone": "Plus 6degrees or minus 4 degrees of the designated radial.\n",
+        "choicetwo": "Plus or minus 4 degrees of the designated radial.\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "If the Pitot head is blocked, what airspeed indication can he expected?\n",
+        "answer": "No change of IAS in level flight, even with large power changes.\n",
+        "choiceone": "A decrease of IAS during a climb.\n",
+        "choicetwo": "Constant IAS during a descent.\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "Which is true concerning gyroplane operations?\n",
+        "answer": "Minimum level flight speed is established when all available power is used to\nmaintain constant altitude and airspeed.\n",
+        "choiceone": "Rotor RPM will decrease during a vertical descent regardless of weight or density\naltitude.\n",
+        "choicetwo": "A gyroplane can take off from any area in which it can safely land.\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "A gyroplane will have the greatest tendency to roll during\n",
+        "answer": "horizontal flight at high speed.\n",
+        "choiceone": "climbing flight in which forward airspeed decreases.\n",
+        "choicetwo": "descending flight in which forward airspeed decreases.\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "Which procedure is recommended to prevent or overcome spatial disorientation?\n",
+        "answer": "Rely entirely on the indications of the flight instruments.\n",
+        "choiceone": "Avoid steep turns and rough control movements.\n",
+        "choicetwo": "Reduce head and eye movements to the greatest extent possible.\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "Deviation error of the magnetic compass is caused by\n",
+        "answer": "certain metals and electrical systems within the aircraft.\n",
+        "choiceone": "northerly turning error.\n",
+        "choicetwo": "the difference in location of true north and magnetic north.\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "A possible result of using the emergency alternate source of static pressure inside the\ncabin of an unpressurized airplane is the\n",
+        "answer": "altimeter may indicate an altitude higher than the actual altitude being flown.\n",
+        "choiceone": "airspeed indicator may indicate less than normal.\n",
+        "choicetwo": "altimeter may indicate an altitude lower than the actual altitude being flown.\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "When an altimeter is changed from 30.11\" Hg to 29.96\" Hg,\nindicated altitude change and by what value?\n\nwhich direction will the\n\n",
+        "answer": "Altimeter will indicate 150 feet lower.\n",
+        "choiceone": "Altimeter will indicate 15 feet lower.\n",
+        "choicetwo": "Altimeter will indicate 150 feet higher.\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "If the Pitot Head and Static Vent were blocked by ice, which instruments would be\naffected?\n",
+        "answer": "Altimeter, VSI and ASI would give inaccurate readings.\n",
+        "choiceone": "ASI, Altimeter and Slip indicator.\n",
+        "choicetwo": "The ASI would under read.\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "A VSI may suffer from error due to:\n",
+        "answer": "time lag, instrument calibration, blockage\n",
+        "choiceone": "compressibility, time lag, blockage\n",
+        "choicetwo": "density, aircraft manoeuvre, position of the static vent\n",
+        "choicethree": "pitot blockage, static blockage, aircraft manoeuvre\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "A simple pressure altimeter uses:\n",
+        "answer": "static pressure fed into a gas tight casing, but outside a partially evacuated capsule\n",
+        "choiceone": "static pressure fed to an open capsule\n",
+        "choicetwo": "pitot pressure fed to an open capsule\n",
+        "choicethree": "static pressure fed outside a completely evacuated aneroid capsule.\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "VFE is the maximum speed:\n",
+        "answer": "with the flaps extended.\n",
+        "choiceone": "with the flaps extended in the landing configuration.\n",
+        "choicetwo": "with the flaps extended in the take-off configuration.\n",
+        "choicethree": "at which the flaps can be operated when flying in turbulences.\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "If the Pitot opening is blocked, whi\nvent)?\n\nstruments would be affected (separate static\n",
+        "answer": "ASI only.\n",
+        "choiceone": "ASI, Altimeter and VSI.\n",
+        "choicetwo": "ASI and VSI.\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "During a stabilised climbing turn at a constant rate, the instruments which indicate the\n\ncorrect pitch and bank are the:\n",
+        "answer": "attitude indicator and turn-and-slip indicator.\n",
+        "choiceone": "vertical-speed indicator and turn-and-slip indicator;\n",
+        "choicetwo": "altimeter and turn-and-slip indicator;\n",
+        "source": "pdf/Type3/agk\\lifetym.pdf"
+    },
+    {
+        "question": "The purpose of a kill switch is to\n",
+        "answer": "ground the lead wire to the ignition coil shutting down the powerplant.\n",
+        "choiceone": "shut off the fuel to the carburetor.\n",
+        "choicetwo": "ground the battery eliminating current for the ignition system.\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "The first indication of carburetor ice in an aircraft with a fixed-pitch propeller is\n",
+        "answer": "a decrease in RPM.\n",
+        "choiceone": "a decrease in manifold pressure.\n",
+        "choicetwo": "an increase in manifold pressure.\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "What is the CFR Part 1 definition of critical engine?\n",
+        "answer": "The engine whose failure would most adversely affect airplane performance or\nhandling qualities.\n",
+        "choiceone": "The outboard engine whose failure would most adversely affect safety.\n",
+        "choicetwo": "The engine still running which would most adversely affect performance if it should\nfail.\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "Adding more oil to the fuel than specified by the manufacturer of a 2-cycle engine will\nresult in\n",
+        "answer": "increased carbon buildup and engine fouling.\n",
+        "choiceone": "increased engine performance.\n",
+        "choicetwo": "increased engine lubrication and optimal performance.\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "Running a fuel tank dry before switching tanks is not a good practice because\n",
+        "answer": "the engine-driven fuel pump or electric fuel boost pump draw air into the fuel system\nand cause vapor lock.\n",
+        "choiceone": "any foreign matter in the tank will be pumped into the fuel system.\n",
+        "choicetwo": "the engine-driven fuel pump is lubricated by fuel and operating on a dry tank may\ncause pump failure.\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "The purpose of the fuel tank vent system is to\n",
+        "answer": "allow air to enter the tank as fuel is consumed.\n",
+        "choiceone": "remove dangerous vapors from the aircraft and prevent an explosion.\n",
+        "choicetwo": "ensure a proper fuel to air ratio.\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "The presence of carburetor ice in an aircraft equipped with a fixed-pitch propeller can be\nverified by applying carburetor heat and noting\n",
+        "answer": "a decrease in RPM and then a gradual increase in RPM.\n",
+        "choiceone": "a decrease in RPM and then a constant RPM indication.\n",
+        "choicetwo": "an increase in RPM and then a gradual decrease in RPM.\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "A high-frequency vibration that suddenly occurs during flight could be an indication of a\ndefective\n",
+        "answer": "transmission.\n",
+        "choiceone": "ignition system.\n",
+        "choicetwo": "freewheeling unit.\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "By changing the angle of attack of a wing, the pilot can control the airplane's\n",
+        "answer": "lift, airspeed, and drag.\n",
+        "choiceone": "lift, gross weight, and drag.\n",
+        "choicetwo": "lift and airspeed, but not drag.\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "Which of the following is considered a primary flight control?\n",
+        "answer": "Elevator.\n",
+        "choiceone": "Slats.\n",
+        "choicetwo": "Dorsal fin.\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "In a steep turn to the left, when using spoilers ...\n",
+        "answer": "The right aileron will descend, the left one will ascend, the right spoiler will retract\nand the left one will extend.\n",
+        "choiceone": "The right aileron will descend, the left one will ascend, the right spoiler will extend\nand the left one will retract.\n",
+        "choicetwo": "The right aileron will ascend, the left one will descend, the right spoiler will extend\nand the left one will retract.\n",
+        "choicethree": "The right aileron will ascend, the left one will descend, the right spoiler will retract\nand the left one will extend.\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "What affects indicated stall speed?\n",
+        "answer": "Weight, load factor, and power.\n",
+        "choiceone": "Load factor, angle of attack, and power.\n",
+        "choicetwo": "Angle of attack, weight, and air density.\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "The fuselage of an aircraft consists, among others, of stringers whose purpose is to:\n",
+        "answer": "assist the skin in absorbing the longitudinal traction-compression stresses.\n",
+        "choiceone": "withstand the shear stresses.\n",
+        "choicetwo": "provide sound and thermal isolation.\n",
+        "choicethree": "integrate the strains due to pressurization to which the skin is subjected and convert\nthem into a tensile stress.\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "A tubeless tyre has : 1- a built-in-air tube. 2- no built-in-air tube. 3-acrossed\ncasing. 4- a radial side casing. The combination of correct statements is:\n\n",
+        "answer": "2,4.\n",
+        "choiceone": "1,4.\n",
+        "choicetwo": "2, 3.\n",
+        "choicethree": "1,3.\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "If the cabin altitude rises (aircraft in level flight), the differential pressure:\n",
+        "answer": "decreases\n",
+        "choiceone": "increases\n",
+        "choicetwo": "remains constant\n",
+        "choicethree": "may exceed the maximum permitted differential unless immediate preventative\naction is taken.\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "Assuming cabin pressure decreases, the cabin rate of climb indicator should indicate :\n",
+        "answer": "a rate of climb.\n",
+        "choiceone": "a rate of descent of approximately 300 feet per minutes.\n",
+        "choicetwo": "zero.\n",
+        "choicethree": "a rate of descent dependent upon the cabin differential pressure.\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "During fuelling the automatic fuelling shut off valves will\n",
+        "answer": "the fuel has reached a predetermined volume or mass.\n",
+        "choiceone": "the surge vent tank is filled.\n",
+        "choicetwo": "there is fire.\n",
+        "choicethree": "fuelling system has reached a certain pressure.\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "\u201cVapor lock\" is the phenomenon by which:\n",
+        "answer": "heat produces vapour plugs in the fuel line.\n",
+        "choiceone": "burnt gas plugs forming and remaining in the exhaust manifold following an\noverheat and thereby disturbing the exhaust.\n",
+        "choicetwo": "water vapour plugs are formed in the intake fuel line following the condensation of\nwater in fuel tanks which have not been drained for sometime.\n",
+        "choicethree": "abrupt and abnormal enrichment of the fuel/air mixture following an inappropriate\nuse of carburettor heat.\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "If the ground wire between the magnetos and the ig\ndisconnected the most noticeable result will be that:\n",
+        "answer": "the engine cannot be shut down by turning the ignition switch to the \"OFF\" position\n",
+        "choiceone": "a still operating engine will run down\n",
+        "choicetwo": "the engine cannot be started with the ignition switch in the \"ON\" position\n",
+        "choicethree": "the power developed by the engine will be strongly reduced\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "The control of free turbine engines on turboprops, is accomplished by: -a propeller\ncontrol lever used to select: 1- propeller RPM 2.-turbine temperature 3 - turbine RPM\n- a fuel control lever used to select: 4- propeller RPM 5 - torque 6 - turbine temperature\nThe combination which regroups all of the correct statements is :\n",
+        "answer": "1-5-6\n",
+        "choiceone": "1-3-5\n",
+        "choicetwo": "3-4-6\n",
+        "choicethree": "2-4-5\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "Prior to starting the engine, the manifold pressure gauge usually\napproximately 29\" Hg. This is because the\n",
+        "answer": "pressure within the manifold is the same as atmospheric pressure.\n",
+        "choiceone": "pointer on the gauge is stuck at the full-power indication.\n",
+        "choicetwo": "throttle is closed, trapping high air pressure in the manifold.\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "In which pul\nbe found?\n\nition can the VOR receiver ground checkpoint(s) for a particular\n",
+        "answer": "Airport/Facility Directory.\n",
+        "choiceone": "Aeronautical Information Manual.\n",
+        "choicetwo": "En Route Low Altitude Chart.\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "A possible result of using the emergency alternate source of static pressure inside the\ncabin of an unpressurized airplane is the\n",
+        "answer": "altimeter may indicate an altitude higher than the actual altitude being flown.\n",
+        "choiceone": "airspeed indicator may indicate less than normal.\n",
+        "choicetwo": "altimeter may indicate an altitude lower than the actual altitude being flown.\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "(Refer to Figures 139 and 141.) Which displacement from the localizer centerline and\nglide slope at the 1,300-foot point from the runway is indicated?\n",
+        "answer": "21 feet above the glide slope and approximately 320 feet to the left of the runway\ncenterline.\n",
+        "choiceone": "21 feet below the glide slope and approximately 320 feet to the right of the runway\ncenterline.\n",
+        "choicetwo": "28 feet above the glide slope and approximately 250 feet to the left of the runway\ncenterline.\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "Which is true concerning gyroplane operations?\n",
+        "answer": "Minimum level flight speed is established when all available power is used to\nmaintain constant altitude and airspeed.\n",
+        "choiceone": "Rotor RPM will decrease during a vertical descent regardless of weight or density\naltitude.\n",
+        "choicetwo": "A gyroplane can take off from any area in which it can safely land.\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "When making an airborne VOR check, what is the maximum allowable tolerance\nbetween the two indicators of a dual VOR system (units independent of each other\nexcept the antenna)?\n\n",
+        "answer": "4 degrees between the two indicated bearings of a VOR.\n",
+        "choiceone": "Plus or minus 4 degrees when set to identical radials of a VOR.\n",
+        "choicetwo": "6 degrees between the two indicated radials of a VOR.\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "How can a pilot identify a lighted heliport at night?\n",
+        "answer": "Green, yellow, and white beacon light.\n",
+        "choiceone": "White and red beacon light with dual flash of the white.\n",
+        "choicetwo": "Green and white beacon light with dual flash of the white.\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "Identify the runway distance remaining markers.\n",
+        "answer": "Signs with increments of 1,000 feet distance remaining.\n",
+        "choiceone": "Red markers laterally placed across the runway at 3,000 feet from the end.\n",
+        "choicetwo": "Yellow marker laterally placed across the runway with signs on the side denoting\ndistance to end.\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "Deviation error of the magnetic compass is caused by\n",
+        "answer": "certain metals and electrical systems within the aircraft.\n",
+        "choiceone": "northerly turning error.\n",
+        "choicetwo": "the difference in location of true north and magnetic north.\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "Which procedure is recommended to prevent or overcome spatial disorientation?\n",
+        "answer": "Rely entirely on the indications of the flight instruments.\n",
+        "choiceone": "Avoid steep turns and rough control movements.\n",
+        "choicetwo": "Reduce head and eye movements to the greatest extent possible.\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "How will the airspeed icator react if the ram ai\nice, but the drain hole and static port are not?\n\nput to the pitot head is blocked by\n",
+        "answer": "Indication will drop to zero.\n",
+        "choiceone": "Indication will rise to the top of the scale.\n",
+        "choicetwo": "Indication will remain constant but will increase in a climb.\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "nificance of the blue radial line on the airspeed\nmultiengine airplane and when is it to be used? It indicates the\n\n",
+        "answer": "speed which will provide the maximum altitude gain in a given time when one engine\nis inoperative and should be used for climb and final approach during engine-out\noperations.\n",
+        "choiceone": "minimum speed at which the airplane is controllable when the critical engine is\nsuddenly made inoperative and should be used at all altitudes when an engine is\ninoperative.\n",
+        "choicetwo": "speed which will provide the greatest height for a given distance of forward travel\nwhen one engine is inoperative and should be used for all climbs during engine-out\noperations.\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "Which statement is true about magnetic deviation of a compass?\n",
+        "answer": "Deviation varies for different headings of the same aircraft.\n",
+        "choiceone": "Deviation is the same for all aircraft in the same locality.\n",
+        "choicetwo": "Deviation is different in a given aircraft in different localities.\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "What is the advantage of a three-bar VASI?\n",
+        "answer": "A normal glide angle is afforded both high and low cockpit aircraft.\n",
+        "choiceone": "Pilots have a choice of glide angles.\n",
+        "choicetwo": "The three-bar VASI is much more visible and can be used at a greater height.\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "Which may lead to a power push-over in a gyroplane?\n",
+        "answer": "Rotor force is removed.\n",
+        "choiceone": "Low speed.\n",
+        "choicetwo": "Decreasing power too quickly.\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "A VSI may suffer from error due to:\n",
+        "answer": "time lag, instrument calibration, blockage\n",
+        "choiceone": "compressibility, time lag, blockage\n",
+        "choicetwo": "density, aircraft manoeuvre, position of the static vent\n",
+        "choicethree": "pitot blockage, static blockage, aircraft manoeuvre\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "The high Altitude Radio Altimeter uses the following wavelengths:\n",
+        "answer": "decimetric.\n",
+        "choiceone": "hectometric.\n",
+        "choicetwo": "myriametric.\n",
+        "choicethree": "metric.\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "VFE is the maximum speed:\n",
+        "answer": "with the flaps extended.\n",
+        "choiceone": "with the flaps extended in the landing configuration.\n",
+        "choicetwo": "with the flaps extended in the take-off configuration.\n",
+        "choicethree": "at which the flaps can be operated when flying in turbulences.\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "An ASI consists of a gas tight casing which has:\n",
+        "answer": "pitot pressure fed into an open capsule and static pressure fed outside the capsule\n",
+        "choiceone": "static pressure fed outside a sealed capsule and pitot pressure fed into a second\nopen capsule\n",
+        "choicetwo": "static pressure fed outside a sealed capsule\n",
+        "choicethree": "static pressure fed through a restrictive choke\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "Rectified Airspeed is:\n",
+        "answer": "IAS corrected for instrument and pressure error.\n",
+        "choiceone": "IAS corrected for density error.\n",
+        "choicetwo": "IAS corrected for density and compressibility errors.\n",
+        "source": "pdf/Type3/agk\\opera.pdf"
+    },
+    {
+        "question": "Detonation in an aircraft engine is most likely to occur whenever the\n",
+        "answer": "engine is operated under conditions which cause the fuel mixture to burn\ninstantaneously.\n",
+        "choiceone": "fuel/air ratio is such that the mixture burns extremely slow.\n",
+        "choicetwo": "fuel being used is of a higher grade than recommended by the engine manufacturer.\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "What should help prevent aircraft induced oscillation on a gyroplane?-\n",
+        "answer": "Adding a horizontal stabilizer.\n",
+        "choiceone": "Increasing cyclic control sensitivity.\n",
+        "choicetwo": "Lowering the center of gravity below the thrust line.\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "Air cooled engines dissipate heat\n",
+        "answer": "through cooling fins on the cylinder and head.\n",
+        "choiceone": "by air flowing through the radiator fins.\n",
+        "choicetwo": "through the cylinder head temperature probe.\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "In order to improve engine efficiency, two-cycle engine exhaust systems are tuned to\n",
+        "answer": "stop the fuel mixture from exiting the cylinder before combustion.\n",
+        "choiceone": "close the exhaust valve to stop the fuel mixture from exiting the cylinder.\n",
+        "choicetwo": "use a reed valve to stop the fuel mixture from exiting the cylinder.\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "The formation of ice in a carburetor's throat is indicated by\n",
+        "answer": "a drop in RPM, followed by rough engine operation.\n",
+        "choiceone": "rough engine operation, followed by a decrease in oil pressure.\n",
+        "choicetwo": "a rapid increase in RPM, followed by rough engine operation.\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "A high-frequency vibration that suddenly occurs during flight could be an indication of a\ndefective\n",
+        "answer": "transmission.\n",
+        "choiceone": "ignition system.\n",
+        "choicetwo": "freewheeling unit.\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "One advantage of fuel injection systems over carburetor systems is\n",
+        "answer": "better fuel distribution to the cylinders.\n",
+        "choiceone": "easier hot-engine starting.\n",
+        "choicetwo": "less difficulty with hot weather vapor locks during ground operations.\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "Concerning carburetor icing, which statement is true?\n",
+        "answer": "Carburetor icing would most likely form when the air temperature is between -\n7degrees C and 21 degrees C and visible moisture or high humidity is present.\n",
+        "choiceone": "The first indication of carburetor icing, in an aircraft equipped with a fixed-pitch\npropeller, is a decrease in manifold pressure.\n",
+        "choicetwo": "Carburetor icing will form in a carburetor whenever the ambient temperature is\nbelow freezing with a reduced or closed throttle setting.\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "An artificial feel unit is necessary in the pitch channel when:\n",
+        "answer": "the elevators are actuated by irreversible servo-control units.\n",
+        "choiceone": "the elevators are actuated by reversible servo-control units.\n",
+        "choicetwo": "the elevators are fitted with servo-tabs or trim tabs.\n",
+        "choicethree": "there is a trimmable stabilizer.\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "What is the relationship of the rate of turn with the radius of turn with a constant angle of\nbank but increasing airspeed?\n",
+        "answer": "Rate will decrease and radius will increase.\n",
+        "choiceone": "Rate will increase and radius will decrease.\n",
+        "choicetwo": "Rate and radius will increase.\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "How can turbulent air cause an increase in stalling speed of an airfoil?\n",
+        "answer": "An abrupt change in relative wind.\n",
+        "choiceone": "A decrease in angle of attack.\n",
+        "choicetwo": "Sudden decrease in load factor.\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "What is a characteristic of longitudinal instability?\n",
+        "answer": "Pitch oscillations becoming progressively greater.\n",
+        "choiceone": "Bank oscillations becoming progressively greater.\n",
+        "choicetwo": "Aircraft constantly tries to pitch down.\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "The aircraft hydraulic system is designed to produce:\n",
+        "answer": "high pressure and large flow.\n",
+        "choiceone": "high pressure and small flow.\n",
+        "choicetwo": "small pressure and large flow.\n",
+        "choicethree": "small pressure and small flow.\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "The secondary Surveillance Radar (SSR) uses the following wavelengths:\n",
+        "answer": "decimetric.\n",
+        "choiceone": "centimetric.\n",
+        "choicetwo": "hectometric.\n",
+        "choicethree": "myriametric.\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "If the pressure in the cabin tends to become lower than the outside ambient air pressure\nthe:\n",
+        "answer": "negative pressure relief valve will open.\n",
+        "choiceone": "outflow valve open completely.\n",
+        "choicetwo": "air cycle machine will stop.\n",
+        "choicethree": "negative pressure relief valve will close\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "The main purpose of the mixture control is to:\n",
+        "answer": "adjust the fuel flow to obtain the proper fuel/air ratio\n",
+        "choiceone": "decrease the air supplied to the engine\n",
+        "choicetwo": "increase the oxygen supplied to the engine\n",
+        "choicethree": "decrease oxygen supplied to the engine\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "A feeder fault on a direct current circuit results from a flux unbalance between the:\n",
+        "answer": "voltage coil and the series winding turn.\n",
+        "choiceone": "shunt exciter and the series winding turn.\n",
+        "choicetwo": "voltage coil and the series winding.\n",
+        "choicethree": "generator and the series winding turn.\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "A unit that converts electrical DC into AC is:\n",
+        "answer": "an inverter.\n",
+        "choiceone": "a thermistor.\n",
+        "choicetwo": "an AC generator.\n",
+        "choicethree": "a transformer rectifier unit.\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "An impulse turbine is a turbine in which the expansion takes place:\n",
+        "answer": "fully in the stator.\n",
+        "choiceone": "in order to produce a degree of jet propulsion < 1/2.\n",
+        "choicetwo": "fully in the rotor.\n",
+        "choicethree": "in the stator and in the rotor.\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "nificance of the blue radial line on the airspeed\nmultiengine airplane and when is it to be used? It indicates the\n\n",
+        "answer": "speed which will provide the maximum altitude gain in a given time when one engine\nis inoperative and should be used for climb and final approach during engine-out\noperations.\n",
+        "choiceone": "minimum speed at which the airplane is controllable when the critical engine is\nsuddenly made inoperative and should be used at all altitudes when an engine is\ninoperative.\n",
+        "choicetwo": "speed which will provide the greatest height for a given distance of forward travel\nwhen one engine is inoperative and should be used for all climbs during engine-out\noperations.\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "A possible result of using the emergency alternate source of static pressure inside the\ncabin of an unpressurized airplane is the\n",
+        "answer": "altimeter may indicate an altitude higher than the actual altitude being flown.\n",
+        "choiceone": "airspeed indicator may indicate less than normal.\n",
+        "choicetwo": "altimeter may indicate an altitude lower than the actual altitude being flown.\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "When an altimeter is changed from 30.11\" Hg to 29.96\" Hg,\nindicated altitude change and by what value?\n\nwhich direction will the\n\n",
+        "answer": "Altimeter will indicate 150 feet lower.\n",
+        "choiceone": "Altimeter will indicate 15 feet lower.\n",
+        "choicetwo": "Altimeter will indicate 150 feet higher.\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "When making an airborne VOR check, what is the maximum allowable tolerance\nbetween the two indicators of a dual VOR system (units independent of each other\nexcept the antenna)?\n\n",
+        "answer": "4 degrees between the two indicated bearings of a VOR.\n",
+        "choiceone": "Plus or minus 4 degrees when set to identical radials of a VOR.\n",
+        "choicetwo": "6 degrees between the two indicated radials of a VOR.\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "Identify taxi leadoff lights associated with the centerline lighting system.\n",
+        "answer": "Alternate green and yellow lights curving from the centerline of the runway to a point\non the exit.\n",
+        "choiceone": "Alternate green and yellow lights curving from the centerline of the runway to the\ncenterline of the taxiway.\n",
+        "choicetwo": "Alternate green and yellow lights curving from the centerline of the runway to the\nedge of the taxiway.\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "Deviation error of the magnetic compass is caused by\n",
+        "answer": "certain metals and electrical systems within the aircraft.\n",
+        "choiceone": "northerly turning error.\n",
+        "choicetwo": "the difference in location of true north and magnetic north.\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "If the Pitot head is blocked, what airspeed indication can he expected?\n",
+        "answer": "No change of IAS in level flight, even with large power changes.\n",
+        "choiceone": "A decrease of IAS during a climb.\n",
+        "choicetwo": "Constant IAS during a descent.\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "What are the indications of the pulsating VASI?\n",
+        "answer": "High - pulsing white, on glidepath - steady white, slightly below glide slope steady\nred, low - pulsing red.\n",
+        "choiceone": "High - pulsing white, on glidepath - green, low - pulsing red.\n",
+        "choicetwo": "High - pulsing white, on course and on glidepath - steady white, off course but on\nglidepath - pulsing white and red; low - pulsing red.\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "In the Northern Hemisphere, if an aircrat\ncompass will normally indicate\n\naccelerated or decelerated, the magnetic\n",
+        "answer": "correctly when on a north or south heading while either accelerating or decelerating.\n",
+        "choiceone": "a turn momentarily, with changes in airspeed on any heading.\n",
+        "choicetwo": "a turn toward the south while accelerating on a west heading.\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "(Refer to Figures 139 and 141.) Which displacement from the localizer centerline and\nglide slope at the 1,300-foot point from the runway is indicated?\n",
+        "answer": "21 feet above the glide slope and approximately 320 feet to the left of the runway\ncenterline.\n",
+        "choiceone": "21 feet below the glide slope and approximately 320 feet to the right of the runway\ncenterline.\n",
+        "choicetwo": "28 feet above the glide slope and approximately 250 feet to the left of the runway\ncenterline.\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "Prior to starting the engine, the manifold pressure gauge usually\napproximately 29\" Hg. This is because the\n",
+        "answer": "pressure within the manifold is the same as atmospheric pressure.\n",
+        "choiceone": "pointer on the gauge is stuck at the full-power indication.\n",
+        "choicetwo": "throttle is closed, trapping high air pressure in the manifold.\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "Identify runway remaining lighting on centerline lighting systems.\n",
+        "answer": "Alternate red and white lights from 3,000 feet to 1,000 feet, then red lights to the end.\n",
+        "choiceone": "Amber lights from 3,000 feet to 1,000 feet, then alternate red and white lights to the\nend.\n",
+        "choicetwo": "Alternate red and white lights from 3,000 feet to the end of the runway.\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "How will the airspeed icator react if the ram ai\nice, but the drain hole and static port are not?\n\nput to the pitot head is blocked by\n",
+        "answer": "Indication will drop to zero.\n",
+        "choiceone": "Indication will rise to the top of the scale.\n",
+        "choicetwo": "Indication will remain constant but will increase in a climb.\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "A VSI may suffer from error due to:\n",
+        "answer": "time lag, instrument calibration, blockage\n",
+        "choiceone": "compressibility, time lag, blockage\n",
+        "choicetwo": "density, aircraft manoeuvre, position of the static vent\n",
+        "choicethree": "pitot blockage, static blockage, aircraft manoeuvre\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "If the Pitot Head and Static Vent were blocked by ice, which instruments would be\naffected?\n",
+        "answer": "Altimeter, VSI and ASI would give inaccurate readings.\n",
+        "choiceone": "ASI, Altimeter and Slip indicator.\n",
+        "choicetwo": "The ASI would under read.\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "The high Altitude Radio Altimeter uses the following wavelengths:\n",
+        "answer": "decimetric.\n",
+        "choiceone": "hectometric.\n",
+        "choicetwo": "myriametric.\n",
+        "choicethree": "metric.\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "VFE is the maximum speed:\n",
+        "answer": "with the flaps extended.\n",
+        "choiceone": "with the flaps extended in the landing configuration.\n",
+        "choicetwo": "with the flaps extended in the take-off configuration.\n",
+        "choicethree": "at which the flaps can be operated when flying in turbulences.\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "During a climb, the static line becomes blocked, the ASI will:\n",
+        "answer": "under-read\n",
+        "choiceone": "read normally\n",
+        "choicetwo": "over-read\n",
+        "choicethree": "read zero\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "If the Pitot opening is blocked, whi\nvent)?\n\nstruments would be affected (separate static\n",
+        "answer": "ASI only.\n",
+        "choiceone": "ASI, Altimeter and VSI.\n",
+        "choicetwo": "ASI and VSI.\n",
+        "source": "pdf/Type3/agk\\samsung.pdf"
+    },
+    {
+        "question": "With regard to an aircraft structure, \u2018fail safe\u2019 is one:\n",
+        "answer": "in which the load is carried by other components if a part of the structure fails.\n",
+        "choiceone": "that is easily manufactured.\n",
+        "choicetwo": "used for small aircraft only.\n",
+        "choicethree": "that is only used for a limited time.\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "The fuselage of an aircraft consists, among others, of stringers whose purpose is to:\n",
+        "answer": "assist the skin in absorbing the longitudinal traction-compression stresses.\n",
+        "choiceone": "withstand the shear stresses.\n",
+        "choicetwo": "provide sound and thermal isolation.\n",
+        "choicethree": "integrate the strains due to pressurization to which the skin is subjected and convert\nthem into a tensile stress.\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "Ina hydraulic system, the reservoir is pressurized in order to:\n",
+        "answer": "prevent pump cavitation\n",
+        "choiceone": "seal the system\n",
+        "choicetwo": "keep the hydraulic fluid at optimum temperature\n",
+        "choicethree": "reduce fluid combustibility\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "The function of a hydraulic selector valve is to:\n",
+        "answer": "direct system pressure to either side of the piston of an actuator.\n",
+        "choiceone": "select the system to which the hydraulic pump should supply pressure.\n",
+        "choicetwo": "automatically activate the hydraulic system.\n",
+        "choicethree": "discharge some hydraulic fluid if the system pressure is too high.\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "In the pneumatic supply system of a modern transport aircraft, the air pressure is\nregulated. This pressure regulation occurs just before the manifold by the :\n",
+        "answer": "low pressure bleed air valve\n",
+        "choiceone": "fan bleed air valve\n",
+        "choicetwo": "intermediate pressure check-valve\n",
+        "choicethree": "high pressure bleed air valve\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "On most modern airliners the cabin pressure is controlled by regulating the:\n",
+        "answer": "Airflow leaving the cabin.\n",
+        "choiceone": "Bleed air valve.\n",
+        "choicetwo": "Airflow entering the cabin.\n",
+        "choicethree": "RPM of the engine.\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "The cabin rate of descent is:\n",
+        "answer": "a cabin pressure increase.\n",
+        "choiceone": "a cabin pressure decrease.\n",
+        "choicetwo": "is not possible at constant airplane altitudes.\n",
+        "choicethree": "always the same as the airplane's rate of descent.\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "Assuming cabin differential pressure has attained the required value in normal flight\nconditions, if flight altitude is maintained:\n",
+        "answer": "a constant mass air flow is permitted through the cabin.\n",
+        "choiceone": "the pressurisation system ceases to function until leakage reduces the pressure.\n",
+        "choicetwo": "the outflow valves will move to the fully closed position.\n",
+        "choicethree": "the outflow valves will move to the fully open position.\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "On most transpor aircraft, the low pressure pumps of the fuel system are:\n",
+        "answer": "Centrifugal pumps.\n",
+        "choiceone": "Piston pumps.\n",
+        "choicetwo": "Diaphragm pumps.\n",
+        "choicethree": "Gear type pumps.\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "The cross-feed fuel system enables:\n",
+        "answer": "the supply of any jet engine from any fuel tank.\n",
+        "choiceone": "the supply of the jet engines mounted on a wing from any fuel tank within that wing.\n",
+        "choicetwo": "the supply of the outboard jet engines from any outboard\n",
+        "choicethree": "only the transfer of fuel from the centre tank to the wing tanks.\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "On a transport type aircraft the fuel tank system is vented through:\n",
+        "answer": "Ram air scoops on the underside of the wing.\n",
+        "choiceone": "A pressure regulator in the wing tip.\n",
+        "choicetwo": "Bleed air from the engines.\n",
+        "choicethree": "The return lines of the fuel pumps.\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "A Constant Speed Drive aims at ensuring\n",
+        "answer": "that the electric generator produces a constant frequency.\n",
+        "choiceone": "equal AC voltage from all generators.\n",
+        "choicetwo": "that the starter-motor maintains a constant RPM not\n",
+        "choicethree": "that the CSD remains at a constant RPM not withstanding the generator RPM\nwithstanding the acceleration of the engine.\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "When a conductor cuts the flux of a magnetic field :\n",
+        "answer": "an electromotive force (EMF) is induced in the conductor.\n",
+        "choiceone": "there will be no effect on the conductor.\n",
+        "choicetwo": "the field will collapse.\n",
+        "choicethree": "current will flow in accordance with Flemings left hand rule.\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "In order that DC generators will act\nis necessary to ensure that :\n\nve equal load sharing when operating in parallel, it\n",
+        "answer": "their voltages are almost equal.\n",
+        "choiceone": "the synchronising bus-bar is disconnected from the busbar system.\n",
+        "choicetwo": "equal loads are connected to each generator busbar before paralleling.\n",
+        "choicethree": "adequate voltage differences exists.\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "On modern carburettors, the variations of mixture ratios are obtained by the adjustment\nof :\n",
+        "answer": "fuel flow.\n",
+        "choiceone": "fuel flow and air flow.\n",
+        "choicetwo": "fuel flow, air flow and temperature.\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "The power of a piston engine which will be measured by using a friction brake is :\n",
+        "answer": "Brake horse power.\n",
+        "choiceone": "Heat loss power.\n",
+        "choicetwo": "Indicated horse power.\n",
+        "choicethree": "Friction horse power.\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "If the ground wire between the magnetos and the ig\ndisconnected the most noticeable result will be that:\n",
+        "answer": "the engine cannot be shut down by turning the ignition switch to the \"OFF\" position\n",
+        "choiceone": "a still operating engine will run down\n",
+        "choicetwo": "the engine cannot be started with the ignition switch in the \"ON\" position\n",
+        "choicethree": "the power developed by the engine will be strongly reduced\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "How does V(NE) speed vary with altitude?\n",
+        "answer": "Varies inversely with altitude.\n",
+        "choiceone": "Varies directly with altitude.\n",
+        "choicetwo": "Remains the same at all altitudes.\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "The bypass ratio:\n|. is the ratio of bypass air mass flow to HP compressor mass flow.\nIl. can be determined from the inlet air mass flow and the HP compressor mass flow.\n",
+        "answer": "lis correct, Il is correct.\n",
+        "choiceone": "lis correct, Il is incorrect.\n",
+        "choicetwo": "lis incorrect, Il is correct.\n",
+        "choicethree": "lis incorrect, Il is incorrect.\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "Consider the flight deck oxygen supply system. The\npurpose of the oxygen regulator (as a function of\ndemand and altitude) is to:\n\n1. decrease oxygen pressure from 1800 PSI (in the\nbottles) down to about 50-75 PSI (low pressure system)\n2. supply pure oxygen\n\n3. supply diluted oxygen\n\n4. supply oxygen at normal pressure\n\n5. supply oxygen at emergency/positive pressure\n\n6. trigger the continuous cabin altitude warning at 10000\nft cabin altitude\n\nThe combination regrouping all the correct statements\n\n",
+        "answer": "2,3,4,5\n",
+        "choiceone": "3,4, 5,6\n",
+        "choicetwo": "1,2,3,4\n",
+        "choicethree": "1,3,4,6\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "nificance of the blue radial line on the airspeed\nmultiengine airplane and when is it to be used? It indicates the\n\n",
+        "answer": "speed which will provide the maximum altitude gain in a given time when one engine\nis inoperative and should be used for climb and final approach during engine-out\noperations.\n",
+        "choiceone": "minimum speed at which the airplane is controllable when the critical engine is\nsuddenly made inoperative and should be used at all altitudes when an engine is\ninoperative.\n",
+        "choicetwo": "speed which will provide the greatest height for a given distance of forward travel\nwhen one engine is inoperative and should be used for all climbs during engine-out\noperations.\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "Deviation error of the magnetic compass is caused by\n",
+        "answer": "certain metals and electrical systems within the aircraft.\n",
+        "choiceone": "northerly turning error.\n",
+        "choicetwo": "the difference in location of true north and magnetic north.\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "How can a pilot identify a lighted heliport at night?\n",
+        "answer": "Green, yellow, and white beacon light.\n",
+        "choiceone": "White and red beacon light with dual flash of the white.\n",
+        "choicetwo": "Green and white beacon light with dual flash of the white.\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "(Refer to Figure 85.) Of the following, which is the minimum acceptable rate of climb (feet\nper minute) to 9,000 feet required for the WASH2 WAGGE departure at a GS of 150\nknots?\n",
+        "answer": "1,000 feet per minute.\n",
+        "choiceone": "750 feet per minute.\n",
+        "choicetwo": "825 feet per minute.\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "Which instrument would be affected by excessively low pressure in the\nvacuum system?\n",
+        "answer": "Heading indicator.\n",
+        "choiceone": "Airspeed indicator.\n",
+        "choicetwo": "Pressure altimeter.\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "If a pitot tube is clogged, which instrument would be affected?\n",
+        "answer": "Airspeed indicator.\n",
+        "choiceone": "Altimeter.\n",
+        "choicetwo": "Vertical speed indicator.\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "Identify taxi leadoff lights associated with the centerline lighting system.\n",
+        "answer": "Alternate green and yellow lights curving from the centerline of the runway to a point\non the exit.\n",
+        "choiceone": "Alternate green and yellow lights curving from the centerline of the runway to the\ncenterline of the taxiway.\n",
+        "choicetwo": "Alternate green and yellow lights curving from the centerline of the runway to the\nedge of the taxiway.\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "Which statement is true about magnetic deviation of a compass?\n",
+        "answer": "Deviation varies for different headings of the same aircraft.\n",
+        "choiceone": "Deviation is the same for all aircraft in the same locality.\n",
+        "choicetwo": "Deviation is different in a given aircraft in different localities.\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "What should be the indication on the magnetic compass as you roll into a standard rate\nturn to the right from a south heading in the Northern Hemisphere?\n",
+        "answer": "The compass will indicate a turn to the right, but at a faster rate than is actually\noccurring.\n",
+        "choiceone": "The compass will initially indicate a turn to the left.\n",
+        "choicetwo": "The compass will remain on south for a short time, then gradually catch up to the\nmagnetic heading of the airplane.\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "Pressure Altitude at an airfield\nscale is set to:\n\nindicated by an altimeter when the barometric sub-\n",
+        "answer": "1013.25 hPa\n",
+        "choiceone": "QNH\n",
+        "choicetwo": "QFE\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "craft is flying from a cold air mass into a warm air mass. The TAS and true altitude\n\n",
+        "answer": "Both increases.\n",
+        "choiceone": "TAS increases, true altitude decreases.\n",
+        "choicetwo": "TAS decreases, true altitude increases.\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "Transition altitude is obtained from:\n",
+        "answer": "Jeppesen or Aerad flight guides.\n",
+        "choiceone": "ATC or VOR ATIS.\n",
+        "choicetwo": "1500 feet above airfield elevation.\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "QNH is the sub-scale setting which will cause the altimeter to read:\n",
+        "answer": "vertical displacement above mean sea level\n",
+        "choiceone": "the altitude at which any given pressure exists in the standard atmosphere\n",
+        "choicetwo": "vertical displacement above the airfield pressure datum\n",
+        "choicethree": "pressure altitude\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "When ambient temperature is warmer than standard at a particular altitude, the altimeter\nwill indicate:\n",
+        "answer": "lower than true altitude;\n",
+        "choiceone": "higher than true altitude;\n",
+        "choicetwo": "the same as true altitude.\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "If the static vent became blocked during a descent, the altimeter would:\n",
+        "answer": "over-read the correct altitude\n",
+        "choiceone": "act normally\n",
+        "choicetwo": "under-read the correct altitude\n",
+        "choicethree": "read zero altitude\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "During a compass swing the following reading were noted: MAGNETIC HEADING(0-89-\n178-269), COMPASS HEADING(358-92-182-268). After correction for coefficients B and C,\nthe compass reading on the westerly heading was:\n",
+        "answer": "270\n",
+        "choiceone": "266\n",
+        "choicetwo": "271\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "When, in flight, the needle of a needle-and-ball indicator is on the left and the ball on the\nright, the aeroplane is:\n",
+        "answer": "turning left with too much left rudder pedal.\n",
+        "choiceone": "turning left with not enough left rudder pedal.\n",
+        "choicetwo": "turning right with too much left rudder pedal.\n",
+        "choicethree": "turning right with not enough left rudder pedal.\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "When, in flight, the needle of a needle-and-ball indicator is on the right and the ball on\nthe left, the aeroplane is:\n",
+        "answer": "turning right with too much right rudder pedal.\n",
+        "choiceone": "turning right with not enough right rudder pedal.\n",
+        "choicetwo": "turning left with too much right rudder pedal.\n",
+        "choicethree": "turning left with not enough right rudder pedal.\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "A stall warning system is based on measuring the:\n",
+        "answer": "angle of attack.\n",
+        "choiceone": "TAS.\n",
+        "choicetwo": "attitude.\n",
+        "choicethree": "groundspeed.\n",
+        "source": "pdf/Type3/agk\\spl.pdf"
+    },
+    {
+        "question": "What should help prevent aircraft induced oscillation on a gyroplane?-\n",
+        "answer": "Adding a horizontal stabilizer.\n",
+        "choiceone": "Increasing cyclic control sensitivity.\n",
+        "choicetwo": "Lowering the center of gravity below the thrust line.\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "Detonation in an aircraft engine is most likely to occur whenever the\n",
+        "answer": "engine is operated under conditions which cause the fuel mixture to burn\ninstantaneously.\n",
+        "choiceone": "fuel/air ratio is such that the mixture burns extremely slow.\n",
+        "choicetwo": "fuel being used is of a higher grade than recommended by the engine manufacturer.\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "The purpose of a kill switch is to\n",
+        "answer": "ground the lead wire to the ignition coil shutting down the powerplant.\n",
+        "choiceone": "shut off the fuel to the carburetor.\n",
+        "choicetwo": "ground the battery eliminating current for the ignition system.\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "A high-frequency vibration that suddenly occurs during flight could be an indication of a\ndefective\n",
+        "answer": "transmission.\n",
+        "choiceone": "ignition system.\n",
+        "choicetwo": "freewheeling unit.\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "The presence of carburetor ice in an aircraft equipped with a fixed-pitch propeller can be\nverified by applying carburetor heat and noting\n",
+        "answer": "a decrease in RPM and then a gradual increase in RPM.\n",
+        "choiceone": "a decrease in RPM and then a constant RPM indication.\n",
+        "choicetwo": "an increase in RPM and then a gradual decrease in RPM.\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "What type of oxygen system is most commonly found in general aviation aircraft?\n",
+        "answer": "Continuous flow.\n",
+        "choiceone": "Demand.\n",
+        "choicetwo": "Pressure demand.\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "Running a fuel tank dry before switching tanks is not a good practice because\n",
+        "answer": "the engine-driven fuel pump or electric fuel boost pump draw air into the fuel system\nand cause vapor lock.\n",
+        "choiceone": "any foreign matter in the tank will be pumped into the fuel system.\n",
+        "choicetwo": "the engine-driven fuel pump is lubricated by fuel and operating on a dry tank may\ncause pump failure.\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "Fuel enters a two-cycle engine through an\n",
+        "answer": "intake port and intake valve.\n",
+        "choiceone": "intake port and reed valve.\n",
+        "choicetwo": "intake valve and reed valve.\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "On an aeroplane, spoilers are :\n",
+        "answer": "upper wing surface devices, their deflection is symmetrical or asymmetrical.\n",
+        "choiceone": "lower wing surface devices, their deflection is always asymmetrical.\n",
+        "choicetwo": "lower wing surface devices, their deflection is symmetrical or asymmetrical.\n",
+        "choicethree": "upper wing surface devices, their deflection is always asymmetrical.\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "How can the pilot increase the rate of turn and decrease the radius at the same time?\n",
+        "answer": "Steepen the bank and decrease airspeed.\n",
+        "choiceone": "Steepen the bank and increase airspeed.\n",
+        "choicetwo": "Shallow the bank and increase airspeed.\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "constant angle of bank and altitude?\n",
+        "answer": "The rate of turn will decrease resulting in no changes in load factor.\n",
+        "choiceone": "The rate of turn will decrease resulting in a decreased load factor.\n",
+        "choicetwo": "The rate of turn will increase resulting in an increased load factor.\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "The hydraulic oil, entering the hydraulic pump, is slightly pressurised to :\n",
+        "answer": "prevent cavitation in the pump\n",
+        "choiceone": "prevent overheating of the pump.\n",
+        "choicetwo": "prevent vapour locking.\n",
+        "choicethree": "ensure sufficient pump output\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "The type of brake unit found on most transport aeroplanes is a:\n",
+        "answer": "Multiple disk brake.\n",
+        "choiceone": "Drum type brake.\n",
+        "choicetwo": "Single disk brake.\n",
+        "choicethree": "Belt brake.\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "A tubeless tyre is a tyre: 1. which requires solid or branched wheels 2. whose valve can\nbe sheared in sudden accelerations 3. whose mounting rim must be flawless 4. which\nrequires no rim protection between rim flange and tire removing device 5. which does\nnot burst in the event of a tire puncture 6. which eliminates internal friction between the\ntube and the tire The combination regrouping all the correct statements is :\n",
+        "answer": "1,5, 6.\n",
+        "choiceone": "3, 4,5.\n",
+        "choicetwo": "1, 2,5.\n",
+        "choicethree": "2, 3, 6.\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "The purpose of the preheating coil used in hot air balloons is to\n",
+        "answer": "vaporize the fuel for more efficient burner operation.\n",
+        "choiceone": "prevent ice from forming in the fuel lines.\n",
+        "choicetwo": "warm the fuel tanks for more efficient fuel flow.\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "The main purpose of the mixture control is to:\n",
+        "answer": "adjust the fuel flow to obtain the proper fuel/air ratio\n",
+        "choiceone": "decrease the air supplied to the engine\n",
+        "choicetwo": "increase the oxygen supplied to the engine\n",
+        "choicethree": "decrease oxygen supplied to the engine\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "The function of the Generator Breaker is to close when the voltage of the :\n",
+        "answer": "generator is greater than battery voltage\n",
+        "choiceone": "alternator is greater than the battery voltage and to open\n",
+        "choicetwo": "battery is greater than the alternator voltage and to open\n",
+        "choicethree": "battery is greater than the generator voltage and to open\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "The output of a generator is controlled by :\n",
+        "answer": "varying the field strength.\n",
+        "choiceone": "varying the length of wire in the armature windings.\n",
+        "choicetwo": "the reverse current relay circuit breaker.\n",
+        "choicethree": "varying the speed of the engine.\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "The control of free turbine engines on turboprops, is accomplished by: -a propeller\ncontrol lever used to select: 1- propeller RPM 2.-turbine temperature 3 - turbine RPM\n- a fuel control lever used to select: 4- propeller RPM 5 - torque 6 - turbine temperature\nThe combination which regroups all of the correct statements is :\n",
+        "answer": "1-5-6\n",
+        "choiceone": "1-3-5\n",
+        "choicetwo": "3-4-6\n",
+        "choicethree": "2-4-5\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "The purpose of a diluter demand regulator in an oxygen system is to :\n",
+        "answer": "deliver oxygen flow when inhaling.\n",
+        "choiceone": "deliver oxygen flow only above FL 100.\n",
+        "choicetwo": "is only recommended with smoke in the cockpit.\n",
+        "choicethree": "mix air and oxygen in a passenger oxygen mask.\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "If the Pitot head is blocked, what airspeed indication can he expected?\n",
+        "answer": "No change of IAS in level flight, even with large power changes.\n",
+        "choiceone": "A decrease of IAS during a climb.\n",
+        "choicetwo": "Constant IAS during a descent.\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "When an altimeter is changed from 30.11\" Hg to 29.96\" Hg,\nindicated altitude change and by what value?\n\nwhich direction will the\n\n",
+        "answer": "Altimeter will indicate 150 feet lower.\n",
+        "choiceone": "Altimeter will indicate 15 feet lower.\n",
+        "choicetwo": "Altimeter will indicate 150 feet higher.\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "(Refer to Figures 139 and 141.) Which displacement from the localizer centerline and\nglide slope at the 1,300-foot point from the runway is indicated?\n",
+        "answer": "21 feet above the glide slope and approximately 320 feet to the left of the runway\ncenterline.\n",
+        "choiceone": "21 feet below the glide slope and approximately 320 feet to the right of the runway\ncenterline.\n",
+        "choicetwo": "28 feet above the glide slope and approximately 250 feet to the left of the runway\ncenterline.\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "How can a pilot identify a military airport at night?\n",
+        "answer": "Green and white beacon light with dual flash of the white.\n",
+        "choiceone": "Green, yellow, and white beacon light.\n",
+        "choicetwo": "White and red beacon light with dual flash of the white.\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "nificance of the blue radial line on the airspeed\nmultiengine airplane and when is it to be used? It indicates the\n\n",
+        "answer": "speed which will provide the maximum altitude gain in a given time when one engine\nis inoperative and should be used for climb and final approach during engine-out\noperations.\n",
+        "choiceone": "minimum speed at which the airplane is controllable when the critical engine is\nsuddenly made inoperative and should be used at all altitudes when an engine is\ninoperative.\n",
+        "choicetwo": "speed which will provide the greatest height for a given distance of forward travel\nwhen one engine is inoperative and should be used for all climbs during engine-out\noperations.\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "Identify the runway distance remaining markers.\n",
+        "answer": "Signs with increments of 1,000 feet distance remaining.\n",
+        "choiceone": "Red markers laterally placed across the runway at 3,000 feet from the end.\n",
+        "choicetwo": "Yellow marker laterally placed across the runway with signs on the side denoting\ndistance to end.\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "How will the airspeed icator react if the ram ai\nice, but the drain hole and static port are not?\n\nput to the pitot head is blocked by\n",
+        "answer": "Indication will drop to zero.\n",
+        "choiceone": "Indication will rise to the top of the scale.\n",
+        "choicetwo": "Indication will remain constant but will increase in a climb.\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "A possible result of using the emergency alternate source of static pressure inside the\ncabin of an unpressurized airplane is the\n",
+        "answer": "altimeter may indicate an altitude higher than the actual altitude being flown.\n",
+        "choiceone": "airspeed indicator may indicate less than normal.\n",
+        "choicetwo": "altimeter may indicate an altitude lower than the actual altitude being flown.\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "In the Northern Hemisphere, if an aircrat\ncompass will normally indicate\n\naccelerated or decelerated, the magnetic\n",
+        "answer": "correctly when on a north or south heading while either accelerating or decelerating.\n",
+        "choiceone": "a turn momentarily, with changes in airspeed on any heading.\n",
+        "choicetwo": "a turn toward the south while accelerating on a west heading.\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "What is the advantage of a three-bar VASI?\n",
+        "answer": "A normal glide angle is afforded both high and low cockpit aircraft.\n",
+        "choiceone": "Pilots have a choice of glide angles.\n",
+        "choicetwo": "The three-bar VASI is much more visible and can be used at a greater height.\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "If the static pressure tubes are broken inside a pressurized cabin during a high-altitude\nflight, the altimeter would probably indicate\n",
+        "answer": "lower than actual flight altitude.\n",
+        "choiceone": "sea level.\n",
+        "choicetwo": "higher than actual flight altitude.\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "When making an airborne VOR check, what is the maximum allowable tolerance\nbetween the two indicators of a dual VOR system (units independent of each other\nexcept the antenna)?\n\n",
+        "answer": "4 degrees between the two indicated bearings of a VOR.\n",
+        "choiceone": "Plus or minus 4 degrees when set to identical radials of a VOR.\n",
+        "choicetwo": "6 degrees between the two indicated radials of a VOR.\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "A VSI may suffer from error due to:\n",
+        "answer": "time lag, instrument calibration, blockage\n",
+        "choiceone": "compressibility, time lag, blockage\n",
+        "choicetwo": "density, aircraft manoeuvre, position of the static vent\n",
+        "choicethree": "pitot blockage, static blockage, aircraft manoeuvre\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "The reported QNH ofa given station is the:\n",
+        "answer": "Station's barometric pressure corrected to mean sea level pressure.\n",
+        "choiceone": "actual barometric pressure measured at the station;\n",
+        "choicetwo": "actual barometric pressure measured at sea level;\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "The high Altitude Radio Altimeter uses the following wavelengths:\n",
+        "answer": "decimetric.\n",
+        "choiceone": "hectometric.\n",
+        "choicetwo": "myriametric.\n",
+        "choicethree": "metric.\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "QNH is the sub-scale setting which will cause the altimeter to read:\n",
+        "answer": "vertical displacement above mean sea level\n",
+        "choiceone": "the altitude at which any given pressure exists in the standard atmosphere\n",
+        "choicetwo": "vertical displacement above the airfield pressure datum\n",
+        "choicethree": "pressure altitude\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "An aircraft is maintal\nprobable cause is:\n\n1g FL 120 in cloud. The ASI reading falls to zero. The most\n",
+        "answer": "ASI malfunction.\n",
+        "choiceone": "Static vent blocked by ice.\n",
+        "choicetwo": "Pitot head and static vent blocked by ice.\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "VFE is the maximum speed:\n",
+        "answer": "with the flaps extended.\n",
+        "choiceone": "with the flaps extended in the landing configuration.\n",
+        "choicetwo": "with the flaps extended in the take-off configuration.\n",
+        "choicethree": "at which the flaps can be operated when flying in turbulences.\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "Rectified Airspeed is:\n",
+        "answer": "IAS corrected for instrument and pressure error.\n",
+        "choiceone": "IAS corrected for density error.\n",
+        "choicetwo": "IAS corrected for density and compressibility errors.\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "During a stabilised climbing turn at a constant rate, the instruments which indicate the\n\ncorrect pitch and bank are the:\n",
+        "answer": "attitude indicator and turn-and-slip indicator.\n",
+        "choiceone": "vertical-speed indicator and turn-and-slip indicator;\n",
+        "choicetwo": "altimeter and turn-and-slip indicator;\n",
+        "source": "pdf/Type3/agk\\sports.pdf"
+    },
+    {
+        "question": "Many 4-cycle engines utilize what type of lubrication system?\n",
+        "answer": "Forced.\n",
+        "choiceone": "Gravity.\n",
+        "choicetwo": "Fuel/oil mixture.\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "The fan guard surrounds the propeller and\n",
+        "answer": "protects the parachute suspension lines from damage.\n",
+        "choiceone": "increases aerodynamic efficiency.\n",
+        "choicetwo": "reduces 'P' factor.\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "What is the CFR Part 1 definition of critical engine?\n",
+        "answer": "The engine whose failure would most adversely affect airplane performance or\nhandling qualities.\n",
+        "choiceone": "The outboard engine whose failure would most adversely affect safety.\n",
+        "choicetwo": "The engine still running which would most adversely affect performance if it should\nfail.\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "When refueling aircraft, which precaution would be adequate for eli\npotential hazard of static electricity?\n\n",
+        "answer": "Connect a ground wire between the aircraft, fuel truck, fuel nozzle, and ground.\n",
+        "choiceone": "Ensure that battery and ignition switches are off.\n",
+        "choicetwo": "Connect a ground wire from the fuel truck to ground.\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "Which direction from the primary control surface does an elevator adjustable trim tab\nmove when the control surface is moved?\n",
+        "answer": "Remains fixed for all positions.\n",
+        "choiceone": "Same direction.\n",
+        "choicetwo": "Opposite direction.\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "Why must the angle of attack be increased during a turn to maintain altitude?\n",
+        "answer": "Compensate for loss of vertical component of lift.\n",
+        "choiceone": "Increase the horizontal component of lift equal to the vertical component.\n",
+        "choicetwo": "Compensate for increase in drag.\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "Which of the following is considered an auxiliary flight control?\n",
+        "answer": "Leading-edge flaps.\n",
+        "choiceone": "Ruddervator.\n",
+        "choicetwo": "Upper rudder.\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "What affects indicated stall speed?\n",
+        "answer": "Weight, load factor, and power.\n",
+        "choiceone": "Load factor, angle of attack, and power.\n",
+        "choicetwo": "Angle of attack, weight, and air density.\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "A tubeless tyre has : 1- a built-in-air tube. 2- no built-in-air tube. 3-acrossed\ncasing. 4- a radial side casing. The combination of correct statements is:\n\n",
+        "answer": "2,4.\n",
+        "choiceone": "1,4.\n",
+        "choicetwo": "2, 3.\n",
+        "choicethree": "1,3.\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "The term \"Bootstrap\", when used to identify a cabin air conditioning and pressurisation\nsystem, refers to the :\n",
+        "answer": "cold air unit (air cycle machine) arrangement.\n",
+        "choiceone": "source of the charge air.\n",
+        "choicetwo": "means by which pressurisation is controlled.\n",
+        "choicethree": "charge air across the inter-cooler heat exchanger.\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "When leaning the mixture for the most economic cruise fuel flow, excessive leaning will\ncause:\n",
+        "answer": "high cylinder head and exhaust gas temperature\n",
+        "choiceone": "high engine rpm\n",
+        "choicetwo": "low cylinder head and exhaust gas temperature\n",
+        "choicethree": "high manifold pressure\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "\u201cVapor lock\" is the phenomenon by which:\n",
+        "answer": "heat produces vapour plugs in the fuel line.\n",
+        "choiceone": "burnt gas plugs forming and remaining in the exhaust manifold following an\noverheat and thereby disturbing the exhaust.\n",
+        "choicetwo": "water vapour plugs are formed in the intake fuel line following the condensation of\nwater in fuel tanks which have not been drained for sometime.\n",
+        "choicethree": "abrupt and abnormal enrichment of the fuel/air mixture following an inappropriate\nuse of carburettor heat.\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "During fuelling the automatic fuelling shut off valves will\n",
+        "answer": "the fuel has reached a predetermined volume or mass.\n",
+        "choiceone": "the surge vent tank is filled.\n",
+        "choicetwo": "there is fire.\n",
+        "choicethree": "fuelling system has reached a certain pressure.\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "The pressurization of tanks is maintained by the fuel:\n",
+        "answer": "vent system.\n",
+        "choiceone": "tank drains.\n",
+        "choicetwo": "top off unit.\n",
+        "choicethree": "dump system.\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "If a current is passed through a conductor,\n",
+        "answer": "a force will be exerted on the conductor.\n",
+        "choiceone": "the current will increase.\n",
+        "choicetwo": "there will be no effect unless the conductor is moved.\n",
+        "choicethree": "the intensity of the magnetic field will decrease.\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "The output of a generator is controlled by :\n",
+        "answer": "varying the field strength.\n",
+        "choiceone": "varying the length of wire in the armature windings.\n",
+        "choicetwo": "the reverse current relay circuit breaker.\n",
+        "choicethree": "varying the speed of the engine.\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "The reason for using inverters in an electrical system is\n",
+        "answer": "To change DC into AC.\n",
+        "choiceone": "To avoid a short circuit.\n",
+        "choicetwo": "To change the DC voltage.\n",
+        "choicethree": "To change AC into DC.\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "As regards three-phase AC generators, the following conditions must be met for\nparalleling AC generators: 1. Equal voltage 2.Equal current 3.Equal frequencies 4.\nSame 5. Voltages of same phase The combination regrouping all the correct\nstatementsphase rotation is :\n",
+        "answer": "1,3,4,5\n",
+        "choiceone": "1,4,5\n",
+        "choicetwo": "1,2,3,4\n",
+        "choicethree": "1,3,5\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "The turbine in a cold air unit (air cycle machine):\n",
+        "answer": "drives the compressor in the unit, creating a temperature drop in the conditioning\nair.\n",
+        "choiceone": "increases the pressure of the air supply to the cabin.\n",
+        "choicetwo": "drives the compressor in the unit and causes a pressure increase in the\nconditioning air.\n",
+        "choicethree": "drives the compressor which provides pressurisation.\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "Which instrument would be affected by excessively low pressure in the\nvacuum system?\n",
+        "answer": "Heading indicator.\n",
+        "choiceone": "Airspeed indicator.\n",
+        "choicetwo": "Pressure altimeter.\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "When an altimeter is changed from 30.11\" Hg to 29.96\" Hg,\nindicated altitude change and by what value?\n\nwhich direction will the\n\n",
+        "answer": "Altimeter will indicate 150 feet lower.\n",
+        "choiceone": "Altimeter will indicate 15 feet lower.\n",
+        "choicetwo": "Altimeter will indicate 150 feet higher.\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "A possible result of using the emergency alternate source of static pressure inside the\ncabin of an unpressurized airplane is the\n",
+        "answer": "altimeter may indicate an altitude higher than the actual altitude being flown.\n",
+        "choiceone": "airspeed indicator may indicate less than normal.\n",
+        "choicetwo": "altimeter may indicate an altitude lower than the actual altitude being flown.\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "How will the airspeed icator react if the ram ai\nice, but the drain hole and static port are not?\n\nput to the pitot head is blocked by\n",
+        "answer": "Indication will drop to zero.\n",
+        "choiceone": "Indication will rise to the top of the scale.\n",
+        "choicetwo": "Indication will remain constant but will increase in a climb.\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "(Refer to Figures 139 and 140.) Which\nthe 1.9 NM pointis indicated?\n\nplacement from the localizer and glide slope at\n",
+        "answer": "710 feet to the right of the localizer centerline and 140 feet above the glide slope.\n",
+        "choiceone": "710 feet to the left of the localizer centerline and 140 feet below the glide slope.\n",
+        "choicetwo": "430 feet to the right of the localizer centerline and 28 feet above the glide slope.\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "In the Northern Hemisphere, if an aircrat\ncompass will normally indicate\n\naccelerated or decelerated, the magnetic\n",
+        "answer": "correctly when on a north or south heading while either accelerating or decelerating.\n",
+        "choiceone": "a turn momentarily, with changes in airspeed on any heading.\n",
+        "choicetwo": "a turn toward the south while accelerating on a west heading.\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "If a pitot tube is clogged, which instrument would be affected?\n",
+        "answer": "Airspeed indicator.\n",
+        "choiceone": "Altimeter.\n",
+        "choicetwo": "Vertical speed indicator.\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "How can a pilot identify a military airport at night?\n",
+        "answer": "Green and white beacon light with dual flash of the white.\n",
+        "choiceone": "Green, yellow, and white beacon light.\n",
+        "choicetwo": "White and red beacon light with dual flash of the white.\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "If the static pressure tubes are broken inside a pressurized cabin during a high-altitude\nflight, the altimeter would probably indicate\n",
+        "answer": "lower than actual flight altitude.\n",
+        "choiceone": "sea level.\n",
+        "choicetwo": "higher than actual flight altitude.\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "What is the advantage of a three-bar VASI?\n",
+        "answer": "A normal glide angle is afforded both high and low cockpit aircraft.\n",
+        "choiceone": "Pilots have a choice of glide angles.\n",
+        "choicetwo": "The three-bar VASI is much more visible and can be used at a greater height.\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "nificance of the blue radial line on the airspeed\nmultiengine airplane and when is it to be used? It indicates the\n\n",
+        "answer": "speed which will provide the maximum altitude gain in a given time when one engine\nis inoperative and should be used for climb and final approach during engine-out\noperations.\n",
+        "choiceone": "minimum speed at which the airplane is controllable when the critical engine is\nsuddenly made inoperative and should be used at all altitudes when an engine is\ninoperative.\n",
+        "choicetwo": "speed which will provide the greatest height for a given distance of forward travel\nwhen one engine is inoperative and should be used for all climbs during engine-out\noperations.\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "What are the indications of the pulsating VASI?\n",
+        "answer": "High - pulsing white, on glidepath - steady white, slightly below glide slope steady\nred, low - pulsing red.\n",
+        "choiceone": "High - pulsing white, on glidepath - green, low - pulsing red.\n",
+        "choicetwo": "High - pulsing white, on course and on glidepath - steady white, off course but on\nglidepath - pulsing white and red; low - pulsing red.\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "If the Pitot head is blocked, what airspeed indication can he expected?\n",
+        "answer": "No change of IAS in level flight, even with large power changes.\n",
+        "choiceone": "A decrease of IAS during a climb.\n",
+        "choicetwo": "Constant IAS during a descent.\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "A VSI may suffer from error due to:\n",
+        "answer": "time lag, instrument calibration, blockage\n",
+        "choiceone": "compressibility, time lag, blockage\n",
+        "choicetwo": "density, aircraft manoeuvre, position of the static vent\n",
+        "choicethree": "pitot blockage, static blockage, aircraft manoeuvre\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "If the Pitot Head and Static Vent were blocked by ice, which instruments would be\naffected?\n",
+        "answer": "Altimeter, VSI and ASI would give inaccurate readings.\n",
+        "choiceone": "ASI, Altimeter and Slip indicator.\n",
+        "choicetwo": "The ASI would under read.\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "If the pitot line is blocked, the VSI will:\n",
+        "answer": "read normally\n",
+        "choiceone": "read zero ftmm rate of climb/descent\n",
+        "choicetwo": "over-read\n",
+        "choicethree": "under-read\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "A simple pressure altimeter uses:\n",
+        "answer": "static pressure fed into a gas tight casing, but outside a partially evacuated capsule\n",
+        "choiceone": "static pressure fed to an open capsule\n",
+        "choicetwo": "pitot pressure fed to an open capsule\n",
+        "choicethree": "static pressure fed outside a completely evacuated aneroid capsule.\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "Transition altitude is obtained from:\n",
+        "answer": "Jeppesen or Aerad flight guides.\n",
+        "choiceone": "ATC or VOR ATIS.\n",
+        "choicetwo": "1500 feet above airfield elevation.\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "An aircraft is maintal\nprobable cause is:\n\n1g FL 120 in cloud. The ASI reading falls to zero. The most\n",
+        "answer": "ASI malfunction.\n",
+        "choiceone": "Static vent blocked by ice.\n",
+        "choicetwo": "Pitot head and static vent blocked by ice.\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    },
+    {
+        "question": "During a climb, the static line becomes blocked, the ASI will:\n",
+        "answer": "under-read\n",
+        "choiceone": "read normally\n",
+        "choicetwo": "over-read\n",
+        "choicethree": "read zero\n",
+        "source": "pdf/Type3/agk\\zuma.pdf"
+    }
+]

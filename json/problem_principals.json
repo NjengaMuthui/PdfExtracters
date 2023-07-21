@@ -1,0 +1,318 @@
+[
+    {
+        "question": "The center of gravity of an aircraft is computed along the\n",
+        "answer": "longitudinal axis.\n",
+        "choiceone": "",
+        "choicetwo": "vertical axis.\n",
+        "file_name": "pdf/Type3/principals\\centrifugal.pdf",
+        "question_number": 5
+    },
+    {
+        "question": "The lift formula can be written as:\n(rho = density)\n",
+        "answer": "L=CL* Y\u201crho*V** S.\n",
+        "choiceone": "",
+        "choicetwo": "L=CL* 2rho*V** S.\n",
+        "file_name": "pdf/Type3/principals\\CPL (1).pdf",
+        "question_number": 21
+    },
+    {
+        "question": "Which is the correct symbol for the stalling speed or the minimum steady flight speed at\nwhich the airplane is controllable?\n",
+        "answer": "Vv(S).\n",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "pdf/Type3/principals\\CPL (10).pdf",
+        "question_number": 5
+    },
+    {
+        "question": "The center of gravity of an aircraft is computed along the\n",
+        "answer": "longitudinal axis.\n",
+        "choiceone": "",
+        "choicetwo": "vertical axis.\n",
+        "file_name": "pdf/Type3/principals\\CPL (12).pdf",
+        "question_number": 6
+    },
+    {
+        "question": "Which formula or equation describes the relationship between force (F), acceleration (a)\nand mass (m)?\n",
+        "answer": "F=m*\n",
+        "choiceone": "",
+        "choicetwo": "",
+        "choicethree": "F=mia\n",
+        "file_name": "pdf/Type3/principals\\CPL (12).pdf",
+        "question_number": 18
+    },
+    {
+        "question": "(Please view annex 081-0037 issue date November 2005)\nA typical curve representing propeller efficiency of a fixed pitch propeller versus TAS at\nconstant RPM is:\n",
+        "answer": "",
+        "choiceone": "diagram 2.\n",
+        "choicetwo": "",
+        "choicethree": "diagram 4.\n",
+        "file_name": "pdf/Type3/principals\\CPL (13).pdf",
+        "question_number": 34
+    },
+    {
+        "question": "(Please view annex 081-0037 issue date November 2005)\nA typical curve representing propeller efficiency of a fixed pitch propeller versus TAS at\nconstant RPM is:\n",
+        "answer": "",
+        "choiceone": "diagram 2.\n",
+        "choicetwo": "",
+        "choicethree": "diagram 4.\n",
+        "file_name": "pdf/Type3/principals\\CPL (14).pdf",
+        "question_number": 38
+    },
+    {
+        "question": "Sweepback of a wing positively influences:\n1. static longitudinal stability.\n\n2. static lateral stability.\n\n3. dynamic longitudinal stability.\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "1, 2,3.\n",
+        "file_name": "pdf/Type3/principals\\CPL (15).pdf",
+        "question_number": 33
+    },
+    {
+        "question": "(Please view annex 081-0037 issue date November 2005)\nA typical curve representing propeller efficiency of a fixed pitch propeller versus TAS at\nconstant RPM is:\n",
+        "answer": "",
+        "choiceone": "diagram 2.\n",
+        "choicetwo": "",
+        "choicethree": "diagram 4.\n",
+        "file_name": "pdf/Type3/principals\\CPL (16).pdf",
+        "question_number": 36
+    },
+    {
+        "question": "The center of gravity of an aircraft is computed along the\n",
+        "answer": "longitudinal axis.\n",
+        "choiceone": "",
+        "choicetwo": "vertical axis.\n",
+        "file_name": "pdf/Type3/principals\\CPL (17).pdf",
+        "question_number": 10
+    },
+    {
+        "question": "Which is the correct symbol for the stalling speed or the minimum steady flight speed at\nwhich the airplane is controllable?\n",
+        "answer": "Vv(S).\n",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "pdf/Type3/principals\\CPL (18).pdf",
+        "question_number": 7
+    },
+    {
+        "question": "The lift formula can be written as:\n(rho = density)\n",
+        "answer": "L=CL* Y\u201crho*V** S.\n",
+        "choiceone": "",
+        "choicetwo": "L=CL* 2rho*V** S.\n",
+        "file_name": "pdf/Type3/principals\\CPL (18).pdf",
+        "question_number": 27
+    },
+    {
+        "question": "Sweepback of a wing positively influences:\n1. static longitudinal stability.\n\n2. static lateral stability.\n\n3. dynamic longitudinal stability.\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "1, 2,3.\n",
+        "file_name": "pdf/Type3/principals\\CPL (19).pdf",
+        "question_number": 32
+    },
+    {
+        "question": "Which is the correct symbol for the stalling speed or the minimum steady flight speed at\nwhich the airplane is controllable?\n",
+        "answer": "Vv(S).\n",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "pdf/Type3/principals\\CPL (3).pdf",
+        "question_number": 4
+    },
+    {
+        "question": "Sweepback of a wing positively influences:\n1. static longitudinal stability.\n\n2. static lateral stability.\n\n3. dynamic longitudinal stability.\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "1, 2,3.\n",
+        "file_name": "pdf/Type3/principals\\CPL (5).pdf",
+        "question_number": 32
+    },
+    {
+        "question": "The lift formula can be written as:\n(rho = density)\n",
+        "answer": "L=CL* Y\u201crho*V** S.\n",
+        "choiceone": "",
+        "choicetwo": "L=CL* 2rho*V** S.\n",
+        "file_name": "pdf/Type3/principals\\CPL (6).pdf",
+        "question_number": 19
+    },
+    {
+        "question": "(Please view annex 081-0037 issue date November 2005)\nA typical curve representing propeller efficiency of a fixed pitch propeller versus TAS at\nconstant RPM is:\n",
+        "answer": "",
+        "choiceone": "diagram 2.\n",
+        "choicetwo": "",
+        "choicethree": "diagram 4.\n",
+        "file_name": "pdf/Type3/principals\\CPL (6).pdf",
+        "question_number": 37
+    },
+    {
+        "question": "(Please view annex 081-0037 issue date November 2005)\nA typical curve representing propeller efficiency of a fixed pitch propeller versus TAS at\nconstant RPM is:\n",
+        "answer": "",
+        "choiceone": "diagram 2.\n",
+        "choicetwo": "",
+        "choicethree": "diagram 4.\n",
+        "file_name": "pdf/Type3/principals\\CPL (8).pdf",
+        "question_number": 37
+    },
+    {
+        "question": "Which is the correct symbol for the stalling speed or the minimum steady flight speed at\nwhich the airplane is controllable?\n",
+        "answer": "Vv(S).\n",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "pdf/Type3/principals\\CPL (9).pdf",
+        "question_number": 12
+    },
+    {
+        "question": "Sweepback of a wing positively influences:\n1. static longitudinal stability.\n\n2. static lateral stability.\n\n3. dynamic longitudinal stability.\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "1, 2,3.\n",
+        "file_name": "pdf/Type3/principals\\CPL (9).pdf",
+        "question_number": 25
+    },
+    {
+        "question": "(Please view annex 081-0037 issue date November 2005)\nA typical curve representing propeller efficiency of a fixed pitch propeller versus TAS at\nconstant RPM is:\n",
+        "answer": "",
+        "choiceone": "diagram 2.\n",
+        "choicetwo": "",
+        "choicethree": "diagram 4.\n",
+        "file_name": "pdf/Type3/principals\\CPL (9).pdf",
+        "question_number": 36
+    },
+    {
+        "question": "Which formula or equation describes the relationship between force (F), acceleration (a)\nand mass (m)?\n",
+        "answer": "F=m*\n",
+        "choiceone": "",
+        "choicetwo": "",
+        "choicethree": "F=mia\n",
+        "file_name": "pdf/Type3/principals\\PPL (1).pdf",
+        "question_number": 21
+    },
+    {
+        "question": "The lift formula can be written as:\n(rho = density)\n",
+        "answer": "L=CL* Y\u201crho*V** S.\n",
+        "choiceone": "",
+        "choicetwo": "L=CL* 2rho*V** S.\n",
+        "file_name": "pdf/Type3/principals\\PPL (1).pdf",
+        "question_number": 27
+    },
+    {
+        "question": "The lift formula can be written as:\n(rho = density)\n",
+        "answer": "L=CL* Y\u201crho*V** S.\n",
+        "choiceone": "",
+        "choicetwo": "L=CL* 2rho*V** S.\n",
+        "file_name": "pdf/Type3/principals\\PPL (10).pdf",
+        "question_number": 23
+    },
+    {
+        "question": "The lift formula can be written as:\n(rho = density)\n",
+        "answer": "L=CL* Y\u201crho*V** S.\n",
+        "choiceone": "",
+        "choicetwo": "L=CL* 2rho*V** S.\n",
+        "file_name": "pdf/Type3/principals\\PPL (11).pdf",
+        "question_number": 20
+    },
+    {
+        "question": "Which formula or equation describes the relationship between force (F), acceleration (a)\nand mass (m)?\n",
+        "answer": "F=m*\n",
+        "choiceone": "",
+        "choicetwo": "",
+        "choicethree": "F=mia\n",
+        "file_name": "pdf/Type3/principals\\PPL (12).pdf",
+        "question_number": 22
+    },
+    {
+        "question": "The center of gravity of an aircraft is computed along the\n",
+        "answer": "longitudinal axis.\n",
+        "choiceone": "",
+        "choicetwo": "vertical axis.\n",
+        "file_name": "pdf/Type3/principals\\PPL (2).pdf",
+        "question_number": 10
+    },
+    {
+        "question": "The lift formula can be written as:\n(rho = density)\n",
+        "answer": "L=CL* Y\u201crho*V** S.\n",
+        "choiceone": "",
+        "choicetwo": "L=CL* 2rho*V** S.\n",
+        "file_name": "pdf/Type3/principals\\PPL (2).pdf",
+        "question_number": 26
+    },
+    {
+        "question": "Which formula or equation describes the relationship between force (F), acceleration (a)\nand mass (m)?\n",
+        "answer": "F=m*\n",
+        "choiceone": "",
+        "choicetwo": "",
+        "choicethree": "F=mia\n",
+        "file_name": "pdf/Type3/principals\\PPL (3).pdf",
+        "question_number": 22
+    },
+    {
+        "question": "The lift formula can be written as:\n(rho = density)\n",
+        "answer": "L=CL* Y\u201crho*V** S.\n",
+        "choiceone": "",
+        "choicetwo": "L=CL* 2rho*V** S.\n",
+        "file_name": "pdf/Type3/principals\\PPL (4).pdf",
+        "question_number": 21
+    },
+    {
+        "question": "Sweepback of a wing positively influences:\n1. static longitudinal stability.\n\n2. static lateral stability.\n\n3. dynamic longitudinal stability.\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "1, 2,3.\n",
+        "file_name": "pdf/Type3/principals\\PPL (5).pdf",
+        "question_number": 34
+    },
+    {
+        "question": "The center of gravity of an aircraft is computed along the\n",
+        "answer": "longitudinal axis.\n",
+        "choiceone": "",
+        "choicetwo": "vertical axis.\n",
+        "file_name": "pdf/Type3/principals\\PPL (6).pdf",
+        "question_number": 15
+    },
+    {
+        "question": "Which formula or equation describes the relationship between force (F), acceleration (a)\nand mass (m)?\n",
+        "answer": "F=m*\n",
+        "choiceone": "",
+        "choicetwo": "",
+        "choicethree": "F=mia\n",
+        "file_name": "pdf/Type3/principals\\PPL (7).pdf",
+        "question_number": 19
+    },
+    {
+        "question": "The lift formula can be written as:\n(rho = density)\n",
+        "answer": "L=CL* Y\u201crho*V** S.\n",
+        "choiceone": "",
+        "choicetwo": "L=CL* 2rho*V** S.\n",
+        "file_name": "pdf/Type3/principals\\PPL (7).pdf",
+        "question_number": 24
+    },
+    {
+        "question": "Sweepback of a wing positively influences:\n1. static longitudinal stability.\n\n2. static lateral stability.\n\n3. dynamic longitudinal stability.\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "1, 2,3.\n",
+        "file_name": "pdf/Type3/principals\\PPL (8).pdf",
+        "question_number": 36
+    },
+    {
+        "question": "Which formula or equation describes the relationship between force (F), acceleration (a)\nand mass (m)?\n",
+        "answer": "F=m*\n",
+        "choiceone": "",
+        "choicetwo": "",
+        "choicethree": "F=mia\n",
+        "file_name": "pdf/Type3/principals\\PPL (9).pdf",
+        "question_number": 20
+    },
+    {
+        "question": "The lift formula can be written as:\n(rho = density)\n",
+        "answer": "L=CL* Y\u201crho*V** S.\n",
+        "choiceone": "",
+        "choicetwo": "L=CL* 2rho*V** S.\n",
+        "file_name": "pdf/Type3/principals\\PPL (9).pdf",
+        "question_number": 26
+    },
+    {
+        "question": "Sweepback of a wing positively influences:\n1. static longitudinal stability.\n\n2. static lateral stability.\n\n3. dynamic longitudinal stability.\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "1, 2,3.\n",
+        "file_name": "pdf/Type3/principals\\PPL (9).pdf",
+        "question_number": 37
+    }
+]

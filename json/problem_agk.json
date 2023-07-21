@@ -1,0 +1,189 @@
+[
+    {
+        "question": "(Refer to Figure 83.) Which altimeter depicts 12,000 feet?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "pdf/Type3/agk\\AGK CPL (14).pdf",
+        "question_number": 33
+    },
+    {
+        "question": "The disadvantages of a float type fuel gauge are:\n\n1- the design is complex\nfluenced by the aircraft attitude variations\nfluenced by the accelerations\n\nfluenced by temperature variations\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "2, 3, 4.\n",
+        "choiceone": "1, 2, 3, 4.\n",
+        "choicetwo": "",
+        "choicethree": "2, 3.\n",
+        "file_name": "pdf/Type3/agk\\AGK CPL (19).pdf",
+        "question_number": 29
+    },
+    {
+        "question": "The magnetic system of a compass is suspended pendulously to counteract the effect\nof component:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "pdf/Type3/agk\\AGK CPL (19).pdf",
+        "question_number": 38
+    },
+    {
+        "question": "A turbofan engine with a bypass air mass flow of 200 kg/s and a HP compressor mass\nflow of 20 kg/s has a bypass ratio of:\n",
+        "answer": "",
+        "choiceone": "11\n",
+        "choicetwo": "1.1\n",
+        "file_name": "pdf/Type3/agk\\AGK CPL (22).pdf",
+        "question_number": 19
+    },
+    {
+        "question": "ni:\nPt= total pressure\n\nPs = static pressure\n\nPso = static pressure at sea level\n\nThe CAS is a function of:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "Pt/Ps\n",
+        "choicethree": "(Pt- Pso)/Ps\n",
+        "file_name": "pdf/Type3/agk\\AGK CPL (22).pdf",
+        "question_number": 33
+    },
+    {
+        "question": "The horizontal command bar of a flight director:\n\n1 - repeats the position information given by the ILS in the horizontal plane\n2 - repeats the position information given by the ILS in the vertical plane\n\n3 - gives information about the direction and the amplitude of the corrections to be\napplied on the pitch of the aircraft.\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "2, 3.\n",
+        "choicethree": "1, 3.\n",
+        "file_name": "pdf/Type3/agk\\AGK CPL (22).pdf",
+        "question_number": 42
+    },
+    {
+        "question": "In jet transport aircraft, breathing oxygen for the cockpit is stored in the following state:\n",
+        "answer": "gaseous.\n",
+        "choiceone": "",
+        "choicetwo": "",
+        "choicethree": "chemical or gaseous.\n",
+        "file_name": "pdf/Type3/agk\\AGK CPL (9).pdf",
+        "question_number": 23
+    },
+    {
+        "question": "(Refer to Figure 83.) Which altimeter depicts 12,000 feet?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "pdf/Type3/agk\\AGK CPL (9).pdf",
+        "question_number": 24
+    },
+    {
+        "question": "(Refer to Figure 84.) Which altimeter depicts 8,000 feet?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "pdf/Type3/agk\\AGK CPL (9).pdf",
+        "question_number": 30
+    },
+    {
+        "question": "ni:\nPt= total pressure\n\nPs = static pressure\n\nPso = static pressure at sea level\n\nThe CAS is a function of:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "Pt/Ps\n",
+        "choicethree": "(Pt- Pso)/Ps\n",
+        "file_name": "pdf/Type3/agk\\AGK CPL (9).pdf",
+        "question_number": 37
+    },
+    {
+        "question": "With QFE 1014 set at A (elevation 480 feet), an aircraft flies to B (QNH 1020) a distance of\n780 NM. In order to have mi ium clearance of 1500 ft over a hill 490 metres above sea\nlevel, 234 NM from A, the altimeter must read:\n\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "3048 ft\n",
+        "file_name": "pdf/Type3/agk\\AGK CPL (9).pdf",
+        "question_number": 38
+    },
+    {
+        "question": "The vertical command bar of a flight director:\n\n1 - repeats the position information given by the ILS in the horizontal plane\n2 - repeats the position information given by the ILS in the vertical plane\n\n3 - gives information about the direction and the amplitude of the corrections to be\napplied on the bank of the aircraft\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "2, 3.\n",
+        "choicethree": "1, 3.\n",
+        "file_name": "pdf/Type3/agk\\AGK CPL (9).pdf",
+        "question_number": 40
+    },
+    {
+        "question": "The parameters taken into account by the flight\nmode (ALT HOLD) are:\n\nlirector computer in the altitude hold\n\n1 - altitude deviation\n2- engine rpm\n\n3 - ground speed\n4-pitch attitude\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "choicethree": "1, 3.\n",
+        "file_name": "pdf/Type3/agk\\AGK CPL (9).pdf",
+        "question_number": 41
+    },
+    {
+        "question": "A turbofan engine with a bypass air mass flow of 200 kg/s and a HP compressor mass\nflow of 20 kg/s has a bypass ratio of:\n",
+        "answer": "",
+        "choiceone": "11\n",
+        "choicetwo": "1.1\n",
+        "file_name": "pdf/Type3/agk\\CPL (3).pdf",
+        "question_number": 15
+    },
+    {
+        "question": "If an altimeter\naltitude?\n\nicates 3500 feet with QNH 1004.7 hPa set, what is the pressure\n",
+        "answer": "3755 ft\n",
+        "choiceone": "3500 ft\n",
+        "choicetwo": "",
+        "file_name": "pdf/Type3/agk\\CPL (3).pdf",
+        "question_number": 32
+    },
+    {
+        "question": "The magnetic system of a compass is suspended pendulously to counteract the effect\nof component:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "pdf/Type3/agk\\CPL (3).pdf",
+        "question_number": 39
+    },
+    {
+        "question": "The position of the command bars of a flight director enables the pilot to know:\n1 - the direction and the amplitude of the corrections to apply on the controls.\n2 - only the direction of the corrections to apply on the controls.\n\n3 - the attitude of the aircraft.\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "1, 3.\n",
+        "choicethree": "2, 3.\n",
+        "file_name": "pdf/Type3/agk\\CPL (3).pdf",
+        "question_number": 42
+    },
+    {
+        "question": "(Refer to Figure 84.) Which altimeter depicts 8,000 feet?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "pdf/Type3/agk\\lifetym.pdf",
+        "question_number": 30
+    },
+    {
+        "question": "In an aircraft air conditioning system the air cannot be treated for:\n",
+        "answer": "",
+        "choiceone": "purity.\n",
+        "choicetwo": "pressure.\n",
+        "choicethree": "temperature.\n",
+        "file_name": "pdf/Type3/agk\\samsung.pdf",
+        "question_number": 19
+    },
+    {
+        "question": "(Refer to Figure 83.) Which altimeter depicts 12,000 feet?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "pdf/Type3/agk\\samsung.pdf",
+        "question_number": 33
+    },
+    {
+        "question": "The horizontal command bar of a flight director:\n\n1 - repeats the position information given by the ILS in the horizontal plane\n2 - repeats the position information given by the ILS in the vertical plane\n\n3 - gives information about the direction and the amplitude of the corrections to be\napplied on the pitch of the aircraft.\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "2, 3.\n",
+        "choicethree": "1, 3.\n",
+        "file_name": "pdf/Type3/agk\\spl.pdf",
+        "question_number": 42
+    },
+    {
+        "question": "In an aircraft air conditioning system the air cannot be treated for:\n",
+        "answer": "",
+        "choiceone": "purity.\n",
+        "choicetwo": "pressure.\n",
+        "choicethree": "temperature.\n",
+        "file_name": "pdf/Type3/agk\\zuma.pdf",
+        "question_number": 14
+    }
+]

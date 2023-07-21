@@ -1,0 +1,702 @@
+[
+    {
+        "question": "A pilot becomes skilled when he/she:\n-1: trains or practises regularly\n-2: knows how to manage himself/herself\n-3: possesses all the knowledge associated with his aircraft\n-4: knows how to keep resources in reserve for coping with the unexpected",
+        "answer": "1,2,4",
+        "choiceone": "2, 3,4",
+        "choicetwo": "1,2,3,4",
+        "choicethree": "1,2"
+    },
+    {
+        "question": "The ability to withstand g forces is reduced by a number of factors, among these\nfactors are:",
+        "answer": "Low blood sugar, obesity and hypoxia",
+        "choiceone": "Hypoxia, fatigue and vibrations",
+        "choicetwo": "Smoking, obesity and vibrations",
+        "choicethree": "Physical fitness, heat and hypotension"
+    },
+    {
+        "question": "Between which components, with reference to the SHELL Concept, covers pilot\nmisinterpretation of the old three-point altimeter?",
+        "answer": "Liveware - Hardware",
+        "choiceone": "Liveware - Software",
+        "choicetwo": "Liveware - Liveware",
+        "choicethree": "Liveware - Environment"
+    },
+    {
+        "question": "Dry air is a mixture of gases. Their volume percentage is about:",
+        "answer": "21% oxygen,78% nitrogen, 1% other gases",
+        "choiceone": "19% oxygen, 80% nitrogen, 1% other gases",
+        "choicetwo": "25% oxygen, 74% nitrogen, 1% other gases",
+        "choicethree": "18% oxygen, 80% nitrogen, 2% other gases"
+    },
+    {
+        "question": "Which of the following applies to carbon monoxide poisoning?",
+        "answer": "Several days are needed to recuperate from a carbon monoxide poisoning.",
+        "choiceone": "A very early symptom of carbon monoxide poisoning is euphoria.",
+        "choicetwo": "The human body shows no sign of carbon monoxide poisoning.",
+        "choicethree": "Inhaling carbon monoxide leads to hyperventilation."
+    },
+    {
+        "question": "Which statement is correct ?",
+        "answer": "Oxygen diffusion from the blood into the cells depends on the partial oxygen\npressure gradient.",
+        "choiceone": "Oxygen diffusion from the lungs into the blood does not depend on partial oxygen\npressure.",
+        "choicetwo": "The gradient of diffusion is higher at altitude than it is at sea-level.",
+        "choicethree": "Oxygen is mainly transported in plasma."
+    },
+    {
+        "question": "Hypoxia can be caused by",
+        "answer": "a lack of red blood cells in the blood or decreased ability of the haemoglobin to\ntransport oxygen",
+        "choiceone": "a lack of nitrogen in ambient air",
+        "choicetwo": "increasing oxygen partial pressure used for the exchange of gases",
+        "choicethree": "too much carbon dioxide in the blood"
+    },
+    {
+        "question": "Breathing 100% will elevate the pilot's physiological safe altitude to approximately:",
+        "answer": "40 000 ft",
+        "choiceone": "22 000 ft",
+        "choicetwo": "10 000",
+        "choicethree": "45 000 ft"
+    },
+    {
+        "question": "The time between inadequate oxygen supply and incapacitation is called TUC (Time of\nUseful Consciousness). It",
+        "answer": "varies individually and depends on cabin pressure altitude",
+        "choiceone": "varies individually and does not depend on altitude",
+        "choicetwo": "is not dependent on physical or psychological pressure",
+        "choicethree": "is the same amount of time for every person"
+    },
+    {
+        "question": "You suffered a rapid decompression without the appearance of any decompression\nsickness symptoms.\nWhat should you do before flying ?",
+        "answer": "seek prompt aeromedical advice",
+        "choiceone": "seek aeromedical advice only if the symptoms become apparent",
+        "choicetwo": "nothing, you may fly immediately",
+        "choicethree": "delay your next flight for 6 hours"
+    },
+    {
+        "question": "The function of the Eustachian tube is to equalise the pressure between the:",
+        "answer": "middle ear and the external atmosphere",
+        "choiceone": "nose, throat and the external atmosphere",
+        "choicetwo": "sinuses",
+        "choicethree": "sinuses of the nose and the external atmosphere"
+    },
+    {
+        "question": "A barotrauma of the middle ear",
+        "answer": "is more likely, when the pilot is flying with a respiratory infection and during\ndescent",
+        "choiceone": "is only caused by large pressure changes during climb",
+        "choicetwo": "causes severe pain in the sinuses",
+        "choicethree": "is to be expected during rapid decompressions, but an emergency descent\nimmediately following the decompression will eliminate the problem"
+    },
+    {
+        "question": "Barotrauma of the middle ear most likely will occur",
+        "answer": "when descending rapidly",
+        "choiceone": "in sudden steep turns",
+        "choicetwo": "during a long high altitude flight",
+        "choicethree": "when climbing"
+    },
+    {
+        "question": "Which of the following laws explains bubbles of nitrogen coming out of solution in\nbody tissues due to a decrease in atmospheric pressure?",
+        "answer": "Henry's law",
+        "choiceone": "Dalton's law",
+        "choicetwo": "Boyle's law",
+        "choicethree": "Gay Lussac's law"
+    },
+    {
+        "question": "Altitude-hypoxia, when breathing ambient air, should not usually occur (indifferent\nphase)",
+        "answer": "below 3 000 m",
+        "choiceone": "up to 5 000 m",
+        "choicetwo": "between 3 000 m and 5 000 m",
+        "choicethree": "between 5 000 m and 7 000 m"
+    },
+    {
+        "question": "\"The Bends\" as a symptom of decompression sickness consists of:",
+        "answer": "pain in the joints",
+        "choiceone": "pain in the thorax and a cough",
+        "choicetwo": "loss of peripheral vision",
+        "choicethree": "CNS-disturbances"
+    },
+    {
+        "question": "The cabin pressure in airline operation is",
+        "answer": "normally between 6 000 to 8 000 feet",
+        "choiceone": "normally between 2 000 to 3 000 feet",
+        "choicetwo": "always equivalent to sea level",
+        "choicethree": "normally between 4 000 to 5 000 feet"
+    },
+    {
+        "question": "What is hypoxia ?",
+        "answer": "Any condition where the oxygen concentration of the body is below normal limits\nor where the oxygen available to the body cannot be used due to some\npathological condition",
+        "choiceone": "A state characterised by an excessive supply of oxygen which may be due to\nmaladjustment of the mask",
+        "choicetwo": "The respiratory symptom associated with altitude decompression sickness",
+        "choicethree": "The total absence of oxygen in the blood of the body"
+    },
+    {
+        "question": "What is the procedure above 10.000 ft altitude when faced with explosive\ndecompression?",
+        "answer": "Don an oxygen mask and descend to below 10,000 ft",
+        "choiceone": "Descend to below 10,000 ft and signal an emergency",
+        "choicetwo": "Check the cabin altitude, don an oxygen mask and maintain level flight",
+        "choicethree": "First inform ATC"
+    },
+    {
+        "question": "You climb from 0 to 50.000 ft and measure the decrease of the pressure per 5.000 ft.\nThe absolute difference in barometric pressure is greatest between:",
+        "answer": "0 and 5.000 feet",
+        "choiceone": "10.000 and 15.000 feet",
+        "choicetwo": "45.000 and 50.000 feet",
+        "choicethree": "5.000 and 10.000 feet"
+    },
+    {
+        "question": "Physiological problems due to increasing altitude are caused by:",
+        "answer": "decreased atmospheric pressure",
+        "choiceone": "disorientation",
+        "choicetwo": "accelerations",
+        "choicethree": "increased atmospheric pressure"
+    },
+    {
+        "question": "Which of the following statements is correct?\nThe blood-pressure which is measured during flight medical checks is the pressure",
+        "answer": "in the artery of the upper arm (representing the pressure at heart level)",
+        "choiceone": "in all the blood-vessels of the body (representing the pressure in the whole body)",
+        "choicetwo": "in the veins of the upper arm",
+        "choicethree": "in the muscles of the upper arm"
+    },
+    {
+        "question": "Changes in blood-pressure are measured by:",
+        "answer": "pressoreceptors",
+        "choiceone": "adrenal glands",
+        "choicetwo": "pacemakers",
+        "choicethree": "arteriols"
+    },
+    {
+        "question": "Positive g will cause the blood-pressure in the brain to:",
+        "answer": "decrease",
+        "choiceone": "first increase, then decrease",
+        "choicetwo": "increase",
+        "choicethree": "remain constant"
+    },
+    {
+        "question": "During sustained positive G-forces the order of symptoms you can expect is:",
+        "answer": "grey-out, tunnel vision, black-out and unconsciousness.",
+        "choiceone": "grey-out, unconsciousness, black-out and tunnel vision",
+        "choicetwo": "black-out, grey-out, tunnel vision and unconsciousness.",
+        "choicethree": "unconsciousness, black-out, tunnel vision and grey out."
+    },
+    {
+        "question": "The normal rate of breathing of an adult at rest is about:",
+        "answer": "16 cycles per minute",
+        "choiceone": "4 cycles per minute",
+        "choicetwo": "72 cycles per minute",
+        "choicethree": "32 cycles per minute"
+    },
+    {
+        "question": "Early symptoms of hypoxia could be:\n1. euphoria\n2. decreased rate and depth of breathing\n3. lack of concentration\n4. visual disturbances",
+        "answer": "1,3 and 4 are correct",
+        "choiceone": "1,2 and 4 are correct",
+        "choicetwo": "1,2,3 and 4 are correct",
+        "choicethree": "1,2 and 3 are correct"
+    },
+    {
+        "question": "One of the most dangerous symptoms of hypoxia concerning flight safety is:",
+        "answer": "impaired judgement",
+        "choiceone": "hyperventilation, causing emotional stress",
+        "choicetwo": "cyanosis, reducing then pilots ability to hear",
+        "choicethree": "reduced coordination of limb movements, causing the pilot to spin"
+    },
+    {
+        "question": "You are crossing the Alps in a non-pressurised aircraft at an altitude of 15.000 feet.\nYou do not use the oxygen mask because you feel fine. This is unsafe, because:",
+        "answer": "your judgement could be impaired",
+        "choiceone": "you will get the bends",
+        "choicetwo": "the blood-pressure can get too high",
+        "choicethree": "the blood-pressure can get too low"
+    },
+    {
+        "question": "Which measure(s) will help to compensate for hypoxia?\n1. Descend below 10 000 FT.\n2. Breathe 100 % oxygen.\n3. Climb to or above 10 000 FT.\n4. Reduce physical activities.",
+        "answer": "1, 2 and 4 are correct",
+        "choiceone": "1, 2 and 3 are correct",
+        "choicetwo": "1 and 2 are correct, 3 and 4 are false",
+        "choicethree": "only 1 is correct"
+    },
+    {
+        "question": "A pilot can prevent hypoxia by:",
+        "answer": "using additional oxygen when flying above 10000 ft",
+        "choiceone": "relying on the body's built in warning system recognizing any stage of hypoxia",
+        "choicetwo": "not exceeding a cabin pressure altitude of 20000 ft",
+        "choicethree": "swallowing, yawing and applying the Valsalva method"
+    },
+    {
+        "question": "Some hours after a rapid decompression at FL 300 you experience pain in the joints.\nWhich of following answers is correct?",
+        "answer": "You should ask for medical advice (flight surgeon) since this is a symptom of\ndecompression sickness.",
+        "choiceone": "This phenomenon is treated by breathing 100% nitrogen.",
+        "choicetwo": "This symptom indicates decompression sickness and will disappear when you\ntake some exercise.",
+        "choicethree": "This phenomenon is treated by physiotherapy."
+    },
+    {
+        "question": "Carbon monoxide poisoning can be treated by:",
+        "answer": "increasing the amount of oxygen being physically dissolved in the blood",
+        "choiceone": "increasing the amount of nitrogen being physically dissolved in the blood",
+        "choicetwo": "breathing into a paper bag",
+        "choicethree": "decreasing the amount of oxygen being combined with the hemoglobin in the\nblood"
+    },
+    {
+        "question": "When faced with sustained cold temperature, how does the body resist this physical\nstress?",
+        "answer": "By intense vasoconstriction.",
+        "choiceone": "By vasodilatation which permits a greater flow of blood to the periphery.",
+        "choicetwo": "By speeding up the metabolic rate in the Autonomic Nervous System.",
+        "choicethree": "By increasing cardiac frequency."
+    },
+    {
+        "question": "Haemoglobin has an affinity for carbon monoxide of ...............times over oxygen",
+        "answer": "210 - 250",
+        "choiceone": "500 - 1,000",
+        "choicetwo": "5 - 10",
+        "choicethree": "50 - 75"
+    },
+    {
+        "question": "The system which controls breathing, digestion, heart rate, etc., over which there is no\nvoluntary control, is:",
+        "answer": "the autonomic nervous system",
+        "choiceone": "the critical nervous system",
+        "choicetwo": "the local nervous system",
+        "choicethree": "non-existent, as all these functions are under conscious control"
+    },
+    {
+        "question": "During poor weather conditions a pilot should fly with reference to instruments\nbecause:",
+        "answer": "perception of distance and speed is difficult in an environment of low contrast",
+        "choiceone": "the danger of a \"greying out\" will make it impossible to determine the height above\nthe terrain",
+        "choicetwo": "his attention will be distracted automatically under these conditions",
+        "choicethree": "pressure differences can cause the altimeter to give wrong information"
+    },
+    {
+        "question": "Hypoxia will effect night vision",
+        "answer": "at approximately 5000 FT",
+        "choiceone": "less than day vision",
+        "choicetwo": "and causes the autokinetic phenomena",
+        "choicethree": "and causes hyperventilation"
+    },
+    {
+        "question": "When flying at night the first sense to be affected by a slight degree of hypoxia is the",
+        "answer": "vision",
+        "choiceone": "sense of balance",
+        "choicetwo": "proprioceptive sensitivity",
+        "choicethree": "cochlea"
+    },
+    {
+        "question": "Which of the following statement(s) is/are correct ?\n- 1: The retina has rods in its peripheral zone and cones in its central zone\n- 2: The retina has cones and the crystalline lens has rods\n- 3: The rods allow for night-vision\n- 4: The cones are located on the peripheral zone of the retina",
+        "answer": "1,3",
+        "choiceone": "4",
+        "choicetwo": "2,3",
+        "choicethree": "1"
+    },
+    {
+        "question": "Rods (scotopic visual cells) allow for:",
+        "answer": "good night-vision after adaptation to darkness (30 min)",
+        "choiceone": "red vision, both during the day and at night",
+        "choicetwo": "precise vision of contours and colours",
+        "choicethree": "good, virtually instantaneous night-vision (scotopic vision)"
+    },
+    {
+        "question": "The ability of the human eye to read alphanumeric information:",
+        "answer": "is limited to the foveal area of the retina",
+        "choiceone": "is limited to daytime using the rod cells",
+        "choicetwo": "is almost equally shared by the entire retina",
+        "choicethree": "is governed by peripheral vision over an area of approximately 20 degrees of angle"
+    },
+    {
+        "question": "The ability of the lens to change its shape is called:",
+        "answer": "accommodation",
+        "choiceone": "depth perception",
+        "choicetwo": "binocular vision",
+        "choicethree": "adaptation"
+    },
+    {
+        "question": "The photosensitive cells being responsible for night vision are called:",
+        "answer": "the rods",
+        "choiceone": "the cones",
+        "choicetwo": "the cones and the rods",
+        "choicethree": "the fovea"
+    },
+    {
+        "question": "When flying through a thunderstorm with lightning you can protect yourself from\nflashblindness by:\na) turning up the intensity of cockpit lights\nb) looking inside the cockpit\nc) wearing sunglasses\nd) using blinds or curtains when installed",
+        "answer": "a), b), c) and d) are correct",
+        "choiceone": "c) and d) are correct, a) and b) are false",
+        "choicetwo": "a) and b) are correct, c) and d) are false",
+        "choicethree": "a), b) and c) are correct, d) is false"
+    },
+    {
+        "question": "Which scanning technique should be used when flying at night?",
+        "answer": "Look to the side (10 - 15 deg) of the object.",
+        "choiceone": "Look directly at the object.",
+        "choicetwo": "Look with one eye.",
+        "choicethree": "Blink your eyes."
+    },
+    {
+        "question": "Night vision is significantly reduced (i.e. a loss of more than 25%) at 15,000 FT in\nwhich stage of hypoxia?",
+        "answer": "Compensatory",
+        "choiceone": "Indifferent",
+        "choicetwo": "Anaemic phase",
+        "choicethree": "Clinical manifestation phase"
+    },
+    {
+        "question": "To prevent empty field myopia at higher altitudes:",
+        "answer": "it is recommended that a pilot uses short sharp scans, or periodically focuses on a\ndistant object such as a wingtip or cloud edge",
+        "choiceone": "one should concentrate only on instruments",
+        "choicetwo": "it is recommended that a pilot focuses on an object known to be approximately\none metre away",
+        "choicethree": "one should book an appointment with an opthalmologist as soon as possible"
+    },
+    {
+        "question": "Which part of the inner ear is responsible for the perception of sound?",
+        "answer": "The cochlea",
+        "choiceone": "The semicircular canals",
+        "choicetwo": "The Eustachian tube",
+        "choicethree": "The sacculus and utriculus"
+    },
+    {
+        "question": "The intensity of a sound is measured in",
+        "answer": "decibels",
+        "choiceone": "cycles per second",
+        "choicetwo": "hertz",
+        "choicethree": "curies"
+    },
+    {
+        "question": "Excessive exposure to noise damages:",
+        "answer": "the sensitive membrane in the cochlea",
+        "choiceone": "the semi circular canals",
+        "choicetwo": "the ossicles",
+        "choicethree": "the eardrum"
+    },
+    {
+        "question": "Tinnitus is",
+        "answer": "ringing in the ears",
+        "choiceone": "very sensitive hearing",
+        "choicetwo": "very insensitive hearing",
+        "choicethree": ""
+    },
+    {
+        "question": "Resonance of the body parts can result from:",
+        "answer": "vibrations from 1 to 100 Hz",
+        "choiceone": "vibrations from 16 Hz to 18 kHz",
+        "choicetwo": "angular velocity",
+        "choicethree": "acceleration along the longitudinal body axis"
+    },
+    {
+        "question": "The semicircular canals of the inner ear monitor",
+        "answer": "angular accelerations",
+        "choiceone": "relative speed and linear accelerations",
+        "choicetwo": "gravity",
+        "choicethree": "movements with constant speeds"
+    },
+    {
+        "question": "The vestibular apparatus",
+        "answer": "reacts to linear/angular acceleration and gravity",
+        "choiceone": "gives the impression of hearing",
+        "choicetwo": "reacts to pressure changes in the middle ear",
+        "choicethree": "reacts to vibrations of the cochlea"
+    },
+    {
+        "question": "The Seat-of-the-Pants Sense involves receptors in the",
+        "answer": "muscles, tendons and joints sensitive to the position and movement of body parts",
+        "choiceone": "semicircular canals",
+        "choicetwo": "utriculus and sacculus",
+        "choicethree": "skin only"
+    },
+    {
+        "question": "Dizziness and tumbling sensations, when making head movements in a tight turn, are\nsymptoms of",
+        "answer": "\"Pilot`s vertigo\"",
+        "choiceone": "\"Nystagmus\"",
+        "choicetwo": "\"Oculogravic illusion\"",
+        "choicethree": "\"Flicker-vertigo\""
+    },
+    {
+        "question": "Disorientation is more likely to occur when the pilot is:\n1. flying in IMC\n2. frequently changing between inside and outside references\n3. flying from IMC into VMC\n4. approaching over still water at night",
+        "answer": "1, 2 and 4 are correct",
+        "choiceone": "2, 3 and 4 are correct",
+        "choicetwo": "1, 2 and 3 are correct",
+        "choicethree": "1, 3 and 4 are correct"
+    },
+    {
+        "question": "Coriolis illusion, causing spatial disorientation is the result of:",
+        "answer": "simultaneous head movements during aircraft manoeuvres",
+        "choiceone": "gazing in the direction of a flashing light",
+        "choicetwo": "normal deterioration of the semicircular canals with age",
+        "choicethree": "undergoing positive G"
+    },
+    {
+        "question": "Which procedure is recommended to prevent or overcome spatial disorientation?",
+        "answer": "Rely entirely on the indications of the flight instruments.",
+        "choiceone": "Tilt your head to the side to get better information from the semicircular canals.",
+        "choicetwo": "Get adapted to low levels of illumination before flying and use off-center vision all\nthe time.",
+        "choicethree": "Rely on the Seat-of-the-Pants-Sense."
+    },
+    {
+        "question": "How can a pilot prevent spatial disorientation in flight?",
+        "answer": "Establish and maintain a good instrument cross check.",
+        "choiceone": "Rely on the \"seat of the pants\" sense.",
+        "choicetwo": "Rely on good situational awareness believing your natural senses.",
+        "choicethree": "Always try to catch outside visual cues."
+    },
+    {
+        "question": "The following can be observed when the internal body temperature falls below 35\u00b0C:",
+        "answer": "shivering, will tend to cease, and be followed by the onset of apathy",
+        "choiceone": "mental disorders, and even coma",
+        "choicetwo": "profuse sweating",
+        "choicethree": "the appearance of intense shivering"
+    },
+    {
+        "question": "Which of the following statements are correct ?\n1  Hypothermia affects physical and mental abilities.\n2  Man has effective natural protection against intense cold.\n3  Shivering makes it possible to combat the cold to a certain extent, but uses up a lot of energy\n4  Disorders associated with hypothermia appear at a body temperature of less than 35\u00b0C",
+        "answer": "1,3,4",
+        "choiceone": "2,3,4",
+        "choicetwo": "2,4",
+        "choicethree": "1,2,3"
+    },
+    {
+        "question": "What is meant by metabolism?",
+        "answer": "The generation and utilisation of energy by the body's cells and tissues",
+        "choiceone": "Transfer of chemical messages",
+        "choicetwo": "Exchange of substances between the lung and the blood",
+        "choicethree": "Information exchange"
+    },
+    {
+        "question": "One of the waste products of the metabolic process in the cell is:",
+        "answer": "carbon dioxide",
+        "choiceone": "fat",
+        "choicetwo": "protein",
+        "choicethree": "sugar"
+    },
+    {
+        "question": "In order to reduce the risk of coronary artery disease, exercise should:",
+        "answer": "double the resting heart rate for at least 20 minutes, three times a week",
+        "choiceone": "be avoided since raising the heart rate shortens the life of the heart",
+        "choicetwo": "double the resting heart rate for at least an hour, five times a week",
+        "choicethree": "triple the resting heart rate for 20 minutes, once a week"
+    },
+    {
+        "question": "Astigmatism is caused by:",
+        "answer": "A mis-shapened cornea",
+        "choiceone": "A lack of empty field",
+        "choicetwo": "A lack of accommodation",
+        "choicethree": "A lack of vitamin A"
+    },
+    {
+        "question": "Among the symptoms of hypoglycaemia are:",
+        "answer": "Headache and lack of concentration",
+        "choiceone": "Severe eye and head aches",
+        "choicetwo": "Difficulty in focussing on near-by objects",
+        "choicethree": "Double vision and puffiness around the eyes"
+    },
+    {
+        "question": "Tetanus is transmitted through:",
+        "answer": "Bacteria in the form of spores via a puncture in the skin",
+        "choiceone": "Food or water which has been contaminated",
+        "choicetwo": "Insect bites",
+        "choicethree": "Droplets in the air cause by the breath of an infected person"
+    },
+    {
+        "question": "Hepatitis 'A' is transmitted through:",
+        "answer": "food or water which has been contaminated.",
+        "choiceone": "bacteria in the form of spores via a puncture in the skin.",
+        "choicetwo": "droplets in the air cause by the breath of an infected person.",
+        "choicethree": "insect bites."
+    },
+    {
+        "question": "Presbyopia is corrected with",
+        "answer": "plus lenses",
+        "choiceone": "minus lenses",
+        "choicetwo": "pin cushion shaped lenses",
+        "choicethree": ""
+    },
+    {
+        "question": "Alcohol, when taken simultaneously with drugs, may",
+        "answer": "intensify the effects of the drugs",
+        "choiceone": "compensate for side effects of drugs",
+        "choicetwo": "increase the rate of alcohol elimination from the blood",
+        "choicethree": "show undesired effects only during night flights"
+    },
+    {
+        "question": "One of the substances present in the smoke of cigarettes can make it significantly\nmore difficult for the red blood cells to transport oxygen and as a consequence\ncontributes to hypoxia. Which substance are we referring to?",
+        "answer": "Carbon monoxide",
+        "choiceone": "Carbonic anhydride",
+        "choicetwo": "Carbon dioxide",
+        "choicethree": "Tar"
+    },
+    {
+        "question": "Caffeine may cause an increase in cardiac rate, restlessness/nervousness, insomnia,\nanxiety and intestinal irritability. Excessive consumption is considered to be in excess\nof:",
+        "answer": "250 mg/day",
+        "choiceone": "40-65 mg/day",
+        "choicetwo": "150 mg/day",
+        "choicethree": "3 mg/day"
+    },
+    {
+        "question": "What are the two types of attention ?",
+        "answer": "Selective and divided",
+        "choiceone": "Divided and behavioural",
+        "choicetwo": "Intuitive and behavioural",
+        "choicethree": "Cognitive and intuitive"
+    },
+    {
+        "question": "The first stage in the information process is",
+        "answer": "sensory stimulation",
+        "choiceone": "the recognition of information",
+        "choicetwo": "perception",
+        "choicethree": "selective attention"
+    },
+    {
+        "question": "The quality of learning:",
+        "answer": "is promoted by feedback on the value of one's own performance",
+        "choiceone": "is independent of the level of motivation",
+        "choicetwo": "depends on long-term memory capacity",
+        "choicethree": "is dependent on age and professional role"
+    },
+    {
+        "question": "What strategies can be used to combat human error?\n-1: Reducing error-prone mechanisms.\n-2: Improving the way in which error is taken into account in training.\n-3: Sanctions against the initiators of error.\n-4: Improving recovery from errors and its consequences.\nThe combination of correct statements is:",
+        "answer": "1, 2 and 4",
+        "choiceone": "3 and 4",
+        "choicetwo": "1 and 2",
+        "choicethree": "2, 3 and 4"
+    },
+    {
+        "question": "Once we have constructed a mental model we tend",
+        "answer": "to give undue weight to information that confirms the model",
+        "choiceone": "to alter that model unnecessarily frequently",
+        "choicetwo": "to give undue weight to information that contradicts the model",
+        "choicethree": "to give equal weight to contradicting and confirming information"
+    },
+    {
+        "question": "Which of the following statements fits best the concept of latent error?\nLatent errors:",
+        "answer": "have been present in the system for a certain length of time and are difficult to\nidentify as a result of the time lag between the generation and the occurrence of\nthe error",
+        "choiceone": "rapidly may be detected via their immediate consequences on the action in\nprogress",
+        "choicetwo": "are rarely made by front-line operators, and are consequently readily identified and\ndetected by the monitoring, detection and warning links",
+        "choicethree": "are mainly associated with the behaviour of front-line operators and are only\ndetected after advanced problem-solving"
+    },
+    {
+        "question": "The level of automation helps to conserve resources. On the other hand, it may result\nin:",
+        "answer": "routine errors (slips)",
+        "choiceone": "mistakes",
+        "choicetwo": "decision-making errors",
+        "choicethree": "errors in selecting an appropriate plan of action"
+    },
+    {
+        "question": "In problem-solving, what determines the transition from rule-based activities to a\nknowledge-based activity?",
+        "answer": "The unsuitability of the known rules for the problem posed",
+        "choiceone": "Knowledge of rules which apply to the problem posed",
+        "choicetwo": "Attentional capture",
+        "choicethree": "The unsuitability of the automated actions"
+    },
+    {
+        "question": "If one error is allowed to effect a whole system, the system is described as:",
+        "answer": "Vulnerable",
+        "choiceone": "Error-prone",
+        "choicetwo": "Corrupted",
+        "choicethree": "Error tolerant"
+    },
+    {
+        "question": "To avoid wrong decisions by the pilot, an aircraft system should at the minimum to",
+        "answer": "report its malfunction",
+        "choiceone": "correct the deviation",
+        "choicetwo": "report the deviation",
+        "choicethree": "tolerate the deviation"
+    },
+    {
+        "question": "The assessment of risk in a particular situation will be based on",
+        "answer": "subjective perception and evaluation of situational factors",
+        "choiceone": "situational factors only",
+        "choicetwo": "the emergency checklist only",
+        "choicethree": "external factors only"
+    },
+    {
+        "question": "Decision-making can be influenced by the following factors:\n1. people tend to conform to opinions expressed by a majority within the group they belong to\n2. people always keep the future decisions in line with those their superiors have made in the past\n3. people more easily tend to select data which meet their expectations\n4. people rarely base decisions on their personal preferences but rather on rational information\nWhich of the following lists all the correct answers ?",
+        "answer": "1 and 3",
+        "choiceone": "1 and 4",
+        "choicetwo": "2 and 3",
+        "choicethree": "2 and 4"
+    },
+    {
+        "question": "Decision-making is a concept which represents:",
+        "answer": "a voluntary and conscious process of selection, from among possible solutions,\nfor a given problem",
+        "choiceone": "an automatic process of selection from among the various solutions to a given\nproblem",
+        "choicetwo": "an automated or automation-like act of applying defined procedures",
+        "choicethree": "a spontaneous act of seeking the most effective solution in a given situation when\nfaced with a defined problem"
+    },
+    {
+        "question": "The following course of action should be taken if gastrointestinal complaints in flight crew occur before to\ntake-off:\n-1: take the standard medicines and advise the doctor on returning from the flight\n-2: assess your own ability to fly, if necessary with the help of a doctor\n-3: if in doubt about fitness to fly - do not fly!\n-4: reduce the cabin temperature, and drink before you are thirsty so as to avoid dehydration",
+        "answer": "2,3",
+        "choiceone": "1,4",
+        "choicetwo": "1,3",
+        "choicethree": "1,2,4"
+    },
+    {
+        "question": "Waiting for takeoff on the runway, a pilot is informed by the tower that the tail wind\ncomponent is 12 kt. According to the manual, the limitation is 10 kt max.\nThe pilot makes a decision to take-off anyway, as the runway is long.",
+        "answer": "This is a violation.",
+        "choiceone": "This is neither an error or a violation - the pilot is using his initiative.",
+        "choicetwo": "This is a decision error.",
+        "choicethree": "This is an error of reasoning."
+    },
+    {
+        "question": "What optimises crew co-operation ?\n1. Sharing and common task\n2. Confidence in each others capability\n3. Precise definition of functions associated with each crew members role",
+        "answer": "1,2,3",
+        "choiceone": "1,2",
+        "choicetwo": "2,3",
+        "choicethree": "1"
+    },
+    {
+        "question": "Attitudes are defined as:",
+        "answer": "tendencies to respond to people, things or events in a particular manner",
+        "choiceone": "the genetic predispositions for thinking and acting",
+        "choicetwo": "a synonym for behaviour",
+        "choicethree": "the conditions necessary for carrying out an activity"
+    },
+    {
+        "question": "Which of the following answers is correct?",
+        "answer": "Behaviour is the outward result of personality and attitude and is adaptable.",
+        "choiceone": "Personality is the outward result of behaviour and attitude and is not adaptable.",
+        "choicetwo": "Personality is the outward result of behaviour and attitude and is adaptable.",
+        "choicethree": "Behaviour is the outward result of personality and attitude and is not adaptable."
+    },
+    {
+        "question": "With regards to stress, as it affects human beings, which of the folowing statements is\ncorrect?",
+        "answer": "\u00b4Stress\u00b4is a term used to describe how a person reacts to demands placed upon\nhim/her.",
+        "choiceone": "All forms of stress should be avoided.",
+        "choicetwo": "Stressors relate purely to a pilot\u00b4s physical condition.",
+        "choicethree": "Self imposed obligations will not create stress."
+    },
+    {
+        "question": "Physiological stressors include:",
+        "answer": "Noise, temperature (low or high), humidity, sleep deprivation",
+        "choiceone": "Heat, humidity, fatigue, administrative problems",
+        "choicetwo": "Temperature, hunger, thirst, divorce",
+        "choicethree": "Noise, hunger, conflicts, a death"
+    },
+    {
+        "question": "Which of the following statements concerning stress are true ?\n1. Adaptation is a new state of equilibrium after having coped with a stressful situation.\n2. An individual's anticipation of the situation and his/her perceived abilities to cope with it will\ndetermine the type and strength of stress.",
+        "answer": "1 and 2 are both true",
+        "choiceone": "1 and 2 are both false",
+        "choicetwo": "1 is false, 2 is true",
+        "choicethree": "1 is true, 2 is false"
+    },
+    {
+        "question": "Stress in the acute form acts over",
+        "answer": "the short term",
+        "choiceone": "the long term",
+        "choicetwo": "long or short term",
+        "choicethree": ""
+    },
+    {
+        "question": "Stress in the chronic form acts over",
+        "answer": "the long term",
+        "choiceone": "the short term",
+        "choicetwo": "long or short term",
+        "choicethree": ""
+    },
+    {
+        "question": "The most important of the diurnal body rhythms is",
+        "answer": "internal body temperature",
+        "choiceone": "body temperature and blood pressure",
+        "choicetwo": "blood pressure",
+        "choicethree": ""
+    },
+    {
+        "question": "Mode Error is associated with:",
+        "answer": "Automation",
+        "choiceone": "Vertigo",
+        "choicetwo": "Hardware",
+        "choicethree": "Check lists"
+    },
+    {
+        "question": "How can a pilot avoid automation complacency?",
+        "answer": "Regard the automatic system as additional crew members that needs to be\ncrosschecked as well",
+        "choiceone": "Always try to enhance your aviation related knowledge during low workload\nperiods",
+        "choicetwo": "Nothing, because it is system-inherent",
+        "choicethree": "Always fly the whole flight manually to remain in man-machine loop"
+    }
+]

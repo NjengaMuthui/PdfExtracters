@@ -1,0 +1,810 @@
+[
+    {
+        "question": "(Refer to Figure 84.) Which altimeter depicts 8,000 feet?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "atg\\atgk atpl (1).pdf",
+        "question_number": 25
+    },
+    {
+        "question": "If the static pressure ports iced over while descen\nindicator would read:\n\n1g from altitude, the airspeed\n",
+        "answer": "",
+        "choiceone": "Low\n",
+        "choicetwo": "Correctly.\n",
+        "file_name": "atg\\atgk atpl (1).pdf",
+        "question_number": 28
+    },
+    {
+        "question": "ni:\nPt= total pressure\n\nPs = static pressure\n\nPso = static pressure at sea level\n\nThe CAS is a function of:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "Pt/Ps\n",
+        "choicethree": "(Pt- Pso)/Ps\n",
+        "file_name": "atg\\atgk atpl (1).pdf",
+        "question_number": 30
+    },
+    {
+        "question": "A gyromagnetic compass consists of:\n\n4 -a horizontal axis gyro\n\n2 -a vertical axis gyro\n\n3 -an earth's magnetic field detector\n\n4 -an erection mechanism to maintain the gyro axis horizontal\n5 -a torque motor to make the gyro precess in azimuth\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "1, 3, 4, 5.\n",
+        "choiceone": "",
+        "choicetwo": "2, 3, 5.\n",
+        "choicethree": "2, 3.\n",
+        "file_name": "atg\\atgk atpl (1).pdf",
+        "question_number": 39
+    },
+    {
+        "question": "The horizontal command bar of a flight director:\n\n1 - repeats the position information given by the ILS in the horizontal plane\n2 - repeats the position information given by the ILS in the vertical plane\n\n3 - gives information about the direction and the amplitude of the corrections to be\napplied on the pitch of the aircraft.\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "2, 3.\n",
+        "choicethree": "1, 3.\n",
+        "file_name": "atg\\atgk atpl (1).pdf",
+        "question_number": 40
+    },
+    {
+        "question": "In order to produce an alternating voltage of 400 Hz, the number of poles required in an\nAC generator running at 6000 rpm is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "choicethree": "12\n",
+        "file_name": "atg\\atgk atpl (10).pdf",
+        "question_number": 16
+    },
+    {
+        "question": "The parameters taken into account by the flight\nmode (ALT HOLD) are:\n\nlirector computer in the altitude hold\n\n1 - altitude deviation\n2- engine rpm\n\n3 - ground speed\n4-pitch attitude\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "choicethree": "1, 3.\n",
+        "file_name": "atg\\atgk atpl (10).pdf",
+        "question_number": 41
+    },
+    {
+        "question": "The vertical command bar of a flight director:\n\n1 - repeats the position information given by the ILS in the horizontal plane\n2 - repeats the position information given by the ILS in the vertical plane\n\n3 - gives information about the direction and the amplitude of the corrections to be\napplied on the bank of the aircraft\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "2, 3.\n",
+        "choicethree": "1, 3.\n",
+        "file_name": "atg\\atgk atpl (10).pdf",
+        "question_number": 42
+    },
+    {
+        "question": "If the static pressure ports iced over while descen\nindicator would read:\n\n1g from altitude, the airspeed\n",
+        "answer": "",
+        "choiceone": "Low\n",
+        "choicetwo": "Correctly.\n",
+        "file_name": "atg\\atgk atpl (11).pdf",
+        "question_number": 33
+    },
+    {
+        "question": "The horizontal command bar of a flight director:\n\n1 - repeats the position information given by the ILS in the horizontal plane\n2 - repeats the position information given by the ILS in the vertical plane\n\n3 - gives information about the direction and the amplitude of the corrections to be\napplied on the pitch of the aircraft.\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "2, 3.\n",
+        "choicethree": "1, 3.\n",
+        "file_name": "atg\\atgk atpl (11).pdf",
+        "question_number": 42
+    },
+    {
+        "question": "(Refer to Figure 82.) Which is an acceptable range of accuracy when performing an\noperational check of dual VOR's using one system against the other?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "atg\\atgk atpl (12).pdf",
+        "question_number": 24
+    },
+    {
+        "question": "The vertical command bar of a flight director:\n\n1 - repeats the position information given by the ILS in the horizontal plane\n2 - repeats the position information given by the ILS in the vertical plane\n\n3 - gives information about the direction and the amplitude of the corrections to be\napplied on the bank of the aircraft\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "2, 3.\n",
+        "choicethree": "1, 3.\n",
+        "file_name": "atg\\atgk atpl (12).pdf",
+        "question_number": 42
+    },
+    {
+        "question": "The disadvantages of a float type fuel gauge are:\n\n1- the design is complex\nfluenced by the aircraft attitude variations\nfluenced by the accelerations\n\nfluenced by temperature variations\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "2, 3, 4.\n",
+        "choiceone": "1, 2, 3, 4.\n",
+        "choicetwo": "",
+        "choicethree": "2, 3.\n",
+        "file_name": "atg\\atgk atpl (13).pdf",
+        "question_number": 30
+    },
+    {
+        "question": "The magnetic system of a compass is suspended pendulously to counteract the effect\nof component:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "atg\\atgk atpl (13).pdf",
+        "question_number": 39
+    },
+    {
+        "question": "The parameters taken into account by the flight\nmode (ALT HOLD) are:\n\nlirector computer in the altitude hold\n\n1 - altitude deviation\n2- engine rpm\n\n3 - ground speed\n4-pitch attitude\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "choicethree": "1, 3.\n",
+        "file_name": "atg\\atgk atpl (13).pdf",
+        "question_number": 43
+    },
+    {
+        "question": "(Refer to Figure 83.) Which altimeter depicts 12,000 feet?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "atg\\atgk atpl (14).pdf",
+        "question_number": 33
+    },
+    {
+        "question": "The oxygen masks have dropped down from the passengers service units. The oxygen\nflow starts :\n",
+        "answer": "after pulling the oxygen mask downwards\n",
+        "choiceone": "After the system has been switched on by a crew member\n",
+        "choicetwo": "",
+        "choicethree": "only above FL200\n",
+        "file_name": "atg\\atgk atpl (15).pdf",
+        "question_number": 22
+    },
+    {
+        "question": "With QFE 1014 set at A (elevation 480 feet), an aircraft flies to B (QNH 1020) a distance of\n780 NM. In order to have mi ium clearance of 1500 ft over a hill 490 metres above sea\nlevel, 234 NM from A, the altimeter must read:\n\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "3048 ft\n",
+        "file_name": "atg\\atgk atpl (15).pdf",
+        "question_number": 33
+    },
+    {
+        "question": "A gyromagnetic compass consists of:\n\n4 -a horizontal axis gyro\n\n2 -a vertical axis gyro\n\n3 -an earth's magnetic field detector\n\n4 -an erection mechanism to maintain the gyro axis horizontal\n5 -a torque motor to make the gyro precess in azimuth\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "1, 3, 4, 5.\n",
+        "choiceone": "",
+        "choicetwo": "2, 3, 5.\n",
+        "choicethree": "2, 3.\n",
+        "file_name": "atg\\atgk atpl (15).pdf",
+        "question_number": 42
+    },
+    {
+        "question": "The horizontal command bar of a flight director:\n\n1 - repeats the position information given by the ILS in the horizontal plane\n2 - repeats the position information given by the ILS in the vertical plane\n\n3 - gives information about the direction and the amplitude of the corrections to be\napplied on the pitch of the aircraft.\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "2, 3.\n",
+        "choicethree": "1, 3.\n",
+        "file_name": "atg\\atgk atpl (16).pdf",
+        "question_number": 41
+    },
+    {
+        "question": "The horizontal command bar of a flight director:\n\n1 - repeats the position information given by the ILS in the horizontal plane\n2 - repeats the position information given by the ILS in the vertical plane\n\n3 - gives information about the direction and the amplitude of the corrections to be\napplied on the pitch of the aircraft.\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "2, 3.\n",
+        "choicethree": "1, 3.\n",
+        "file_name": "atg\\atgk atpl (17).pdf",
+        "question_number": 8
+    },
+    {
+        "question": "(Refer to Figure 84.) Which altimeter depicts 8,000 feet?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "atg\\atgk atpl (17).pdf",
+        "question_number": 9
+    },
+    {
+        "question": "If an altimeter\naltitude?\n\nicates 3500 feet with QNH 1004.7 hPa set, what is the pressure\n",
+        "answer": "3755 ft\n",
+        "choiceone": "3500 ft\n",
+        "choicetwo": "",
+        "file_name": "atg\\atgk atpl (17).pdf",
+        "question_number": 18
+    },
+    {
+        "question": "An aircraft is flying at FL 290 at an RAS of 310 kt, temperature deviation -6\u00b0C, the LSS\n\n",
+        "answer": "583 kt\n",
+        "choiceone": "",
+        "choicetwo": "596 kt\n",
+        "choicethree": "563 kt\n",
+        "file_name": "atg\\atgk atpl (17).pdf",
+        "question_number": 19
+    },
+    {
+        "question": "For an aircraft flying at Mach 0.82 at FL 350, COAT - 35\u00b0 C, the RAS would be:\n",
+        "answer": "279 kts\n",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "atg\\atgk atpl (17).pdf",
+        "question_number": 22
+    },
+    {
+        "question": "Considering an airspeed indicator, a second striped needle, if installed, indicates:\n",
+        "answer": "",
+        "choiceone": "VNE.\n",
+        "choicetwo": "VNE or VMO, depending on which is the lowest.\n",
+        "choicethree": "VNE or VMO, depending on which is the higher.\n",
+        "file_name": "atg\\atgk atpl (17).pdf",
+        "question_number": 24
+    },
+    {
+        "question": "The position of the command bars of a flight director enables the pilot to know:\n1 - the direction and the amplitude of the corrections to apply on the controls.\n2 - only the direction of the corrections to apply on the controls.\n\n3 - the attitude of the aircraft.\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "1, 3.\n",
+        "choicethree": "2, 3.\n",
+        "file_name": "atg\\atgk atpl (17).pdf",
+        "question_number": 28
+    },
+    {
+        "question": "The vertical command bar of a flight director:\n\n1 - repeats the position information given by the ILS in the horizontal plane\n2 - repeats the position information given by the ILS in the vertical plane\n\n3 - gives information about the direction and the amplitude of the corrections to be\napplied on the bank of the aircraft\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "2, 3.\n",
+        "choicethree": "1, 3.\n",
+        "file_name": "atg\\atgk atpl (17).pdf",
+        "question_number": 35
+    },
+    {
+        "question": "In order to produce an alternating voltage of 400 Hz, the number of poles required in an\nAC generator running at 6000 rpm is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "choicethree": "12\n",
+        "file_name": "atg\\atgk atpl (18).pdf",
+        "question_number": 16
+    },
+    {
+        "question": "Inan\ncontain\n\ncraft which is equipped with a CADC the combined Machiairspeed indicator will\n... capsule(s).\n\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "atg\\atgk atpl (18).pdf",
+        "question_number": 35
+    },
+    {
+        "question": "The flux valve of a gyromagnetic compass:\n1 - feeds the error detector\n\n2 - feeds the direct indicating compass\n\n3 - gives the earth's magnetic field direction\n\nThe combination regrouping all of the correct statements is:\n",
+        "answer": "1, 3.\n",
+        "choiceone": "",
+        "choicetwo": "2, 3.\n",
+        "file_name": "atg\\atgk atpl (18).pdf",
+        "question_number": 42
+    },
+    {
+        "question": "The disadvantages of a float type fuel gauge are:\n\n1- the design is complex\nfluenced by the aircraft attitude variations\nfluenced by the accelerations\n\nfluenced by temperature variations\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "2, 3, 4.\n",
+        "choiceone": "1, 2, 3, 4.\n",
+        "choicetwo": "",
+        "choicethree": "2, 3.\n",
+        "file_name": "atg\\atgk atpl (19).pdf",
+        "question_number": 29
+    },
+    {
+        "question": "The magnetic system of a compass is suspended pendulously to counteract the effect\nof component:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "atg\\atgk atpl (19).pdf",
+        "question_number": 38
+    },
+    {
+        "question": "A turbofan engine with an inlet air mass flow of 300 kg/s and a bypass mass flow of 250\nkgls has a bypass ratio of:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "1.2\n",
+        "choicethree": "2.2\n",
+        "file_name": "atg\\atgk atpl (2).pdf",
+        "question_number": 21
+    },
+    {
+        "question": "Inan\ncontain\n\ncraft which is equipped with a CADC the combined Machiairspeed indicator will\n... capsule(s).\n\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "atg\\atgk atpl (2).pdf",
+        "question_number": 34
+    },
+    {
+        "question": "A gyromagnetic compass consists of:\n\n4 -a horizontal axis gyro\n\n2 -a vertical axis gyro\n\n3 -an earth's magnetic field detector\n\n4 -an erection mechanism to maintain the gyro axis horizontal\n5 -a torque motor to make the gyro precess in azimuth\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "1, 3, 4, 5.\n",
+        "choiceone": "",
+        "choicetwo": "2, 3, 5.\n",
+        "choicethree": "2, 3.\n",
+        "file_name": "atg\\atgk atpl (2).pdf",
+        "question_number": 41
+    },
+    {
+        "question": "The parameters taken into account by the flight\nmode (ALT HOLD) are:\n\nlirector computer in the altitude hold\n\n1 - altitude deviation\n2- engine rpm\n\n3 - ground speed\n4-pitch attitude\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "choicethree": "1, 3.\n",
+        "file_name": "atg\\atgk atpl (2).pdf",
+        "question_number": 42
+    },
+    {
+        "question": "The oxygen masks have dropped down from the passengers service units. The oxygen\nflow starts :\n",
+        "answer": "after pulling the oxygen mask downwards\n",
+        "choiceone": "After the system has been switched on by a crew member\n",
+        "choicetwo": "",
+        "choicethree": "only above FL200\n",
+        "file_name": "atg\\atgk atpl (20).pdf",
+        "question_number": 22
+    },
+    {
+        "question": "(Refer to Figure 82.) Which is an acceptable range of accuracy when performing an\noperational check of dual VOR's using one system against the other?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "atg\\atgk atpl (20).pdf",
+        "question_number": 26
+    },
+    {
+        "question": "The disadvantages of a float type fuel gauge are:\n\n1- the design is complex\nfluenced by the aircraft attitude variations\nfluenced by the accelerations\n\nfluenced by temperature variations\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "2, 3, 4.\n",
+        "choiceone": "1, 2, 3, 4.\n",
+        "choicetwo": "",
+        "choicethree": "2, 3.\n",
+        "file_name": "atg\\atgk atpl (20).pdf",
+        "question_number": 30
+    },
+    {
+        "question": "The flux valve of a gyromagnetic compass:\n1 - feeds the error detector\n\n2 - feeds the direct indicating compass\n\n3 - gives the earth's magnetic field direction\n\nThe combination regrouping all of the correct statements is:\n",
+        "answer": "1, 3.\n",
+        "choiceone": "",
+        "choicetwo": "2, 3.\n",
+        "file_name": "atg\\atgk atpl (20).pdf",
+        "question_number": 41
+    },
+    {
+        "question": "If an engine failure occurs at an altitude above single-engine ceiling, what\nshould be maintained?\n",
+        "answer": "V(YSE).\n",
+        "choiceone": "",
+        "choicetwo": "V(XSE).\n",
+        "file_name": "atg\\atgk atpl (21).pdf",
+        "question_number": 17
+    },
+    {
+        "question": "The oxygen masks have dropped down from the passengers service units. The oxygen\nflow starts :\n",
+        "answer": "after pulling the oxygen mask downwards\n",
+        "choiceone": "After the system has been switched on by a crew member\n",
+        "choicetwo": "",
+        "choicethree": "only above FL200\n",
+        "file_name": "atg\\atgk atpl (21).pdf",
+        "question_number": 23
+    },
+    {
+        "question": "(Refer to Figure 83.) Which altimeter depicts 12,000 feet?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "atg\\atgk atpl (21).pdf",
+        "question_number": 24
+    },
+    {
+        "question": "If the static pressure ports iced over while descen\nindicator would read:\n\n1g from altitude, the airspeed\n",
+        "answer": "",
+        "choiceone": "Low\n",
+        "choicetwo": "Correctly.\n",
+        "file_name": "atg\\atgk atpl (21).pdf",
+        "question_number": 28
+    },
+    {
+        "question": "ni:\nPt= total pressure\n\nPs = static pressure\n\nPso = static pressure at sea level\n\nThe CAS is a function of:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "Pt/Ps\n",
+        "choicethree": "(Pt- Pso)/Ps\n",
+        "file_name": "atg\\atgk atpl (21).pdf",
+        "question_number": 31
+    },
+    {
+        "question": "The horizontal command bar of a flight director:\n\n1 - repeats the position information given by the ILS in the horizontal plane\n2 - repeats the position information given by the ILS in the vertical plane\n\n3 - gives information about the direction and the amplitude of the corrections to be\napplied on the pitch of the aircraft.\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "2, 3.\n",
+        "choicethree": "1, 3.\n",
+        "file_name": "atg\\atgk atpl (21).pdf",
+        "question_number": 43
+    },
+    {
+        "question": "A turbofan engine with a bypass air mass flow of 200 kg/s and a HP compressor mass\nflow of 20 kg/s has a bypass ratio of:\n",
+        "answer": "",
+        "choiceone": "11\n",
+        "choicetwo": "1.1\n",
+        "file_name": "atg\\atgk atpl (22).pdf",
+        "question_number": 19
+    },
+    {
+        "question": "ni:\nPt= total pressure\n\nPs = static pressure\n\nPso = static pressure at sea level\n\nThe CAS is a function of:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "Pt/Ps\n",
+        "choicethree": "(Pt- Pso)/Ps\n",
+        "file_name": "atg\\atgk atpl (22).pdf",
+        "question_number": 33
+    },
+    {
+        "question": "The horizontal command bar of a flight director:\n\n1 - repeats the position information given by the ILS in the horizontal plane\n2 - repeats the position information given by the ILS in the vertical plane\n\n3 - gives information about the direction and the amplitude of the corrections to be\napplied on the pitch of the aircraft.\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "2, 3.\n",
+        "choicethree": "1, 3.\n",
+        "file_name": "atg\\atgk atpl (22).pdf",
+        "question_number": 42
+    },
+    {
+        "question": "(Refer to Figure 83.) Which altimeter depicts 12,000 feet?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "atg\\atgk atpl (23).pdf",
+        "question_number": 30
+    },
+    {
+        "question": "(Refer to Figure 82.) Which is an acceptable range of accuracy when performing an\noperational check of dual VOR's using one system against the other?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "atg\\atgk atpl (24).pdf",
+        "question_number": 30
+    },
+    {
+        "question": "(Refer to Figure 82.) Which is an acceptable range of accuracy when performing an\noperational check of dual VOR's using one system against the other?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "atg\\atgk atpl (25).pdf",
+        "question_number": 28
+    },
+    {
+        "question": "(Refer to Figure 84.) Which altimeter depicts 8,000 feet?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "atg\\atgk atpl (25).pdf",
+        "question_number": 32
+    },
+    {
+        "question": "(Refer to Figure 84.) Which altimeter depicts 8,000 feet?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "atg\\atgk atpl (26).pdf",
+        "question_number": 30
+    },
+    {
+        "question": "(Refer to Figure 84.) Which altimeter depicts 8,000 feet?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "atg\\atgk atpl (27).pdf",
+        "question_number": 27
+    },
+    {
+        "question": "(Refer to Figure 83.) Which altimeter depicts 12,000 feet?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "atg\\atgk atpl (27).pdf",
+        "question_number": 31
+    },
+    {
+        "question": "(Refer to Figure 83.) Which altimeter depicts 12,000 feet?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "atg\\atgk atpl (29).pdf",
+        "question_number": 26
+    },
+    {
+        "question": "(Refer to Figure 82.) Which is an acceptable range of accuracy when performing an\noperational check of dual VOR's using one system against the other?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "atg\\atgk atpl (29).pdf",
+        "question_number": 30
+    },
+    {
+        "question": "A turbofan engine with a bypass air mass flow of 200 kg/s and a HP compressor mass\nflow of 20 kg/s has a bypass ratio of:\n",
+        "answer": "",
+        "choiceone": "11\n",
+        "choicetwo": "1.1\n",
+        "file_name": "atg\\atgk atpl (3).pdf",
+        "question_number": 15
+    },
+    {
+        "question": "If an altimeter\naltitude?\n\nicates 3500 feet with QNH 1004.7 hPa set, what is the pressure\n",
+        "answer": "3755 ft\n",
+        "choiceone": "3500 ft\n",
+        "choicetwo": "",
+        "file_name": "atg\\atgk atpl (3).pdf",
+        "question_number": 32
+    },
+    {
+        "question": "The magnetic system of a compass is suspended pendulously to counteract the effect\nof component:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "atg\\atgk atpl (3).pdf",
+        "question_number": 39
+    },
+    {
+        "question": "The position of the command bars of a flight director enables the pilot to know:\n1 - the direction and the amplitude of the corrections to apply on the controls.\n2 - only the direction of the corrections to apply on the controls.\n\n3 - the attitude of the aircraft.\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "1, 3.\n",
+        "choicethree": "2, 3.\n",
+        "file_name": "atg\\atgk atpl (3).pdf",
+        "question_number": 42
+    },
+    {
+        "question": "In an aircraft air conditioning system the air cannot be treated for:\n",
+        "answer": "",
+        "choiceone": "purity.\n",
+        "choicetwo": "pressure.\n",
+        "choicethree": "temperature.\n",
+        "file_name": "atg\\atgk atpl (30).pdf",
+        "question_number": 19
+    },
+    {
+        "question": "(Refer to Figure 83.) Which altimeter depicts 12,000 feet?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "atg\\atgk atpl (30).pdf",
+        "question_number": 33
+    },
+    {
+        "question": "At constant fuel flow, if engine compressor air is bled off for engine anti-icing or a similar\nsystem, the turbine temperature:\n",
+        "answer": "",
+        "choiceone": "will be unchanged.\n",
+        "choicetwo": "may rise or fall depending on which stage of the compressor is used\n",
+        "choicethree": "will fall.\n",
+        "file_name": "atg\\atgk atpl (31).pdf",
+        "question_number": 14
+    },
+    {
+        "question": "(Refer to Figure 82.) Which is an acceptable range of accuracy when performing an\noperational check of dual VOR's using one system against the other?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "atg\\atgk atpl (31).pdf",
+        "question_number": 30
+    },
+    {
+        "question": "The horizontal command bar of a flight director:\n\n1 - repeats the position information given by the ILS in the horizontal plane\n2 - repeats the position information given by the ILS in the vertical plane\n\n3 - gives information about the direction and the amplitude of the corrections to be\napplied on the pitch of the aircraft.\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "2, 3.\n",
+        "choicethree": "1, 3.\n",
+        "file_name": "atg\\atgk atpl (32).pdf",
+        "question_number": 42
+    },
+    {
+        "question": "(Refer to Figure 83.) Which altimeter depicts 12,000 feet?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "atg\\atgk atpl (34).pdf",
+        "question_number": 30
+    },
+    {
+        "question": "(Refer to Figure 82.) Which is an acceptable range of accuracy when performing an\noperational check of dual VOR's using one system against the other?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "atg\\atgk atpl (34).pdf",
+        "question_number": 34
+    },
+    {
+        "question": "An aeroplane heading 030\u00b0 (C) in the Southern Hemisphere, turns left onto 170\u00b0 (C)\nusing a direct reading magnetic compass. The roll out of the turn should be initiated on\na compass heading off:\n",
+        "answer": "195\n",
+        "choiceone": "",
+        "choicetwo": "170\n",
+        "file_name": "atg\\atgk atpl (4).pdf",
+        "question_number": 38
+    },
+    {
+        "question": "The parameters taken into account by the flight\nmode (ALT HOLD) are:\n\nlirector computer in the altitude hold\n\n1 - altitude deviation\n2- engine rpm\n\n3 - ground speed\n4-pitch attitude\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "choicethree": "1, 3.\n",
+        "file_name": "atg\\atgk atpl (4).pdf",
+        "question_number": 43
+    },
+    {
+        "question": "In order to produce an alternating voltage of 400 Hz, the number of poles required in an\nAC generator running at 6000 rpm is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "choicethree": "12\n",
+        "file_name": "atg\\atgk atpl (5).pdf",
+        "question_number": 15
+    },
+    {
+        "question": "If the static pressure ports iced over while descen\nindicator would read:\n\n1g from altitude, the airspeed\n",
+        "answer": "",
+        "choiceone": "Low\n",
+        "choicetwo": "Correctly.\n",
+        "file_name": "atg\\atgk atpl (5).pdf",
+        "question_number": 30
+    },
+    {
+        "question": "ni:\nPt= total pressure\n\nPs = static pressure\n\nPso = static pressure at sea level\n\nThe CAS is a function of:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "Pt/Ps\n",
+        "choicethree": "(Pt- Pso)/Ps\n",
+        "file_name": "atg\\atgk atpl (5).pdf",
+        "question_number": 32
+    },
+    {
+        "question": "The magnetic system of a compass is suspended pendulously to counteract the effect\nof component:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "atg\\atgk atpl (5).pdf",
+        "question_number": 37
+    },
+    {
+        "question": "The flux valve of a gyromagnetic compass:\n1 - feeds the error detector\n\n2 - feeds the direct indicating compass\n\n3 - gives the earth's magnetic field direction\n\nThe combination regrouping all of the correct statements is:\n",
+        "answer": "1, 3.\n",
+        "choiceone": "",
+        "choicetwo": "2, 3.\n",
+        "file_name": "atg\\atgk atpl (5).pdf",
+        "question_number": 42
+    },
+    {
+        "question": "The position of the command bars of a flight director enables the pilot to know:\n1 - the direction and the amplitude of the corrections to apply on the controls.\n2 - only the direction of the corrections to apply on the controls.\n\n3 - the attitude of the aircraft.\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "1, 3.\n",
+        "choicethree": "2, 3.\n",
+        "file_name": "atg\\atgk atpl (5).pdf",
+        "question_number": 43
+    },
+    {
+        "question": "(Refer to Figure 83.) Which altimeter depicts 12,000 feet?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "atg\\atgk atpl (6).pdf",
+        "question_number": 27
+    },
+    {
+        "question": "The vertical command bar of a flight director:\n\n1 - repeats the position information given by the ILS in the horizontal plane\n2 - repeats the position information given by the ILS in the vertical plane\n\n3 - gives information about the direction and the amplitude of the corrections to be\napplied on the bank of the aircraft\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "2, 3.\n",
+        "choicethree": "1, 3.\n",
+        "file_name": "atg\\atgk atpl (6).pdf",
+        "question_number": 38
+    },
+    {
+        "question": "The position of the command bars of a flight director enables the pilot to know:\n1 - the direction and the amplitude of the corrections to apply on the controls.\n2 - only the direction of the corrections to apply on the controls.\n\n3 - the attitude of the aircraft.\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "1, 3.\n",
+        "choicethree": "2, 3.\n",
+        "file_name": "atg\\atgk atpl (6).pdf",
+        "question_number": 39
+    },
+    {
+        "question": "In an aircraft air conditioning system the air cannot be treated for:\n",
+        "answer": "",
+        "choiceone": "purity.\n",
+        "choicetwo": "pressure.\n",
+        "choicethree": "temperature.\n",
+        "file_name": "atg\\atgk atpl (7).pdf",
+        "question_number": 12
+    },
+    {
+        "question": "While climbing to FL250, the altimeter is set correctly. On descent the altimeter is not set\nto QNH 1037,8 PA. If the aerodrome elevation is 650 FT and the altimeter is functioning\nproperly, after landing the altimeter will indicat\n\n",
+        "answer": "minus 88 FT\n",
+        "choiceone": "",
+        "choicetwo": "1388 FT\n",
+        "file_name": "atg\\atgk atpl (7).pdf",
+        "question_number": 35
+    },
+    {
+        "question": "If the static pressure ports iced over while descen\nindicator would read:\n\n1g from altitude, the airspeed\n",
+        "answer": "",
+        "choiceone": "Low\n",
+        "choicetwo": "Correctly.\n",
+        "file_name": "atg\\atgk atpl (8).pdf",
+        "question_number": 31
+    },
+    {
+        "question": "If an altimeter\naltitude?\n\nicates 3500 feet with QNH 1004.7 hPa set, what is the pressure\n",
+        "answer": "3755 ft\n",
+        "choiceone": "3500 ft\n",
+        "choicetwo": "",
+        "file_name": "atg\\atgk atpl (8).pdf",
+        "question_number": 33
+    },
+    {
+        "question": "ni:\nPt= total pressure\n\nPs = static pressure\n\nPso = static pressure at sea level\n\nThe CAS is a function of:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "Pt/Ps\n",
+        "choicethree": "(Pt- Pso)/Ps\n",
+        "file_name": "atg\\atgk atpl (8).pdf",
+        "question_number": 34
+    },
+    {
+        "question": "The position of the command bars of a flight director enables the pilot to know:\n1 - the direction and the amplitude of the corrections to apply on the controls.\n2 - only the direction of the corrections to apply on the controls.\n\n3 - the attitude of the aircraft.\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "1, 3.\n",
+        "choicethree": "2, 3.\n",
+        "file_name": "atg\\atgk atpl (8).pdf",
+        "question_number": 42
+    },
+    {
+        "question": "In jet transport aircraft, breathing oxygen for the cockpit is stored in the following state:\n",
+        "answer": "gaseous.\n",
+        "choiceone": "",
+        "choicetwo": "",
+        "choicethree": "chemical or gaseous.\n",
+        "file_name": "atg\\atgk atpl (9).pdf",
+        "question_number": 23
+    },
+    {
+        "question": "(Refer to Figure 83.) Which altimeter depicts 12,000 feet?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "atg\\atgk atpl (9).pdf",
+        "question_number": 24
+    },
+    {
+        "question": "(Refer to Figure 84.) Which altimeter depicts 8,000 feet?\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "file_name": "atg\\atgk atpl (9).pdf",
+        "question_number": 30
+    },
+    {
+        "question": "ni:\nPt= total pressure\n\nPs = static pressure\n\nPso = static pressure at sea level\n\nThe CAS is a function of:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "Pt/Ps\n",
+        "choicethree": "(Pt- Pso)/Ps\n",
+        "file_name": "atg\\atgk atpl (9).pdf",
+        "question_number": 37
+    },
+    {
+        "question": "With QFE 1014 set at A (elevation 480 feet), an aircraft flies to B (QNH 1020) a distance of\n780 NM. In order to have mi ium clearance of 1500 ft over a hill 490 metres above sea\nlevel, 234 NM from A, the altimeter must read:\n\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "3048 ft\n",
+        "file_name": "atg\\atgk atpl (9).pdf",
+        "question_number": 38
+    },
+    {
+        "question": "The vertical command bar of a flight director:\n\n1 - repeats the position information given by the ILS in the horizontal plane\n2 - repeats the position information given by the ILS in the vertical plane\n\n3 - gives information about the direction and the amplitude of the corrections to be\napplied on the bank of the aircraft\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "2, 3.\n",
+        "choicethree": "1, 3.\n",
+        "file_name": "atg\\atgk atpl (9).pdf",
+        "question_number": 40
+    },
+    {
+        "question": "The parameters taken into account by the flight\nmode (ALT HOLD) are:\n\nlirector computer in the altitude hold\n\n1 - altitude deviation\n2- engine rpm\n\n3 - ground speed\n4-pitch attitude\n\nThe combination that regroups all of the correct statements is:\n",
+        "answer": "",
+        "choiceone": "",
+        "choicetwo": "",
+        "choicethree": "1, 3.\n",
+        "file_name": "atg\\atgk atpl (9).pdf",
+        "question_number": 41
+    },
+    {
+        "question": "In an aircraft air conditioning system the air cannot be treated for:\n",
+        "answer": "",
+        "choiceone": "purity.\n",
+        "choicetwo": "pressure.\n",
+        "choicethree": "temperature.\n",
+        "file_name": "atg\\atgk.pdf",
+        "question_number": 14
+    }
+]
